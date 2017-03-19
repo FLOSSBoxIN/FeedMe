@@ -1,4 +1,4 @@
-# 3.0 beta
+# 3.0
 ###### 2017-3-19
 - Support podcast (not support `Feedbin`) and TTS. Please read <a href="https://github.com/seazon/FeedMe/blob/master/podcast_tts.md">Podcast & TTS</a> for the detail.
 - Provide reading time.
