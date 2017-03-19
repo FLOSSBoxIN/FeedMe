@@ -1,0 +1,39 @@
+Sync
+<h2>Q:Can I sync portion feeds?</h2>
+<p>A:Yes, you can customize which feeds to sync here: <b>feed list</b> -> <b>Subscription</b>. And you can also customize whether to download the images, whether to download the full text, whether to display image title.</p>
+
+<h2>Q:Why not show the full text/images even if I set up download full text/images?</h2>
+<p>A:Network problems are likely to occur during the synchronization process, resulting in the termination of the synchronization.</p>
+
+<h2>Q:I don't see any news, what's going on?</h2>
+<p>A:It may be a problem, you can try clearing the cache, and then re-sync.</p>
+
+Subscribe
+<h2>Q:Where can I add new subscription?</h2>
+<p>A:You can find a subscrib menu in <b>feed list</b> -> <b>Subscription</b>. And then you can search feed by title or url.</p>
+
+View
+<h2>Q:How can I enable split action bar & side navigation bar?</h2>
+<p>A:You can enable them in <b>Settings</b> -> <b>Control</b>.</p>
+
+<h2>Q:How to see one feed only, not whole category?</h2>
+<p>A:Click arrow icon, it will show all feeds.</p>
+
+Others
+<h2>Q:What does <b>keep unread</b> mean?</h2>
+<p>A:<b>keep unread</b> just keep unread locally, will not be synchronized to the server. If you clear cache, logout or reinstall the application, you will not be able to retrieve records which keep unread. So temporary use keep unread only.</p>
+
+<h2>Q:How to save to Pocket, Evernote, Instapaper, Readability?</h2>
+<p>A:You need enale the service which you want in <b>Settings</b> -> <b>Services</b> first.</p>
+
+<h2>Q:Can I use the volume keys to navigate?</h2>
+<p>A:Yes, you can enable it in <b>Settings</b> -> <b>Control</b>.</p>
+
+<h2>Q:I use right hand for single-hand operation, swipe return and side navigation are inconvenient.</h2>
+<p>A:You can try to disable the handedless in <b>Settings</b> -> <b>Control</b> -> <b>Handedless</b>.</p>
+
+<h2>Q:Will FeedMe consume a lot of traffic?</h2>
+<p>A:By default, all automatic network operations will be carried out under wifi network. You can find the related settings in <b>Settings</b> -> <b>Sync</b> and <b>Settings</b> -> <b>User Interface</b>.</p>
+
+<h2>Q:China Mode</h2>
+<p>A:If enabled, all feeds will be synchronized. This means that you setted some feeds disable sync will still sync.</p>
