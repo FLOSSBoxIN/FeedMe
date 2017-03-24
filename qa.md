@@ -30,7 +30,7 @@ A:You need enale the service which you want in `Settings` -> `Services` first.
 A:Yes, you can enable it in `Settings` -> `Control`.
 
 ### Q:I use right hand for single-hand operation, swipe return and side navigation are inconvenient.
-A:You can try to disable the handedless in `Settings` -> `Control` -> `Handedless`.
+A:You can try to disable `One-Hand Operation` in `Settings` -> `Control`.
 
 ### Q:Will FeedMe consume a lot of traffic?
 A:By default, all automatic network operations will be carried out under wifi network. You can find the related settings in `Settings` -> `Sync` and `Settings` -> `User Interface`.
