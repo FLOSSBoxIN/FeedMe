@@ -6,6 +6,7 @@ This is the documentation of FeedMe.
 
 - <a href="https://github.com/seazon/FeedMe/blob/master/podcast_tts.md">Podcast & TTS</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/filter_zh.md">Filter (Chinese)</a>
+- <a href="https://github.com/seazon/FeedMe/blob/master/customize_menus_zh.md">Customize Menus (Chinese)</a>
 - Feed setting
 - Mobilizer & download
 - Sync
