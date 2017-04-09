@@ -1,3 +1,13 @@
+### 3.0.4
+###### 2017-4-9
+- Add an option `Show Reading Time` in `Interface` setting to show reading time in article page, default is false.
+- Update `Pull to Refresh` option in `Control`, add a new item `Hide read items and sync`.
+- Now long tap on article list item won't work in `Visioin` layout.
+- Now thumbnails load faster, and gif just shows first frame.
+- Play menus add to `Swipe Left(Right) to Right(Left)` options.
+- Auto mark item as read when read article via TTS.
+- Fixed Bazqux sync issue.
+
 ### 3.0.3
 ###### 2017-4-6
 - Add `Eink Improvement` in `Lab`.
