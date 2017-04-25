@@ -1,3 +1,28 @@
+# 3.1
+###### 2017-4-26？
+- [new]Support media button on headset.
+- [new]Support sleep timer(on play screen).
+- [new]Add feed states(`Settings` - `About`), for better understanding of feeds.
+  - Show 2 values of each feed:
+    - Interest value `read + star * 2`: the higher the value, the more articles you see in this feed, the more interested you are.
+    - Read percent `read / ( read + glance )`: the higher the percent, the more you are interested in this feed. The percent >= 90% will be displayed frist.
+  - Click feed to show all 5 value:
+    - fetch: synced articles.
+    - filter: filtered articles.
+    - glance: use `mark previous read` or `mark all read`.
+    - read: read in article page.
+    - star: starred articles.
+  - Filter menu to choose scope(`today`, `this week`, `this month`, `whole`), default is `today`.
+- [new]Support Chrome custom tabs.
+- [optimize]Now you can change TTS, but need restart app.
+- [optimize]修改标记已读的时机：
+  - 之前进入文章页面时就标记为已读，现在是离开文章页面时标记为已读。
+  - 之前文章页侧滑从A文章到B文章，会标记B文章为已读，现在是标记A文章为已读。
+- [optimize]去掉Embedly mobilizer。
+- [optimize]Update Spanish, Dutch, French, German, Korean, Portuguese (Brazil).
+- [fix]修复隐藏广告图片不起作用的问题，并修改提示，说明并不是针对广告，而是所有用户不想看到的缩略图。
+- [fix]修复默认浏览器问题，增加内置选项，现在默认代表使用系统默认值，如果没有设置，就会弹出选择框。
+
 ### 3.0.4
 ###### 2017-4-9
 - Add an option `Show Reading Time` in `Interface` setting to show reading time in article page, default is false.
