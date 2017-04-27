@@ -15,13 +15,13 @@
   - Filter menu to choose scope(`today`, `this week`, `this month`, `whole`), default is `today`.
 - [new]Support Chrome custom tabs.
 - [optimize]Now you can change TTS, but need restart app.
-- [optimize]修改标记已读的时机：
-  - 之前进入文章页面时就标记为已读，现在是离开文章页面时标记为已读。
-  - 之前文章页侧滑从A文章到B文章，会标记B文章为已读，现在是标记A文章为已读。
-- [optimize]去掉Embedly mobilizer。
+- [optimize]Change mark read time:
+  - Before: enter article and mark it read. Now: leave article and mark it read.
+  - Before: swipe A to B and mark B read. Now: swipe A to B and mark A read.
+- [optimize]Remove Embedly mobilizer.
 - [optimize]Update Spanish, Dutch, French, German, Korean, Portuguese (Brazil).
-- [fix]修复隐藏广告图片不起作用的问题，并修改提示，说明并不是针对广告，而是所有用户不想看到的缩略图。
-- [fix]修复默认浏览器问题，增加内置选项，现在默认代表使用系统默认值，如果没有设置，就会弹出选择框。
+- [fix]Fixed hide thumbnail issue.
+- [fix]Fixed default browser issue, add `built-in` option. Now `default` means system default browser. If the system default browser does not set, show select dialog.
 
 ### 3.0.4
 ###### 2017-4-9
