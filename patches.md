@@ -14,6 +14,7 @@
     - star: starred articles.
   - Filter menu to choose scope(`today`, `this week`, `this month`, `whole`), default is `today`.
 - [new]Support Chrome custom tabs.
+- [optimize]Improve layout. Remove `summary` layout. Now when you select `list` layout, you can set show thumbnail/summary or not.
 - [optimize]Now you can change TTS, but need restart app.
 - [optimize]Change mark read time:
   - Before: enter article and mark it read. Now: leave article and mark it read.
