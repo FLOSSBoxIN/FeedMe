@@ -5,8 +5,8 @@
 - [new]Add feed states(`Settings` - `About`), for better understanding of feeds.
   - Show 2 values of each feed:
     - Interest value `read + star * 2`: the higher the value, the more articles you see in this feed, the more interested you are.
-    - Read percent `read / ( read + glance )`: the higher the percent, the more you are interested in this feed. The percent >= 90% will be displayed frist.
-  - Click feed to show all 5 value:
+    - Read percent `read / ( read + glance )`: the higher the percent, the more you are interested in this feed. The percent >= 90% will be displayed frist.
+  - Click feed to show all 5 value:
     - fetch: synced articles.
     - filter: filtered articles.
     - glance: use `mark previous read` or `mark all read`.
