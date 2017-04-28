@@ -1,5 +1,5 @@
 # 3.1
-###### 2017-4-26？
+###### 2017-4-28
 - [new]Support media button on headset.
 - [new]Support sleep timer(on play screen).
 - [new]Add feed states(`Settings` - `About`), for better understanding of feeds.
