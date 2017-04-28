@@ -17,11 +17,11 @@
 - [optimize]Improve layout. Remove `summary` layout. Now when you select `list` layout, you can set show thumbnail/summary or not.
 - [optimize]Now you can change TTS, but need restart app.
 - [optimize]Change mark read time:
-  - Before: enter article and mark it read. Now: leave article and mark it read.
+  - Before: enter article and mark it read. Now: leave article and mark it read.
   - Before: swipe A to B and mark B read. Now: swipe A to B and mark A read.
 - [optimize]Remove Embedly mobilizer.
 - [optimize]Update Spanish, Dutch, French, German, Korean, Portuguese (Brazil).
-- [fix]Fixed hide thumbnail issue.
+- [fix]Fixed hide thumbnail issue. You can add max 32 thumbnails. If continue add, remove the first set thumbnail.
 - [fix]Fixed default browser issue, add `built-in` option. Now `default` means system default browser. If the system default browser does not set, show select dialog.
 
 ### 3.0.4
