@@ -19,6 +19,9 @@ A:You can enable them in `Settings` -> `Control`.
 ### Q:How to see one feed only, not whole category?
 A:Click arrow icon, it will show all feeds.
 
+### Q:Can't find the sort option of article list.
+A:Article list -> view menu(eye icon) on action bar -> order.
+
 # Others
 ### Q:What does `keep unread` mean?
 A:`keep unread` just keep unread locally, will not be synchronized to the server. If you clear cache, logout or reinstall the application, you will not be able to retrieve records which keep unread. So temporary use keep unread only.
