@@ -1,3 +1,11 @@
+### 3.1.1
+###### 2017-5-9?
+- [optimize]Optimize ignored thumbnail list, the same picture won't add to list.
+- [optimize]Back button to exit app will hide the read items.
+- [optimize]Downloading failed pictures due to network timeout will continue to be attempted at the next time.
+- [fix]Fixed Bazqux issue, and improve the authentication expiration prompt of re-login tips.
+- [fix]If enable split action bar, the FAB menu does not show when horizontal screen.
+
 # 3.1
 ###### 2017-4-28
 - [new]Support media button on headset.
