@@ -1,5 +1,5 @@
 ### 3.1.1
-###### 2017-5-9?
+###### 2017-5-9
 - [optimize]Optimize ignored thumbnail list, the same picture won't add to list.
 - [optimize]Back button to exit app will hide the read items.
 - [optimize]Downloading failed pictures due to network timeout will continue to be attempted at the next time.
