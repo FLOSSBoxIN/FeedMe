@@ -7,12 +7,12 @@ FeedMe integrates these two different forms, and you can listen all items like l
 
 FeedMe provides play section into the playlist in the left navigation bar. To simplify the logic, FeedMe has only one playlist.
 
-<img src="https://github.com/seazon/FeedMe/blob/master/tts_2.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_2.png" width="25%" height="25%" />
 
 There is a new layout in article list: podcast. This layout contains a progress button, you can play a item or download the audio file if it is a podcast item.
 
-<img src="https://github.com/seazon/FeedMe/blob/master/tts_8.png" width="25%" height="25%" />
-<img src="https://github.com/seazon/FeedMe/blob/master/tts_9.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_8.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_9.png" width="25%" height="25%" />
 
 # Play control
 There are 4 play menus in article list long-tap dialog:
@@ -23,7 +23,7 @@ There are 4 play menus in article list long-tap dialog:
 
 `Stop tag`: When played a item with `Stop tag`, stop play and clear it.
 
-<img src="https://github.com/seazon/FeedMe/blob/master/tts_1.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_1.png" width="25%" height="25%" />
 
 # Playlist
 - The played item will be automatically removed from playlist, including podcast audio files. So no need to remove item by yourself.
@@ -36,16 +36,16 @@ There are 4 play menus in article list long-tap dialog:
 
 When an item is playing, a notification adds in notification bar. And you can enter playing page via tap it.
 
-<img src="https://github.com/seazon/FeedMe/blob/master/tts_6.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_6.png" width="25%" height="25%" />
 
 # Playing page
 There are 3 pages in playing page. You can find a sross icon in playlist page, that is `Stop tag`.
 
-<img src="https://github.com/seazon/FeedMe/blob/master/tts_3.png" width="25%" height="25%" />
-<img src="https://github.com/seazon/FeedMe/blob/master/tts_4.png" width="25%" height="25%" />
-<img src="https://github.com/seazon/FeedMe/blob/master/tts_5.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_3.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_4.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_5.png" width="25%" height="25%" />
 
 # TTS setting
 There is an `Audio` tab in `Settings`, you can goto TTS setting page from here.
 
-<img src="https://github.com/seazon/FeedMe/blob/master/tts_7.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_7.png" width="25%" height="25%" />

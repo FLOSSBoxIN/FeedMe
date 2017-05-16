@@ -2,23 +2,21 @@ FeedMe is an unofficial Reader client application for Feedly, InoReader, Bazqux,
 
 This is the documentation of FeedMe.
 
-# Topics:
+# 主题:
 
 - <a href="https://github.com/seazon/FeedMe/blob/master/podcast_tts.md">Podcast & TTS</a>
-- <a href="https://github.com/seazon/FeedMe/blob/master/filter_zh.md">Filter (Chinese)</a>
-- <a href="https://github.com/seazon/FeedMe/blob/master/customize_menus_zh.md">Customize Menus (Chinese)</a>
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/filter.md">过滤器</a>
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/customize_menus_zh.md">自定义菜单</a>
 - Feed setting
-- <a href="https://github.com/seazon/FeedMe/blob/master/mobilizer.md">Mobilizer</a>
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/mobilizer.md">Mobilizer</a>
 - Sync
 - FAB & Action Bar
 
 # <a href="https://github.com/seazon/FeedMe/blob/master/qa.md">QA</a>
 
-# Patches:
+# 更新:
 
-- <a href="https://github.com/seazon/FeedMe/blob/master/patches.md">3.x</a>
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/patches.md">3.x</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/patches_2.x.md">2.x</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/patches_1.x.md">1.x</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/patches_0.x.md">0.x</a>
-
-# <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md">中文</a>
