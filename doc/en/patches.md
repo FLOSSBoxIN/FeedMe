@@ -1,3 +1,12 @@
+### 3.1.2
+###### 2017-5-20
+- [optimize]Now single tap to keep unread in article page, not twice. Update the `keep unread` icon.
+- [optimize]Click feed url to copy it in feed setting page.
+- [optimize]Add playback control label for TalkBack.
+- [optimize]Add `Thumbnail` switch in `Lab` setting. (Just for testing)
+- [fix]Fixed can't login Inoreader with Google account.
+- [fix]Fixed article hard to read when enable `Eink Improvement`.
+
 ### 3.1.1
 ###### 2017-5-9
 - [optimize]Optimize ignored thumbnail list, the same picture won't add to list.
