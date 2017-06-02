@@ -39,7 +39,7 @@ When an item is playing, a notification adds in notification bar. And you can en
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_6.png" width="25%" height="25%" />
 
 # Playing page
-There are 3 pages in playing page. You can find a sross icon in playlist page, that is `Stop tag`.
+There are 3 pages in playing page. You can find a cross icon in playlist page, that is `Stop tag`.
 
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_3.png" width="25%" height="25%" />
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_4.png" width="25%" height="25%" />

@@ -1,56 +1,58 @@
-FeedMe now supports TTS and podcast, you can read articles with your ear.
+FeedMe支持TTS和播客，你可以听你喜欢的文章。
 
-- For podcast feed, FeedMe supports manual download for offline reading.
-- For normal feed, FeedMe compliances with the standard Android TTS specification, you can read with your favorite TTS engine, such as Google TTS or Ivona.
+- 对于播客源，FeedMe支持手动下载来离线收听。
+- 对于普通源，FeedMe支持标准Android TTS标准，你可以选择你喜爱的TTS引擎来播放，比如语记。
 
-FeedMe integrates these two different forms, and you can listen all items like listening to music.
+为简化表述，以下播客源的音频和普通源的文章都称为节目。
 
-FeedMe provides play section into the playlist in the left navigation bar. To simplify the logic, FeedMe has only one playlist.
+FeedMe整合了这2种不同形式，你可以像听音乐一样收听所有订阅的节目。
+
+在左侧导航栏提供play栏目进入播放列表。为简化逻辑，feedme全局只有一个播放列表。右侧数字为列表内节目的数量。
 
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_2.png" width="25%" height="25%" />
 
-There is a new layout in article list: podcast. This layout contains a progress button, you can play a item or download the audio file if it is a podcast item.
+为了方便播放，新增`播客`布局。它提供一个带有进度条的播放按钮，你可以用它来播放节目，或者下载播客源的节目。
 
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_8.png" width="25%" height="25%" />
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_9.png" width="25%" height="25%" />
 
-# Play control
-There are 4 play menus in article list long-tap dialog:
-- `Single play` (add to top of playlist, mark with `Stop tag`, and play this item)
-- `Play` (add to playlist and play, if playing now, stop the playing item)
-- `Next play` (add after the playing item)
-- `Add to playlist` (add to last of playlist)
+# 播放控制
+在文章列表页长按节目，提供多种播放菜单：
+- `单个播放` （加入播放列表头，并在此节目上加上`停止标记`，播放此节目）
+- `播放` (加入播放列表，如果当前正在播放，则停止当前播放的，在其前面插入所选节目并播放。如果当前未播放，插入到播放列表播放位置)
+- `下一个播放` (加入播放列表，插入正在播放的节目后面)
+- `添加到播放列表` (加入播放列表，插入到队列最后)
 
-`Stop tag`: When played a item with `Stop tag`, stop play and clear it.
+`停止标记`: 当播放完带有`停止标记`的节目后，就停止播放。播放列表中只有一个`停止标记`，并且播放完带有`停止标记`的节目后会清除`停止标记`。
 
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_1.png" width="25%" height="25%" />
 
-# Playlist
-- The played item will be automatically removed from playlist, including podcast audio files. So no need to remove item by yourself.
-- FeedMe can remember the play position automatically.
-- You can remove item via swipe from right to left.
-- Now FeedMe does not support podcast online playing.
-- Playlist only supports order playback, no single loop, loop, random play.
-- You can reorder playlist via long-tap and drag.
-- It skips the played items when play the playlist.
+# 播放列表
+- 播放完的节目会在一定时间后自动删除音频文件，并从播放列表中移除。所以你不需要手动维护播放列表。如果你喜欢某个节目，将其加星就不会被删除，但这个节目会从播放列表移除。
+- 每个节目都会记录播放位置，再次播放会从上次播放的位置开始。
+- 播放列表中的节目可单条移除，向左滑移除。
+- 第一版不支持在线播放，如果碰到没有下载的节目，则跳过。
+- 播放列表仅支持单次顺序播放，没有单曲循环，循环播放、随机播放。
+- 播放列表可以通过拖拽调节前后次序。
+- 碰到已播放完的节目会自动跳过。
 
-When an item is playing, a notification adds in notification bar. And you can enter playing page via tap it.
+当一个节目播放时，通知栏会显示相应信息。你可以点击它来进入播放界面。
 
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_6.png" width="25%" height="25%" />
 
-# Playing page
-There are 3 pages in playing page. You can find a sross icon in playlist page, that is `Stop tag`.
+# 播放界面
+播放界面有3个子页面。你可以看到在播放列表界面有一个`停止标记`。
 
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_3.png" width="25%" height="25%" />
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_4.png" width="25%" height="25%" />
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_5.png" width="25%" height="25%" />
 
-# TTS setting
-There is an `Audio` tab in `Settings`, you can goto TTS setting page from here.
+# TTS设置
+`设置`中增加了`音频`标签，你可以在此进行相关设置。
 
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_7.png" width="25%" height="25%" />
 
-# Tips
-### Play feed view or web view
-Q: Sometimes feed does not provide full text, and when we switch to web view and play, it still play the feed view text. How can I play the web view text?
-A: You can read <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/mobilizer.md#默认显示">this section</a> to know how it works.
+# 提示
+### 播放feed页面还是web页面
+Q: 有时订阅源没有输出全文，此时如果将页面切换到web页面后播放，它仍会播放feed页面的内容。那么应该如何播放web页面的内容呢？
+A: 你可以阅读<a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/mobilizer.md#默认显示">这个部分</a>。
