@@ -8,8 +8,7 @@
 - `保留`：仅保留满足关键字的文章，其它文章标记为已读
 - `过滤`：仅将满足关键字的文章标记为已读
 
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/filter_2.png" width="25%" height="25%" />
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/filter_3.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/filter_2.png" width="25%" height="25%" /> <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/filter_3.png" width="25%" height="25%" />
 
 当某个源你只关心含有某些关键字的文章时，你可以使用保留方式；当某个源你不关心某些关键字时，你可以使用过滤方式。
 

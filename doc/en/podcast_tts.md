@@ -11,8 +11,7 @@ FeedMe provides play section into the playlist in the left navigation bar. To si
 
 There is a new layout in article list: podcast. This layout contains a progress button, you can play a item or download the audio file if it is a podcast item.
 
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_8.png" width="25%" height="25%" />
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_9.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_8.png" width="25%" height="25%" /> <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_9.png" width="25%" height="25%" />
 
 # Play control
 There are 4 play menus in article list long-tap dialog:
@@ -41,9 +40,7 @@ When an item is playing, a notification adds in notification bar. And you can en
 # Playing page
 There are 3 pages in playing page. You can find a cross icon in playlist page, that is `Stop tag`.
 
-<img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_3.png" width="25%" height="25%" />
-<img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_4.png" width="25%" height="25%" />
-<img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_5.png" width="25%" height="25%" />
+<img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_3.png" width="25%" height="25%" /> <img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_4.png" width="25%" height="25%" /> <img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_5.png" width="25%" height="25%" />
 
 # TTS setting
 There is an `Audio` tab in `Settings`, you can goto TTS setting page from here.
