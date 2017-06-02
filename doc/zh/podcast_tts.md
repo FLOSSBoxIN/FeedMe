@@ -13,8 +13,7 @@ FeedMe整合了这2种不同形式，你可以像听音乐一样收听所有订�
 
 为了方便播放，新增`播客`布局。它提供一个带有进度条的播放按钮，你可以用它来播放节目，或者下载播客源的节目。
 
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_8.png" width="25%" height="25%" />
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_9.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_8.png" width="25%" height="25%" /> <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_9.png" width="25%" height="25%" />
 
 # 播放控制
 在文章列表页长按节目，提供多种播放菜单：
@@ -43,9 +42,7 @@ FeedMe整合了这2种不同形式，你可以像听音乐一样收听所有订�
 # 播放界面
 播放界面有3个子页面。你可以看到在播放列表界面有一个`停止标记`。
 
-<img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_3.png" width="25%" height="25%" />
-<img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_4.png" width="25%" height="25%" />
-<img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_5.png" width="25%" height="25%" />
+<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_3.png" width="25%" height="25%" /> <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_4.png" width="25%" height="25%" /> <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_5.png" width="25%" height="25%" />
 
 # TTS设置
 `设置`中增加了`音频`标签，你可以在此进行相关设置。
