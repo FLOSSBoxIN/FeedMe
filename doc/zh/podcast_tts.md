@@ -53,4 +53,4 @@ There is an `Audio` tab in `Settings`, you can goto TTS setting page from here.
 # Tips
 ### Play feed view or web view
 Q: Sometimes feed does not provide full text, and when we switch to web view and play, it still play the feed view text. How can I play the web view text?
-A: You can read <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/mobilizer.md#default-view">this section</a> to know how it works.
+A: You can read <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/mobilizer.md#默认显示">this section</a> to know how it works.
