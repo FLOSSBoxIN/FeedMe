@@ -49,3 +49,8 @@ There are 3 pages in playing page. You can find a sross icon in playlist page, t
 There is an `Audio` tab in `Settings`, you can goto TTS setting page from here.
 
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_7.png" width="25%" height="25%" />
+
+# Tips
+### Play feed view or web view
+Q: Sometimes feed does not provide full text, and when we switch to web view and play, it still play the feed view text. How can I play the web view text?
+A: You can read <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/mobilizer.md#Switch feed/web view manually">this section</a> to know how it works.

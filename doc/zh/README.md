@@ -8,9 +8,8 @@ This is the documentation of FeedMe.
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/filter.md">过滤器</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/customize_menus.md">自定义菜单</a>
 - Feed setting
-- <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/mobilizer.md">Mobilizer</a>
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/mobilizer.md">Mobilizer和全文下载</a>
 - Sync
-- FAB & Action Bar
 
 # <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/qa.md">QA</a>
 
