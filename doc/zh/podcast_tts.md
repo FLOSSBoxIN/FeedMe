@@ -43,9 +43,9 @@ FeedMe整合了这2种不同形式，你可以像听音乐一样收听所有订�
 # 播放界面
 播放界面有3个子页面。你可以看到在播放列表界面有一个`停止标记`。
 
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_3.png" width="25%" height="25%" />
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_4.png" width="25%" height="25%" />
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_5.png" width="25%" height="25%" />
+<img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_3.png" width="25%" height="25%" />
+<img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_4.png" width="25%" height="25%" />
+<img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_5.png" width="25%" height="25%" />
 
 # TTS设置
 `设置`中增加了`音频`标签，你可以在此进行相关设置。
@@ -54,5 +54,5 @@ FeedMe整合了这2种不同形式，你可以像听音乐一样收听所有订�
 
 # 提示
 ### 播放feed页面还是web页面
-Q: 有时订阅源没有输出全文，此时如果将页面切换到web页面后播放，它仍会播放feed页面的内容。那么应该如何播放web页面的内容呢？
+##### Q: 有时订阅源没有输出全文，此时如果将页面切换到web页面后播放，它仍会播放feed页面的内容。那么应该如何播放web页面的内容呢？
 A: 你可以阅读<a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/mobilizer.md#默认显示">这个部分</a>。

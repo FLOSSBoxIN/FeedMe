@@ -41,9 +41,9 @@ When an item is playing, a notification adds in notification bar. And you can en
 # Playing page
 There are 3 pages in playing page. You can find a cross icon in playlist page, that is `Stop tag`.
 
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_3.png" width="25%" height="25%" />
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_4.png" width="25%" height="25%" />
-<img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_5.png" width="25%" height="25%" />
+<img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_3.png" width="25%" height="25%" />
+<img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_4.png" width="25%" height="25%" />
+<img style="float: left;" src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/tts_5.png" width="25%" height="25%" />
 
 # TTS setting
 There is an `Audio` tab in `Settings`, you can goto TTS setting page from here.
@@ -52,5 +52,5 @@ There is an `Audio` tab in `Settings`, you can goto TTS setting page from here.
 
 # Tips
 ### Play feed view or web view
-Q: Sometimes feed does not provide full text, and when we switch to web view and play, it still play the feed view text. How can I play the web view text?
+##### Q: Sometimes feed does not provide full text, and when we switch to web view and play, it still play the feed view text. How can I play the web view text?
 A: You can read <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/mobilizer.md#default-view">this section</a> to know how it works.
