@@ -1,15 +1,28 @@
-FeedMe is an unofficial Reader client application for Feedly, InoReader, Bazqux, The Older Reader and Feedbin.
+FeedMe是一个RSS阅读器，支持Feedly、InoReader、Bazqux、The Older Reader 和 Feedbin。
 
-This is the documentation of FeedMe.
+这是FeedMe的使用文档。
+
+# 版本:
+3.1.2
+
+# 下载:
+https://play.google.com/store/apps/details?id=com.seazon.feedme
+http://coolapk.com/apk/com.seazon.feedme
+
+# 联系:
+- FeedMe - 设置 - 关于 - 反馈
+- dxdroid@gmail.com
+- https://plus.google.com/u/2/communities/103261667907208024822
+- 酷安
 
 # 主题:
 
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/podcast_tts.md">播客和TTS</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/filter.md">过滤器</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/customize_menus.md">自定义菜单</a>
-- Feed setting
+- 订阅源设置
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/mobilizer.md">Mobilizer和全文下载</a>
-- Sync
+- 同步
 
 # <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/qa.md">QA</a>
 

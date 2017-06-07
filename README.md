@@ -2,10 +2,21 @@ FeedMe is an unofficial Reader client application for Feedly, InoReader, Bazqux,
 
 This is the documentation of FeedMe.
 
+# Version:
+3.1.2
+
+# Download:
+https://play.google.com/store/apps/details?id=com.seazon.feedme
+
+# Contact:
+- FeedMe - Settings - About - Feedback
+- dxdroid@gmail.com
+- https://plus.google.com/u/2/communities/103261667907208024822
+
 # Topics:
 
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/podcast_tts.md">Podcast & TTS</a>
-- <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/filter.md">Filter (Chinese)</a>
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/filter.md">Filter</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/customize_menus.md">Customize Menus (Chinese)</a>
 - Feed setting
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/mobilizer.md">Mobilizer and full text download</a>
