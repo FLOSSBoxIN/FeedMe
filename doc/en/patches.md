@@ -1,3 +1,7 @@
+### 3.1.3
+###### 2017-6-8
+- [fix]Fixed read items back to unread issue.
+
 ### 3.1.2
 ###### 2017-5-20
 - [optimize]Now single tap to keep unread in article page, not twice. Update the `keep unread` icon.
