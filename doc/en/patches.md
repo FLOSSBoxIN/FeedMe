@@ -1,3 +1,18 @@
+# 3.2
+###### 2017-6-12
+- [new]Now you can play the whole list with the new `play list` menu. (this option will clear the play list first, and the max is 100 articles.)
+- [new]Support auto download podcast audio file while syncing. (download 60 minutes at least.)
+- [new]Support playback speed.
+- [new]Support forward/replay, and you can set time in settings.
+- [new]Support play menus in article page.
+- [new]Add `enable audio` option, for disable audio feature for some people who don't need this.
+- [new]Add `Open in browser` option in `Settings` - `Interface`, for open item in browser directly.
+- [optimize]Add `Reset` button in menu edit dialog.
+- [optimize]`Card` layout supports hide summary.
+- [optimize]Optimize play feature and display.
+- [optimize]Add `connection close` option.
+- [fix]Fixed order of starred items issue.
+
 ### 3.1.3
 ###### 2017-6-8
 - [fix]Fixed read items back to unread issue.
