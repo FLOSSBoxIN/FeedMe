@@ -13,7 +13,7 @@ FeedMe是一个RSS阅读器，支持Feedly、InoReader、Bazqux、The Older Read
 - FeedMe - 设置 - 关于 - 反馈
 - dxdroid@gmail.com
 - https://plus.google.com/u/2/communities/103261667907208024822
-- 酷安
+- http://coolapk.com/apk/com.seazon.feedme
 
 ## 主题:
 
