@@ -1,3 +1,9 @@
+### 3.2.1
+###### 2017-6-17
+- [fix]Fixed Feedly login with Google auth error.
+- [fix]Adapt to ultra-wide mobile phone, like S8.
+- [fix]Mark item as read when open it in browser directly.
+
 # 3.2
 ###### 2017-6-12
 - [new]Now you can play the whole list with the new `play list` menu. (this option will clear the play list first, and the max is 100 articles.)
