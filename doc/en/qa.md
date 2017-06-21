@@ -17,7 +17,7 @@ A:You can find a subscrib menu in `feed list` -> `Subscription`. And then you ca
 A:You can enable them in `Settings` -> `Control`.
 
 ### Q:How to see one feed only, not whole category?
-A:Click arrow icon, it will show all feeds.
+A:Tap arrow icon, it will show all feeds.
 
 ### Q:Can't find the sort option of article list.
 A:Article list -> view menu(eye icon) on action bar -> order.

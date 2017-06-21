@@ -60,7 +60,7 @@
 - Fixed authentication expired issue, now a dialog will show to re-authentication.
 
 ###### 2.5.2 2016-8-27
-- Improve audio tag and video tag in article page. Now it displays an icon, click to open audio/video app to play.
+- Improve audio tag and video tag in article page. Now it displays an icon, tap to open audio/video app to play.
 - Update Spanish, Russian.
 - Some improvements.
 - Fixed font load issue.
@@ -76,7 +76,7 @@
 adapter for all activities.
   - update split actionbar mode: show actionbar with menus at bottom for phone or show at side for tablet.
   - update handness option: decide FAB, side actionbar and swipe back at which side: left or right.
-  - long click actionbar title to enter edit mode.
+  - long press actionbar title to enter edit mode.
   - provide back, up and down menu for tablet, you also can use them on phone.
 - Improve actionbar and animation
   - transparent actionbar for android 5.0+.
@@ -133,7 +133,7 @@ adapter for all activities.
 ###### 2.2.7 2016-3-30
 - Support Hungarian, update Spanish, Portuguese (Brazil), French, Russian, Ukrainian, Japanese.
 - User authentication via OAuth 2.0 for InoReader.
-- Support copy to clipboard menu when long tap in article list.
+- Support copy to clipboard menu when long press in article list.
 - Fixed a sync issue of The Older Reader.
 
 ###### 2.2.6 2016-3-24
@@ -174,7 +174,7 @@ adapter for all activities.
 
 # 2.2 2016-2-15
 - Support auto theme change (settings - ui). If using Light or Paper theme, auto change to Dark theme when before 6 am or after 18 pm.
-- Add more actions for double tap in article page.
+- Add more actions for double touch in article page.
 - Tap action bar title to back to top for list and article page.
 - Read and unstarred item title shows a lighter color.
 - Improve setting page.

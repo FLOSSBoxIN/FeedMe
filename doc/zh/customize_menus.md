@@ -3,7 +3,7 @@
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/customize_menus_1.png" width="25%" height="25%" />
 
 ## 进入编辑模式
-长按动作条标题位置可以进入编辑模式。在打开的编辑对话框中，你可以看到4个部分，`悬浮按钮`，`显示`，`隐藏`和`禁用`。通过拖拽右侧的图标你可以为菜单排序，或者移动菜单到你想要的位置。。
+长按动作条标题位置可以进入编辑模式。在打开的编辑对话框中，你可以看到4个部分，`悬浮按钮`，`显示`，`隐藏`和`禁用`。通过拖拽右侧的图标你可以为移动菜单，为它们重新排序。
 
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/customize_menus_2.png" width="25%" height="25%" />
 

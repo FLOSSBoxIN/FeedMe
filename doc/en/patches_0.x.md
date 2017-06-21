@@ -7,7 +7,7 @@
 - Fixed FC when login issue.
 - Fixed Mark Read is too slow sometimes issue.
 - Fixed FC when set side navigation bar.
-- Fixed FC when click up or down on side navigation bar.
+- Fixed FC when tap up or down on side navigation bar.
 
 ###### v0.14.4 13-02-12
 - Fix FC issue when start sync.
@@ -26,7 +26,7 @@
 - Fixed issue: Open the previous or next article.
 - Fixed issue: Switch between portrait and landscape will back to the beginning of the article.
 - Fixed issue: Switch between portrait and landscape also will change article.
-- Fixed issue: Action bar also can click when it is hidden.
+- Fixed issue: Action bar also can tap when it is hidden.
 
 # v0.14 12-11-09
 - Add a network status monitoring. Turn off automatic synchronization when network is not available.
@@ -54,7 +54,7 @@
 
 ###### v0.13.6 12-08-24
 - The new logo design, special thanks to Degede.
-- Add an option whether enable double click to back to article list.
+- Add an option whether enable double touch to back to article list.
 - Add an option to choose the synchronization interval.
 - Update sytle. If your OS version is 3.0 or higher, now it will show the new style.
 - Improve synchronization(Synchronization is not responding).
@@ -87,7 +87,7 @@
 - Fix some bugs.
 
 # v0.13 12-5-11
-<fmc>IMPORTANT: If you have not synchronized items, please synchronize first. And once update successfully, please clear the cache and sync again.
+IMPORTANT: If you have not synchronized items, please synchronize first. And once update successfully, please clear the cache and sync again.
 - Sync manager: Custom feeds you want to sync.
 - Sync unread items which already read on other place.
 - Optimize home page speed.
@@ -100,7 +100,7 @@
 ###### v0.12.5 12-4-27
 - Support Japanese
 - Two sync way:Sync all, Sync read items
-- Double-click to return article list page
+- Double touch to return article list page
 - Fix error back to the first article when return to the article page
 - Fix other bugs
 
@@ -114,7 +114,7 @@
 ###### v0.12.3 12-3-24
 - Now support Twitter
 - Instant state sync(now support for `Mark all as read` and `Mark read until here`).
-- Now when click link in article page, a menu instead of directly opening link in a browser.
+- Now when tap link in article page, a menu instead of directly opening link in a browser.
 - Now send via email will also with images.
 - Fix other bugs.
 
@@ -129,7 +129,7 @@
 
 ###### v0.12.1 12-3-9
 - Add `All items` in Home Page
-- Unread articles add `Keep unread` option when long click in article list pages
+- Unread articles add `Keep unread` option when long press in article list pages
 - Optimize open speed of home page
 - Optimize open speed of article list page
 - Optimize sliding speed of article page
@@ -161,9 +161,9 @@
 
 # v0.10 12-01-26
 - (As the picture download function changes, please clear the cache after upgraded, in order to get a better reading experience.)
-- New picture browser, and support to share with pictures (only supports offline downloadable images, click picture to open)
+- New picture browser, and support to share with pictures (only supports offline downloadable images, tap picture to open)
 - New theme(switch light and dark theme in the setting)
-<fmo>- Optimize the picture to download (same picture in the same subscribe no longer to download)</fmo>
+- Optimize the picture to download (same picture in the same subscribe no longer to download)
 - Optimize UI
 - Fix error
 
@@ -200,7 +200,7 @@
 
 # v0.8 11-12-15
 - Starred item list, Two-way Starred synchronization
-- `Mark read until here` when long click item
+- `Mark read until here` when long press item
 - Optimized synchronization strategy
 - Optimize the item display (horizontal scroll bar no longer appears)
 - Improve the display of html special characters

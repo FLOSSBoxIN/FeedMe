@@ -28,7 +28,7 @@ Note: If the web page is not download yet, it will download it at the first time
 ### 2. Menu `Reload page`
 `Reload page` is in actionbar overflow menu, or on actionbar if you edit it. It always downloads content from web even if you downloaded the web page before. 
 
-### 3. Double tap
+### 3. Double Touch
 You can set the double touch action in `Settings` - `Control` as `Toggle feed/web page` to toggle between feed/web. It's behavior just like tap feed/web link.
 
 ### 4. Auto download web page

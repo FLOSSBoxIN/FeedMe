@@ -26,7 +26,7 @@
 ### 3.1.2
 ###### 2017-5-20
 - [optimize]Now single tap to keep unread in article page, not twice. Update the `keep unread` icon.
-- [optimize]Click feed url to copy it in feed setting page.
+- [optimize]Tap feed url to copy it in feed setting page.
 - [optimize]Add playback control label for TalkBack.
 - [optimize]Add `Thumbnail` switch in `Lab` setting. (Just for testing)
 - [fix]Fixed can't login Inoreader with Google account.
@@ -48,7 +48,7 @@
   - Show 2 values of each feed:
     - Interest value `read + star * 2`: the higher the value, the more articles you see in this feed, the more interested you are.
     - Read percent `read / ( read + glance )`: the higher the percent, the more you are interested in this feed. The percent >= 90% will be displayed frist.
-  - Click feed to show all 5 value:
+  - Tap feed to show all 5 value:
     - fetch: synced articles.
     - filter: filtered articles.
     - glance: use `mark previous read` or `mark all read`.
@@ -70,7 +70,7 @@
 ###### 2017-4-9
 - Add an option `Show Reading Time` in `Interface` setting to show reading time in article page, default is false.
 - Update `Pull to Refresh` option in `Control`, add a new item `Hide read items and sync`.
-- Now long tap on article list item won't work in `Visioin` layout.
+- Now long press on article list item won't work in `Visioin` layout.
 - Now thumbnails load faster, and gif just shows first frame.
 - Play menus add to `Swipe Left(Right) to Right(Left)` options.
 - Auto mark item as read when read article via TTS.
@@ -81,7 +81,7 @@
 - Add `Eink Improvement` in `Lab`.
 - Now you can set specific browser for browser and image browser.
 - Now `24 hours` of `Auto Sync` is a special processing interval option, it will only sync in midnight. Note that if it does not sync in midnight, it will be synchronized when the network is available. And next synchronization time is the next midnight.
-- Thumbnails can be long pressed and marked as AD images, then this picture will no longer be a thumbnail. You can add up to 16 images for the AD image. If you continue to add, the first AD image will no longer be considered an AD image.
+- Thumbnails can be long press and marked as AD images, then this picture will no longer be a thumbnail. You can add up to 16 images for the AD image. If you continue to add, the first AD image will no longer be considered an AD image.
 - Update some icons.
 
 ### 3.0.1

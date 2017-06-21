@@ -95,7 +95,7 @@
 - The new theme for E Ink screen.
 - Optimized global return, now you can disable it in Settings -> Control.
 - Optimized page. (display playback and download if page contains audio, the head space)
-- Provide copy to Clipboard menu when long click link.
+- Provide copy to Clipboard menu when long press link.
 - Adjust nav drawer width, according to the width of your phone.
 - Updated German
 - Fixed last updated time not change in some cases.
@@ -107,7 +107,7 @@
 # 1.6 2014-7-22
 - Bottom actionbar come back.
 - Add a new option `One-Hand Operation`, to configure swipe back feature from left side or right side, also for displaying side navigation bar at left or right.
-- Add a new option `Double Touch`, to configure the behavior when double-click on the article page.
+- Add a new option `Double Touch`, to configure the behavior when double touch on the article page.
 - Support dashclock extension.
 - New simple help page(Settings -> About).
 - Support Polish, update Romanian and French.
@@ -165,7 +165,7 @@
 - Now you can switch display language between system default and English.
 - Optimize left and right margins on article page for some device.
 - Now volume buttons show next/prev page, not next/prev article.
-- Click link in article will open browser directly, long click to show more options.
+- Tap link in article will open browser directly, long press to show more options.
 - Now subscription and sync manager in one page, and you can set sync detail there.
 - Accessibility improvements on article page.
 - Bug fixed: Force close when sync.
@@ -213,8 +213,8 @@
 - Add a option to enable HTTPS.
 
 # v1.3 2013-9-24
-- Support one-click save to Pocket, Instapaper, Readability and Evernote.
-- Now you can switch between feed view, web view and open in browser more easily, There is a view switch bar in the bottom of article page. And you can change web view(mobilizer view) via long click the second button.
+- Support one tap save to Pocket, Instapaper, Readability and Evernote.
+- Now you can switch between feed view, web view and open in browser more easily, There is a view switch bar in the bottom of article page. And you can change web view(mobilizer view) via long press the second button.
 - Use HTTPS connection.
 - Add a option to keep the action bar.
 - Add a option to just sync images.
