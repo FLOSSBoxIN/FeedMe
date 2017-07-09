@@ -8,6 +8,9 @@ A:Network problems are likely to occur during the synchronization process, resul
 ### Q:I don't see any news, what's going on?
 A:It may be a problem, you can try clearing the cache, and then re-sync.
 
+### Q: Difference between `Sync` and `Refresh`.
+A:`Sync` will synchronize all you feeds, and including download images and web pages. But `Refresh` just triger by pull down the article list. So it just synchronize the current category/feed. Of course if the current list is all items, it will synchronize all your feeds. And `Refresh` won't download images and web pages.
+
 # Subscribe
 ### Q:Where can I add new subscription?
 A:You can find a subscrib menu in `feed list` -> `Subscription`. And then you can search feed by title or url.
