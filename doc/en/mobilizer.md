@@ -4,6 +4,7 @@ Some RSS feed article just provides summary, not full text. This reading experie
 In FeedMe, there are two cases where mobilizer is required.
 1. download when sync
 2. downlaod when reading
+
 You can find these 2 settings below (NAV side - Subscription - category/feed):
 
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/mobilizer_1.png" width="25%" height="25%" />
