@@ -1,3 +1,14 @@
+# 3.3
+###### 2017-9-14
+- [new] Support add system share in article page menu, then one-tap to share to your frequently-used app. (enable share in `Setting` - `Integrations`, and then you can find it in article page menus. Now maybe you need reload the menus to show it.)
+- [new] Support custom notifications.
+- [new] Support play video directly in the article page (add `Video Preview` in `Lab`).
+- [optimize] Support horizontal display in play page.
+- [optimize] Audio won't automatically downloaded after audio is disabled.
+- [optimize] Some other small optimization.
+- [fix] Fixed filtering does not filter for certain keyword issues.
+- [fix] Fixed FeedMe Mobilizer issue in some case.
+
 ### 3.2.1
 ###### 2017-6-17
 - [fix]Fixed Feedly login with Google auth error.
