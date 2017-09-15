@@ -1,3 +1,7 @@
+### 3.3.1
+###### 2017-9-15
+- [fix] Fixed Crash issue.
+
 # 3.3
 ###### 2017-9-14
 - [new] Support add system share in article page menu, then one-tap to share to your frequently-used app. (enable share in `Setting` - `Integrations`, and then you can find it in article page menus. Now maybe you need reload the menus to show it.)
