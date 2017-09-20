@@ -1,6 +1,6 @@
 ### 3.3.1
 ###### 2017-9-15
-- [fix] Fixed Crash issue.
+- [fix] Fixed crash issue.
 
 # 3.3
 ###### 2017-9-14
