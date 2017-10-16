@@ -1,3 +1,8 @@
+### 3.3.2
+###### 2017-10-11
+- [optimize] Improve one-tap sharing system share. Now no need to reload the menus.
+- [fix] Fixed DashClock issue.
+
 ### 3.3.1
 ###### 2017-9-15
 - [fix] Fixed crash issue.
