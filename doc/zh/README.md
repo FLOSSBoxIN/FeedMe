@@ -3,7 +3,7 @@ FeedMe是一个RSS阅读器，支持Feedly、InoReader、Bazqux、The Older Read
 这是FeedMe的使用文档。
 
 ## 版本:
-3.3.2
+3.4
 
 ## 下载:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme
