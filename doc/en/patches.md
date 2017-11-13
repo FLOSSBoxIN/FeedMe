@@ -1,3 +1,12 @@
+# 3.4
+###### 2017-11-13
+- [new] Reorganize the `sync` setting. Now you can set all Wi-Fi only options in `Traffic`. The global feed settings in `Advanced`.
+- [optimize] Show RSS service and account in NAV side.
+- [fix] Now svg images can be displayed correctly.
+- [fix] Sensitive scrolling in immersive mode.
+- [fix] The bottom action bar displayed incorrectly in some cases.
+- [fix] The uninstalled share menu can't remove from action bar.
+
 ### 3.3.2
 ###### 2017-10-11
 - [optimize] Improve one-tap sharing system share. Now no need to reload the menus.
