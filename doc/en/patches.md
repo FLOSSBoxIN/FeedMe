@@ -5,7 +5,7 @@
 - [fix] Now svg images can be displayed correctly.
 - [fix] Sensitive scrolling in immersive mode.
 - [fix] The bottom action bar displayed incorrectly in some cases.
-- [fix] The uninstalled share menu can't remove from action bar.
+- [fix] The uninstalled one-tap sharing menu can't remove from action bar.
 
 ### 3.3.2
 ###### 2017-10-11
