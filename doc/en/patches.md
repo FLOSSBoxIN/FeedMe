@@ -1,3 +1,8 @@
+### 3.4.1
+###### 2017-11-16
+- [optimize] Upadte german, spanish, Portuguese (Brazil), Korean, Russian, French, Hungarian.
+- [fix] Fixed article page can't hide action bar when scrolling issue.
+
 # 3.4
 ###### 2017-11-13
 - [new] Reorganize the `sync` setting. Now you can set all Wi-Fi only options in `Traffic`. The global feed settings in `Advanced`.

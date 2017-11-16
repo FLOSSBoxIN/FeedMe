@@ -3,7 +3,7 @@ FeedMe is an unofficial Reader client application for Feedly, InoReader, Bazqux,
 This is the documentation of FeedMe.
 
 ## Version:
-3.4
+3.4.1
 
 ## Download:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme
