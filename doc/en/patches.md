@@ -1,6 +1,10 @@
+### 3.4.2
+###### 2017-11-20
+- [fix] Fixed sync interval can't change issue if language is German.
+
 ### 3.4.1
 ###### 2017-11-16
-- [optimize] Upadte german, spanish, Portuguese (Brazil), Korean, Russian, French, Hungarian.
+- [optimize] Upadte German, Spanish, Portuguese (Brazil), Korean, Russian, French, Hungarian.
 - [fix] Fixed article page can't hide action bar when scrolling issue.
 
 # 3.4
