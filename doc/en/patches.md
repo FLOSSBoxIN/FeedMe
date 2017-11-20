@@ -5,6 +5,7 @@
 ### 3.4.1
 ###### 2017-11-16
 - [optimize] Upadte German, Spanish, Portuguese (Brazil), Korean, Russian, French, Hungarian.
+- [fix] Fixed some traffic settings does not work issue.
 - [fix] Fixed article page can't hide action bar when scrolling issue.
 
 # 3.4
