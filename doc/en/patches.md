@@ -1,3 +1,7 @@
+### 3.4.3
+###### 2017-11-29
+- [fix] Fixed does not download images and web pages when sync in some cases.
+
 ### 3.4.2
 ###### 2017-11-20
 - [fix] Fixed sync interval can't change issue if language is German.
