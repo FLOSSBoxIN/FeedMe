@@ -1,6 +1,6 @@
 # 3.5
 ###### 2017-12-06
-- [new] Support Tiny Tiny RSS.
+- [new] Support Tiny Tiny RSS. IMPORTANT: Go to your TTRSS web site preferences and enable "Enable API access", click "save  configuration" button and then login in FeedMe.
 - [new] Temporary tag: Show all items which title contains keyword in one place. You can create and access it in NAV side, just like a feed. Max temporary tag count: 3.
 - [new] Batch export images: If you subscribe some feed which contains a lot of images, you need to download one by one before. But now you can download all images of one feed/category one-time. The download path is same to single downloading image.Once finished, the unread articles will be marked as read if unread, and read and synced articles will be deleted.
 - [optimize] Now you can hide your RSS account info via tap RSS type label which above your account name.
