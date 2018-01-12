@@ -1,7 +1,18 @@
+### 3.5.1
+###### 2018-1-12
+- [new] Add new `Favorites` notification besides `Sync` and `Play`, for showing the unread info of `temporary tag`. And now you can set `show notification if new items in` in feed setting dialog. If the setted feeds have new items, also will show info in `Favorites` notification.
+- [new] Support Android 8.0 notification channel. You can set different ringtone or other settings in system notification setting.
+- [optimize] Now `temporary tag` show unread item count.
+- [optimize] Star and unread indicator move to left side. Reading time is also affected by the `Settings` - `Interface` - `Showing Reading Time`.
+- [fix] Fixed auto showing `Play` notification in some case.
+- [fix] Fixed crash issue when enable `Eink Improvement`
+- [fix] Fixed issues of Tiny Tiny RSS.
+- [fix] Fixed images do not display even download progress bar gone in article page.
+
 # 3.5
 ###### 2017-12-06
 - [new] Support Tiny Tiny RSS. IMPORTANT: Go to your TTRSS web site preferences and enable "Enable API access", click "save  configuration" button and then login in FeedMe.
-- [new] Temporary tag: Show all items which title contains keyword in one place. You can create and access it in NAV side, just like a feed. Max temporary tag count: 3.
+- [new] `Temporary tag`: Show all items which title contains keyword in one place. You can create and access it in NAV side, just like a feed. Max temporary tag count: 3.
 - [new] Batch export images: If you subscribe some feed which contains a lot of images, you need to download one by one before. But now you can download all images of one feed/category one-time. The download path is same to single downloading image.Once finished, the unread articles will be marked as read if unread, and read and synced articles will be deleted.
 - [optimize] Now you can hide your RSS account info via tap RSS type label which above your account name.
 - [optimize] Now built-in browser is always open built-in browser, not Chrome custom tab or others.
