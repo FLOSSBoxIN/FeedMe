@@ -7,6 +7,7 @@
 ## Translators
 |Language   |Locale   |Update Date    |Persent    |Translator|
 |---        |---      |---            |---        |---|
+|繁体中文   |zh-TW    |09 Jan 2018    |95%        |**matif.tw**, jamesng3141| 
 |Deutsch    |de       |15 Nov 2017    |100%        |**Ingo Laubach**, Florian Edelmann, Jan Fehlauer, Felix Edelmann| 
 |Español    |es       |15 Nov 2017    |100%        |**Francisco Gomez**, Alfredo Heredero| 
 |Português (Brasil) |pt-BR    |14 Nov 2017|99%    |**Diego Apolinario**, **Marcio de Andrade**, edus.nogueira, Geofilho Ferreira Moraes, Marcelo Lipas| 
@@ -15,7 +16,6 @@
 |Français   |fr       |28 Sep 2017    |97%        |**Matth78**, OOlyt, Julien Stephan, Renaud Boyer| 
 |magyar     |hu       |26 Sep 2017    |55%        |**KONTRA**, **Gergely**, szelk| 
 |Nederlands |nl       |10 Apr 2017    |85%        |**Meindert van der Kolk**| 
-|繁体中文   |zh-TW    |25 Jan 2017    |26%        |jamesng3141| 
 |čeština    |cs       |17 Jan 2017    |38%        |Vojta Vilímec| 
 |Română     |ro       |05 Nov 2016    |50%        |Grigore Frisan| 
 |bahasa Indonesia |id       |23 Sep 2016|77%      |**Nochka**| 
