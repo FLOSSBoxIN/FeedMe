@@ -1,3 +1,10 @@
+### 3.5.2
+###### 2018-1-16
+- [optimize] Update Chinese Traditional.
+- [fix] Fixed Tiny Tiny RSS can only fetch 100 unread issue.
+- [fix] Fixed article page can't show images after downloaded.
+- [fix] Fixed pull-down refresh synchronization could not mark server-read articles as read.
+
 ### 3.5.1
 ###### 2018-1-12
 - [new] Add new `Favorites` notification besides `Sync` and `Play`, for showing the unread info of `temporary tag`. And now you can set `show notification if new items in` in feed setting dialog. If the setted feeds have new items, also will show info in `Favorites` notification.
