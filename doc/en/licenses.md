@@ -9,3 +9,4 @@
 ### <a href="https://github.com/tianzhijiexian/CommonAdapter">CommonAdapter</a>
 ### <a href="https://github.com/greenrobot/EventBus/">EventBus</a>
 ### <a href="https://github.com/romandanylyk/PageIndicatorView">PageIndicatorView</a>
+### <a href="https://github.com/alexjlockwood/adp-path-morph-pause-to-pause">material-pause-play-animation</a>
