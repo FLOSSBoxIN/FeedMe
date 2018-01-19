@@ -8,7 +8,7 @@
 
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/mobilizer_1.png" width="25%" height="25%" />
 
-许多用户询问为什么设置了第三方mobilizer，但是文章还是使用FeedMe mobilizer下载的？
+# 为什么设置了第三方mobilizer，但是文章还是使用FeedMe mobilizer下载的？
 因为第三方 Mobilizer 为了保证其服务的可用性，一般都会限制调用频率。如果调用过快或者次数过多，他们就会停止服务。由于 FeedMe 同步时下载频率很高，就可能因此导致第三方 Mobilizer 不可用。所以在同步时，只有自带的 Mobilizer可用。
 
 所以，在`订阅源设置`对话框中的 Mobilizer，只适用于阅读时的下载。见下图。
