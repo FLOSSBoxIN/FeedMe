@@ -18,7 +18,6 @@
 |한국어      |ko      |13 Nov 2017    |99%        |김형록|
 |magyar     |hu       |26 Sep 2017    |55%        |**KONTRA**, **Gergely**, szelk| 
 |Nederlands |nl       |10 Apr 2017    |85%        |**Meindert van der Kolk**| 
-
 |Română     |ro       |05 Nov 2016    |50%        |Grigore Frisan| 
 |bahasa Indonesia |id       |23 Sep 2016|77%      |**Nochka**| 
 |Polski     |pl       |13 Jul 2016    |57%        |Paweł Nowakowski, Przemek Erwiński, Paweł Myrczek| 
