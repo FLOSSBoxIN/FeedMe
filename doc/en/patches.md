@@ -1,3 +1,13 @@
+### 3.5.3
+###### 2018-1-29
+- [optimize] Share link to FeedMe to subscribe. Or copy link to system clipboard, and fill automatically when click `Add subscription` menu.
+- [optimize] Update French, German, Spanish, Russian, Italian, Czech, Portuguese (Brazil).
+- [fix] Fixed auth failed to Feedly via Evernote.
+- [fix] Fixed can't download images in some case.
+- [fix] Fixed duplicate menu issue.
+- [fix] Fixed other issues.
+- [other] Add in-app goods: Cherry.
+
 ### 3.5.2
 ###### 2018-1-16
 - [optimize] Update Chinese Traditional.
