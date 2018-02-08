@@ -1,3 +1,11 @@
+### 3.5.4
+###### 2018-2-8
+- [new] Support FreshRSS, a self-hosted RSS service like Tiny Tiny RSS. Site: https://freshrss.org/.
+- [optimize] Now thumbnails can display even if not downloaded when syncing.
+- [fix] Fixed synchronization stuck issue of Tiny Tiny RSS.
+- [fix] Fixed crash issue when tap subscribe menu.
+- [fix] Fixed other issues.
+
 ### 3.5.3
 ###### 2018-1-29
 - [optimize] Share link to FeedMe to subscribe. Or copy link to system clipboard, and fill automatically when click `Add subscription` menu.
