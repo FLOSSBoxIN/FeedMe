@@ -1,3 +1,28 @@
+### 3.5.5
+###### 2018-2-24
+- [optimize] If there is a notification during audio playback, the playback will not be paused, but the volume will be reduced.
+- [optimize] Download process shows the number of downloaded images.
+- [fix] Fixed for `Json parse error` when Feedly sync.
+- [fix] Fixed synchronization stuck issue of Tiny Tiny RSS when pull to refresh.
+- [fix] Fixed TTS 2 word read into a word problem.
+- [fix] Fixed a problem with untranslated text of list summary.
+- [other] Call sync service via 3rd party app.
+``` java
+Intent intent = new Intent();
+intent.setClassName("com.seazon.feedme", "com.seazon.feedme.service.sync.SyncService");
+intent.putExtra("auto", false);
+intent.putExtra("type", syncTypes);
+activity.startService(intent);
+
+// syncTypes is following (add value to do more than one action):
+public static int SYNC_TO_SERVER = 1;
+public static int SYNC_UNREAD_FROM_SERVER = 2;
+public static int SYNC_STARRED_FROM_SERVER = 4;
+public static int SYNC_DELETE_READ = 16;
+public static int SYNC_DOWNLOAD_IMAGE_AND_WEB_PAGE = 32;
+public static int SYNC_DOWNLOAD_PODCAST = 256;
+```
+
 ### 3.5.4
 ###### 2018-2-8
 - [new] Support FreshRSS, a self-hosted RSS service like Tiny Tiny RSS. Site: https://freshrss.org/.
