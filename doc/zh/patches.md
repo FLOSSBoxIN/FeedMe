@@ -1,3 +1,27 @@
+### 3.5.5
+###### 2018-2-24
+- [优化] 音频播放过程中如果有提示音，不再暂停播放，而是降低音量。
+- [优化] 下载过程显示已下载的图片数。
+- [修复] 修复Feedly同步时返回`Json parse error`的问题。
+- [修复] 修复Tiny Tiny RSS下拉刷新同步卡住的问题。
+- [修复] 修复TTS将2个单词读成一个单词的问题。
+- [修复] 修复列表摘要文字未转码的问题。
+- [其他] 可以外部调用同步服务。
+``` java
+Intent intent = new Intent();
+intent.setClassName("com.seazon.feedme", "com.seazon.feedme.service.sync.SyncService");
+intent.putExtra("auto", false);
+intent.putExtra("type", syncTypes);
+activity.startService(intent);
+
+// syncTypes取值如下（相加表示执行多个动作）：
+public static int SYNC_TO_SERVER = 1;
+public static int SYNC_UNREAD_FROM_SERVER = 2;
+public static int SYNC_STARRED_FROM_SERVER = 4;
+public static int SYNC_DELETE_READ = 16;
+public static int SYNC_DOWNLOAD_IMAGE_AND_WEB_PAGE = 32;
+public static int SYNC_DOWNLOAD_PODCAST = 256;
+```
 
 ### 3.5.4
 ###### 2018-2-8
