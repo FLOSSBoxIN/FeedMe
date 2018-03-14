@@ -1,12 +1,13 @@
 ### 3.5.6
 ###### 2018-3-14
+- [ATTENTION] Due to changes in the multi-account feature, downloaded images will not be visible after updating to the new version. If need, clear the cache and download it again.
 - [optimize] Services(Feedbin, FreshRSS) that do not support feeds/categories synchronization can't modify `Sync Mode` now. `Chinese Mode` is also the same. `Sync Mode` is fixed to `All`.
 - [optimize] Tiny Tiny RSS now support auth_remote.
 - [fix] Fixed too many articles marked as read when enable `Auto mark read`
 - [fix] Fixed FeedMe mobilizer parsing webpage garbled.
 - [fix] Keyword filtering now ignores case.
 - [fix] Fixed other issues.
-- [other] Changes related to multiple account features.
+- [other] Changes related to multi-account feature.
 
 ### 3.5.5
 ###### 2018-2-24
