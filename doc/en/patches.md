@@ -1,3 +1,13 @@
+### 3.5.6
+###### 2018-3-14
+- [optimize] Services(Feedbin, FreshRSS) that do not support feeds/categories synchronization can't modify `Sync Mode` now. `Chinese Mode` is also the same. `Sync Mode` is fixed to `All`.
+- [optimize] Tiny Tiny RSS now support auth_remote.
+- [fix] Fixed too many articles marked as read when enable `Auto mark read`
+- [fix] Fixed FeedMe mobilizer parsing webpage garbled.
+- [fix] Keyword filtering now ignores case.
+- [fix] Fixed other issues.
+- [other] Changes related to multiple account features.
+
 ### 3.5.5
 ###### 2018-2-24
 - [optimize] If there is a notification during audio playback, the playback will not be paused, but the volume will be reduced.

@@ -1,9 +1,16 @@
-FeedMe是一个RSS阅读器，支持Feedly、InoReader、Bazqux、The Older Reader、Feedbin和Tiny Tiny RSS。
+FeedMe是一个RSS阅读器，支持以下RSS服务：
+- Feedly
+- InoReader
+- Bazqux
+- The Older Reader
+- Feedbin
+- Tiny Tiny RSS
+- FreshRSS
 
 这是FeedMe的使用文档。
 
 ## 版本:
-3.5.5
+3.5.6
 
 ## 下载:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme

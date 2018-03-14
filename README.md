@@ -1,9 +1,16 @@
-FeedMe is an unofficial Reader client application for Feedly, InoReader, Bazqux, The Older Reader, Feedbin and Tiny Tiny RSS.
+FeedMe is an reader client application for RSS service:
+- Feedly
+- InoReader
+- Bazqux
+- The Older Reader
+- Feedbin
+- Tiny Tiny RSS
+- FreshRSS
 
 This is the documentation of FeedMe.
 
 ## Version:
-3.5.5
+3.5.6
 
 ## Download:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme
