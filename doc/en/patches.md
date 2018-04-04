@@ -1,3 +1,18 @@
+### 3.5.7
+###### 2018-4-4
+- [new] When the screen width exceeds 640dp, the first screen displays both article list and the sidebar. (Android 7.1+ devices with virtual navigation bar will have display problems when rotating horizontal screen clockwise)
+- [new] Support Bluetooth headset (play and stop).
+- [new] `Image Browser` Add `Disable` option.
+- [optimize] Pull down refresh always synchronizes the current list, not whole. If the current list is `all items`, it is similar to the overall synchronization.
+- [optimize] Optimize the FreshRSS login experience and automatically complete the API address.
+- [optimize] Optimize one-tap sharing to Todoist in article page.
+- [optimize] `Temporary tag` limit raised to 5.
+- [fix] Fixed false navigation position determination on Android 7.1+ devices.
+- [fix] Fixed the problem that login information is not recorded when logging in for the first time (problems arise from 3.5.6).
+- [fix] Fixed `Synchronous Mode` is set to `All`, but with certain feeds disabled, the number of syncs is abnormally wrong.
+- [fix] Fixed the issue where FreshRSS only syncs 100 items (problems arise from 3.5.6).
+- [fix] Fixed issue with using TTS playback exceptions in certain situations.
+
 ### 3.5.6
 ###### 2018-3-14
 - [ATTENTION] Due to changes in the multi-account feature, downloaded images will not be visible after updating to the new version. If need, clear the cache and download it again.
