@@ -1,3 +1,10 @@
+### 3.5.8
+###### 2018-4-12
+- [new] Highlights NAV side item for current list.
+- [new] Play page adds star menu.
+- [fix] Fixed a problem where the title of the article list did not change when switched NAV side item.
+- [fix] Fixed a problem of missing temporary tags.
+
 ### 3.5.7
 ###### 2018-4-4
 - [new] When the screen width exceeds 640dp, the first screen displays both article list and the sidebar. (Android 7.1+ devices with virtual navigation bar will have display problems when rotating horizontal screen clockwise)
