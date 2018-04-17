@@ -10,6 +10,7 @@
 - [new] When the screen width exceeds 640dp, the first screen displays both article list and the sidebar. (Android 7.1+ devices with virtual navigation bar will have display problems when rotating horizontal screen clockwise)
 - [new] Support Bluetooth headset (play and stop).
 - [new] `Image Browser` Add `Disable` option.
+- [new] Feedbin supports self-hosted.
 - [optimize] Pull down refresh always synchronizes the current list, not whole. If the current list is `all items`, it is similar to the overall synchronization.
 - [optimize] Optimize the FreshRSS login experience and automatically complete the API address.
 - [optimize] Optimize one-tap sharing to Todoist in article page.
