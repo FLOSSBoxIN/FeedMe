@@ -10,7 +10,7 @@ FeedMe是一个RSS阅读器，支持以下RSS服务：
 这是FeedMe的使用文档。
 
 ## 版本:
-3.5.7
+3.5.8
 
 ## 下载:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme
