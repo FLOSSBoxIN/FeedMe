@@ -1,3 +1,8 @@
+### 3.5.9
+###### 2018-4-21
+- [ATTENTION] Requests CAMERA and SHORTCUT permission to support new shortcut feature, but not available in this version.
+- [fix] Fixed sync button and item count not show in NAV side on small phone.
+
 ### 3.5.8
 ###### 2018-4-12
 - [new] Highlights NAV side item for current list.
