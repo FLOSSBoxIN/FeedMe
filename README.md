@@ -42,6 +42,6 @@ This is the documentation of FeedMe.
 
 ## <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/licenses.md">Licenses</a>
 
-## <a href="https://github.com/seazon/FeedMe/blob/master/doc/privacy_and_security.md">Privacy and Security</a>
+## <a href="https://github.com/seazon/FeedMe/blob/master/privacy_and_security.md">Privacy and Security</a>
 
 ## <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md">中文</a>

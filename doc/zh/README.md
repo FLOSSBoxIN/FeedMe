@@ -46,7 +46,7 @@ FeedMe是一个RSS阅读器，支持以下RSS服务：
 
 ## <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/licenses.md">许可证</a>
 
-## <a href="https://github.com/seazon/FeedMe/blob/master/doc/privacy_and_security.md">隐私及安全说明</a>
+## <a href="https://github.com/seazon/FeedMe/blob/master/privacy_and_security.md">隐私及安全说明</a>
 
 ## 更新:
 
