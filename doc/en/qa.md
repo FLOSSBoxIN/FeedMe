@@ -1,6 +1,6 @@
 # Sync
 ### Q:Automatic synchronization does not work.
-A:Please try to search "Battery Optimization" in system settings and set feedme as "Unoptimized".
+A:Please try to search "Battery Optimization" in system settings and set FeedMe as "Unoptimized".
 
 ### Q:Can I sync portion feeds?
 A:Yes, you can customize which feeds to sync here: `feed list` -> `Subscription`. And you can also customize whether to download the images, whether to download the full text, whether to display image title.
@@ -12,11 +12,11 @@ A:Network problems are likely to occur during the synchronization process, resul
 A:It may be a problem, you can try clearing the cache, and then re-sync.
 
 ### Q: Difference between `Sync` and `Refresh`.
-A:`Sync` will synchronize all you feeds, and including download images and web pages. But `Refresh` just triger by pull down the article list. So it just synchronize the current category/feed. Of course if the current list is all items, it will synchronize all your feeds. And `Refresh` won't download images and web pages.
+A:`Sync` will synchronize all you feeds, and including download images and web pages. But `Refresh` just trigger by pull down the article list. So it just synchronize the current category/feed. Of course if the current list is all items, it will synchronize all your feeds. And `Refresh` won't download images and web pages.
 
 # Subscribe
 ### Q:Where can I add new subscription?
-A:You can find a subscrib menu in `feed list` -> `Subscription`. And then you can search feed by title or url.
+A:You can find a subscribe menu in `feed list` -> `Subscription`. And then you can search feed by title or url.
 
 # View
 ### Q:How can I enable split action bar & side navigation bar?
@@ -42,7 +42,4 @@ A:Yes, you can enable it in `Settings` -> `Control`.
 A:You can try to disable `One-Hand Operation` in `Settings` -> `Control`.
 
 ### Q:Will FeedMe consume a lot of traffic?
-A:By default, all automatic network operations will be carried out under wifi network. You can find the related settings in `Settings` -> `Sync` and `Settings` -> `User Interface`.
-
-### Q:China Mode
-A:If enabled, all feeds will be synchronized. This means that you setted some feeds disable sync will still sync.
+A:By default, all automatic network operations will be carried out under wifi network. You can find the related settings in `Settings` -> `Sync` -> `Traffic`.
