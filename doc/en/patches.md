@@ -1,3 +1,11 @@
+### 3.6.0
+###### 2018-4-28
+- [new] Only for supporters: Create custom launcher icon in `Setting` - `About`.
+- [optimize] New optioin in `Setting` - `Interface`: Always show the NAV side when the screen is wide enough.
+- [fix] Fixed cache number replacement issue.
+- [fix] Fixed "open url failed" issue.
+- [fix] Fixed other issues.
+
 ### 3.5.9
 ###### 2018-4-21
 - [ATTENTION] Requests CAMERA and SHORTCUT permission to support new shortcut feature, but not available in this version.
