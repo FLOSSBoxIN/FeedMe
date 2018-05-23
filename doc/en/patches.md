@@ -1,4 +1,12 @@
-### 3.6.0
+# 3.7
+###### 2018-5-23
+- [new] Support share to WeChat Moments, enable in `Settings` - `Integrations`.
+- [optimize] New option `Playback Speed` in `Setting` - `Audio`, disable this if TTS not work.
+- [fix] Fixed some devices can't install from Play store.
+- [fix] Fixed missing spaces between words in article page.
+- [fix] Fixed missing subject when sharing email in some cases.
+
+# 3.6
 ###### 2018-4-28
 - [new] Only for supporters: Create custom launcher icon in `Setting` - `About`.
 - [optimize] New optioin in `Setting` - `Interface`: Always show the NAV side when the screen is wide enough.
