@@ -10,7 +10,7 @@ FeedMe is an reader client application for RSS service:
 This is the documentation of FeedMe.
 
 ## Version:
-3.7
+3.7.1
 
 ## Download:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme
