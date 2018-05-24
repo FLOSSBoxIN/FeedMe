@@ -1,3 +1,7 @@
+### 3.7.1
+###### 2018-5-24
+- [fix] Fixed crash issue.
+
 # 3.7
 ###### 2018-5-23
 - [new] Support share to WeChat Moments, enable in `Settings` - `Integrations`.
