@@ -1,3 +1,13 @@
+# 3.8
+###### 2018-6-15
+- [new] Support podcast chapters.
+- [new] Support adaptive icon.
+- [new] `Auto Switch Night Mode` supports custom time.
+- [optimize] Optimize the speed of syncing unread articles.
+- [optimize] Optimize sharing to WeChat Moments, support sharing podcasts.
+- [optimize] Upadte Dutch, Chinese Traditional, Spanish, German, Romanian, Czech, Russian, Portuguese (Brazil), Hungarian.
+- [fix] Fix other issues.
+
 ### 3.7.1
 ###### 2018-5-24
 - [fix] Fixed crash issue.
