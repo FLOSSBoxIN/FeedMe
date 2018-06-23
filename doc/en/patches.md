@@ -1,3 +1,13 @@
+### 3.8.2
+###### 2018-6-23
+- [fix] Fix automatic synchronization does not work issue.
+- [fix] Fix `keep unread` status reset issue.
+- [fix] Fix other issues.
+
+### 3.8.1
+###### 2018-6-21
+- [fix] Fix crash issue and some other issues.
+
 # 3.8
 ###### 2018-6-15
 - [new] Support podcast chapters.
@@ -10,35 +20,35 @@
 
 ### 3.7.1
 ###### 2018-5-24
-- [fix] Fixed crash issue.
+- [fix] Fix crash issue.
 
 # 3.7
 ###### 2018-5-23
 - [new] Support share to WeChat Moments, enable in `Settings` - `Integrations`.
 - [optimize] New option `Playback Speed` in `Setting` - `Audio`, disable this if TTS not work.
-- [fix] Fixed some devices can't install from Play store.
-- [fix] Fixed missing spaces between words in article page.
-- [fix] Fixed missing subject when sharing email in some cases.
+- [fix] Fix some devices can't install from Play store.
+- [fix] Fix missing spaces between words in article page.
+- [fix] Fix missing subject when sharing email in some cases.
 
 # 3.6
 ###### 2018-4-28
 - [new] Only for supporters: Create custom launcher icon in `Setting` - `About`.
 - [optimize] New optioin in `Setting` - `Interface`: Always show the NAV side when the screen is wide enough.
-- [fix] Fixed cache number replacement issue.
-- [fix] Fixed "open url failed" issue.
-- [fix] Fixed other issues.
+- [fix] Fix cache number replacement issue.
+- [fix] Fix "open url failed" issue.
+- [fix] Fix other issues.
 
 ### 3.5.9
 ###### 2018-4-21
 - [ATTENTION] Requests CAMERA and SHORTCUT permission to support new shortcut feature, but not available in this version.
-- [fix] Fixed sync button and item count not show in NAV side on small phone.
+- [fix] Fix sync button and item count not show in NAV side on small phone.
 
 ### 3.5.8
 ###### 2018-4-12
 - [new] Highlights NAV side item for current list.
 - [new] Play page adds star menu.
-- [fix] Fixed a problem where the title of the article list did not change when switched NAV side item.
-- [fix] Fixed a problem of missing temporary tags.
+- [fix] Fix a problem where the title of the article list did not change when switched NAV side item.
+- [fix] Fix a problem of missing temporary tags.
 
 ### 3.5.7
 ###### 2018-4-4
@@ -50,31 +60,31 @@
 - [optimize] Optimize the FreshRSS login experience and automatically complete the API address.
 - [optimize] Optimize one-tap sharing to Todoist in article page.
 - [optimize] `Temporary tag` limit raised to 5.
-- [fix] Fixed false navigation position determination on Android 7.1+ devices.
-- [fix] Fixed the problem that login information is not recorded when logging in for the first time (problems arise from 3.5.6).
-- [fix] Fixed `Synchronous Mode` is set to `All`, but with certain feeds disabled, the number of syncs is abnormally wrong.
-- [fix] Fixed the issue where FreshRSS only syncs 100 items (problems arise from 3.5.6).
-- [fix] Fixed issue with using TTS playback exceptions in certain situations.
+- [fix] Fix false navigation position determination on Android 7.1+ devices.
+- [fix] Fix the problem that login information is not recorded when logging in for the first time (problems arise from 3.5.6).
+- [fix] Fix `Synchronous Mode` is set to `All`, but with certain feeds disabled, the number of syncs is abnormally wrong.
+- [fix] Fix the issue where FreshRSS only syncs 100 items (problems arise from 3.5.6).
+- [fix] Fix issue with using TTS playback exceptions in certain situations.
 
 ### 3.5.6
 ###### 2018-3-14
 - [ATTENTION] Due to changes in the multi-account feature, downloaded images will not be visible after updating to the new version. If need, clear the cache and download it again.
 - [optimize] Services(Feedbin, FreshRSS) that do not support feeds/categories synchronization can't modify `Sync Mode` now. `Chinese Mode` is also the same. `Sync Mode` is fixed to `All`.
 - [optimize] Tiny Tiny RSS now support auth_remote.
-- [fix] Fixed too many articles marked as read when enable `Auto mark read`
-- [fix] Fixed FeedMe mobilizer parsing webpage garbled.
+- [fix] Fix too many articles marked as read when enable `Auto mark read`
+- [fix] Fix FeedMe mobilizer parsing webpage garbled.
 - [fix] Keyword filtering now ignores case.
-- [fix] Fixed other issues.
+- [fix] Fix other issues.
 - [other] Changes related to multi-account feature.
 
 ### 3.5.5
 ###### 2018-2-24
 - [optimize] If there is a notification during audio playback, the playback will not be paused, but the volume will be reduced.
 - [optimize] Download process shows the number of downloaded images.
-- [fix] Fixed for `Json parse error` when Feedly sync.
-- [fix] Fixed synchronization stuck issue of Tiny Tiny RSS when pull to refresh.
-- [fix] Fixed TTS 2 word read into a word problem.
-- [fix] Fixed a problem with untranslated text of list summary.
+- [fix] Fix for `Json parse error` when Feedly sync.
+- [fix] Fix synchronization stuck issue of Tiny Tiny RSS when pull to refresh.
+- [fix] Fix TTS 2 word read into a word problem.
+- [fix] Fix a problem with untranslated text of list summary.
 - [other] Call sync service via 3rd party app.
 ``` java
 Intent intent = new Intent();
@@ -96,26 +106,26 @@ public static int SYNC_DOWNLOAD_PODCAST = 256;
 ###### 2018-2-8
 - [new] Support FreshRSS, a self-hosted RSS service like Tiny Tiny RSS. Site: https://freshrss.org/.
 - [optimize] Now thumbnails can display even if not downloaded when syncing.
-- [fix] Fixed synchronization stuck issue of Tiny Tiny RSS.
-- [fix] Fixed crash issue when tap subscribe menu.
-- [fix] Fixed other issues.
+- [fix] Fix synchronization stuck issue of Tiny Tiny RSS.
+- [fix] Fix crash issue when tap subscribe menu.
+- [fix] Fix other issues.
 
 ### 3.5.3
 ###### 2018-1-29
 - [optimize] Share link to FeedMe to subscribe. Or copy link to system clipboard, and fill automatically when click `Add subscription` menu.
 - [optimize] Update French, German, Spanish, Russian, Italian, Czech, Portuguese (Brazil).
-- [fix] Fixed auth failed to Feedly via Evernote.
-- [fix] Fixed can't download images in some case.
-- [fix] Fixed duplicate menu issue.
-- [fix] Fixed other issues.
+- [fix] Fix auth failed to Feedly via Evernote.
+- [fix] Fix can't download images in some case.
+- [fix] Fix duplicate menu issue.
+- [fix] Fix other issues.
 - [other] Add in-app goods: Cherry.
 
 ### 3.5.2
 ###### 2018-1-16
 - [optimize] Update Chinese Traditional.
-- [fix] Fixed Tiny Tiny RSS can only fetch 100 unread issue.
-- [fix] Fixed article page can't show images after downloaded.
-- [fix] Fixed pull-down refresh synchronization could not mark server-read articles as read.
+- [fix] Fix Tiny Tiny RSS can only fetch 100 unread issue.
+- [fix] Fix article page can't show images after downloaded.
+- [fix] Fix pull-down refresh synchronization could not mark server-read articles as read.
 
 ### 3.5.1
 ###### 2018-1-12
@@ -123,10 +133,10 @@ public static int SYNC_DOWNLOAD_PODCAST = 256;
 - [new] Support Android 8.0 notification channel. You can set different ringtone or other settings in system notification setting.
 - [optimize] Now `temporary tag` show unread item count.
 - [optimize] Star and unread indicator move to left side. Reading time is also affected by the `Settings` - `Interface` - `Showing Reading Time`.
-- [fix] Fixed auto showing `Play` notification in some case.
-- [fix] Fixed crash issue when enable `Eink Improvement`
-- [fix] Fixed issues of Tiny Tiny RSS.
-- [fix] Fixed images do not display even download progress bar gone in article page.
+- [fix] Fix auto showing `Play` notification in some case.
+- [fix] Fix crash issue when enable `Eink Improvement`
+- [fix] Fix issues of Tiny Tiny RSS.
+- [fix] Fix images do not display even download progress bar gone in article page.
 
 # 3.5
 ###### 2017-12-06
@@ -138,17 +148,17 @@ public static int SYNC_DOWNLOAD_PODCAST = 256;
 
 ### 3.4.3
 ###### 2017-11-29
-- [fix] Fixed does not download images and web pages when sync in some cases.
+- [fix] Fix does not download images and web pages when sync in some cases.
 
 ### 3.4.2
 ###### 2017-11-20
-- [fix] Fixed sync interval can't change issue if language is German.
+- [fix] Fix sync interval can't change issue if language is German.
 
 ### 3.4.1
 ###### 2017-11-16
 - [optimize] Upadte German, Spanish, Portuguese (Brazil), Korean, Russian, French, Hungarian.
-- [fix] Fixed some traffic settings does not work issue.
-- [fix] Fixed article page can't hide action bar when scrolling issue.
+- [fix] Fix some traffic settings does not work issue.
+- [fix] Fix article page can't hide action bar when scrolling issue.
 
 # 3.4
 ###### 2017-11-13
@@ -162,11 +172,11 @@ public static int SYNC_DOWNLOAD_PODCAST = 256;
 ### 3.3.2
 ###### 2017-10-11
 - [optimize] Improve one-tap sharing system share. Now no need to reload the menus.
-- [fix] Fixed DashClock issue.
+- [fix] Fix DashClock issue.
 
 ### 3.3.1
 ###### 2017-9-15
-- [fix] Fixed crash issue.
+- [fix] Fix crash issue.
 
 # 3.3
 ###### 2017-9-14
@@ -176,12 +186,12 @@ public static int SYNC_DOWNLOAD_PODCAST = 256;
 - [optimize] Support horizontal display in play page.
 - [optimize] Audio won't automatically downloaded after audio is disabled.
 - [optimize] Some other small optimization.
-- [fix] Fixed filtering does not filter for certain keyword issues.
-- [fix] Fixed FeedMe Mobilizer issue in some case.
+- [fix] Fix filtering does not filter for certain keyword issues.
+- [fix] Fix FeedMe Mobilizer issue in some case.
 
 ### 3.2.1
 ###### 2017-6-17
-- [fix]Fixed Feedly login with Google auth error.
+- [fix]Fix Feedly login with Google auth error.
 - [fix]Adapt to ultra-wide mobile phone, like S8.
 - [fix]Mark item as read when open it in browser directly.
 
@@ -198,11 +208,11 @@ public static int SYNC_DOWNLOAD_PODCAST = 256;
 - [optimize]`Card` layout supports hide summary.
 - [optimize]Optimize play feature and display.
 - [optimize]Add `connection close` option.
-- [fix]Fixed order of starred items issue.
+- [fix]Fix order of starred items issue.
 
 ### 3.1.3
 ###### 2017-6-8
-- [fix]Fixed read items back to unread issue.
+- [fix]Fix read items back to unread issue.
 
 ### 3.1.2
 ###### 2017-5-20
@@ -210,15 +220,15 @@ public static int SYNC_DOWNLOAD_PODCAST = 256;
 - [optimize]Tap feed url to copy it in feed setting page.
 - [optimize]Add playback control label for TalkBack.
 - [optimize]Add `Thumbnail` switch in `Lab` setting. (Just for testing)
-- [fix]Fixed can't login Inoreader with Google account.
-- [fix]Fixed article hard to read when enable `Eink Improvement`.
+- [fix]Fix can't login Inoreader with Google account.
+- [fix]Fix article hard to read when enable `Eink Improvement`.
 
 ### 3.1.1
 ###### 2017-5-9
 - [optimize]Optimize ignored thumbnail list, the same picture won't add to list.
 - [optimize]Back button to exit app will hide the read items.
 - [optimize]Downloading failed pictures due to network timeout will continue to be attempted at the next time.
-- [fix]Fixed Bazqux issue, and improve the authentication expiration prompt of re-login tips.
+- [fix]Fix Bazqux issue, and improve the authentication expiration prompt of re-login tips.
 - [fix]If enable split action bar, the FAB menu does not show when horizontal screen.
 
 # 3.1
@@ -244,8 +254,8 @@ public static int SYNC_DOWNLOAD_PODCAST = 256;
   - Before: swipe A to B and mark B read. Now: swipe A to B and mark A read.
 - [optimize]Remove Embedly mobilizer.
 - [optimize]Update Spanish, Dutch, French, German, Korean, Portuguese (Brazil).
-- [fix]Fixed hide thumbnail issue. You can add max 32 thumbnails. If continue add, remove the first set thumbnail.
-- [fix]Fixed default browser issue, add `built-in` option. Now `default` means system default browser. If the system default browser does not set, show select dialog.
+- [fix]Fix hide thumbnail issue. You can add max 32 thumbnails. If continue add, remove the first set thumbnail.
+- [fix]Fix default browser issue, add `built-in` option. Now `default` means system default browser. If the system default browser does not set, show select dialog.
 
 ### 3.0.4
 ###### 2017-4-9
@@ -255,7 +265,7 @@ public static int SYNC_DOWNLOAD_PODCAST = 256;
 - Now thumbnails load faster, and gif just shows first frame.
 - Play menus add to `Swipe Left(Right) to Right(Left)` options.
 - Auto mark item as read when read article via TTS.
-- Fixed Bazqux sync issue.
+- Fix Bazqux sync issue.
 
 ### 3.0.3
 ###### 2017-4-6
@@ -267,7 +277,7 @@ public static int SYNC_DOWNLOAD_PODCAST = 256;
 
 ### 3.0.1
 ###### 2017-3-20
-- Fixed crash issue.
+- Fix crash issue.
 
 # 3.0
 ###### 2017-3-19
