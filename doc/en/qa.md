@@ -28,6 +28,11 @@ A:Tap arrow icon, it will show all feeds.
 ### Q:Can't find the sort option of article list.
 A:Article list -> view menu(eye icon) on action bar -> order.
 
+### Q:Can't show thumbnails, but if open article and back, thumbnails show, why?
+A:Because InoReader does not support thumbnails for 3rd party app, but Feedly supports. After download images for one article, FeedMe will select one image as thumbnail for InoReader account. So you can't get thumbnail, but once open article, FeedMe downloads all images, and thumbnail can show when back to list.
+ 
+Another tip, if images downloaded when aotu sync, the thumbnail can show without opening article first. 
+
 # Others
 ### Q:What does `keep unread` mean?
 A:`keep unread` just keep unread locally, will not be synchronized to the server. If you clear cache, logout or reinstall the application, you will not be able to retrieve records which keep unread. So temporary use keep unread only.

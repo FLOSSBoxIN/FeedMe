@@ -1,3 +1,12 @@
+### 3.8.3
+###### 2018-7-7
+- [optimize] Mobilizer displays the reason when fetching article fails, and providing `report issue` at bottom.
+- [optimize] Mercury supports display header image.
+- [optimize] Now FeedMe is the same as the official Feedly client, and thumbnails will appear in article page.
+- [fix] Fix invisible issue of `Unsubscribe` and `Filter` in `Feed Management Dialog`.
+- [fix] Fix parsing issue of HTML.
+- [fix] Now the content obtained by Tiny Tiny RSS is sorted by time.
+
 ### 3.8.2
 ###### 2018-6-23
 - [fix] Fix automatic synchronization does not work issue.
