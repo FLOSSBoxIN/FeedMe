@@ -7,7 +7,7 @@ So FeedMe need this permission to achieve this suspending function.
 
 ## External server
 - FeedMe has no server to save your data.
-- FeedMe uses umeng ( http://mobile.umeng.com/analytics ) to collect user data, mainly for collecting crash data.
+- FeedMe uses umeng ( http://mobile.umeng.com/analytics ) to collect user data, mainly for collecting crash data. **Since FeedMe v3.8.4, umeng is disabled by default. You can find the option in Settings - About - Data Collection**
 - FeedMe uses RSS server APIs to get feeds data for you.
 
 ## Q&A
@@ -21,4 +21,4 @@ A: Yes, besides connect to umeng.
 - FeedMe won't use your other information in your storage.
 
 ##### Q:Is any third party library used that tracks?
-A: I have listed the third party libraries ( https://github.com/seazon/FeedMe/blob/master/doc/en/licenses.md ). You can check their documents or source codes.
+A: I have listed the third party libraries ( https://github.com/seazon/FeedMe/blob/master/doc/en/licenses.md ). You can check their documents and source codes.

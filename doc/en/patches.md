@@ -1,3 +1,8 @@
+### 3.8.4
+###### 2018-7-8
+- [new] Add `Data Collection` option in `Settings` - `About `, default is disabled.
+- [fix] Fix image duplication issue of Mercury mobilizer.
+
 ### 3.8.3
 ###### 2018-7-7
 - [optimize] Mobilizer displays the reason when fetching article fails, and providing `report issue` at bottom.
