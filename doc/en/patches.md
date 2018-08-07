@@ -1,3 +1,10 @@
+### 3.8.5
+###### 2018-8-8
+- [new] Support BlackBerry key series quick actions through keyboard. Link: https://plus.google.com/u/1/100365587272890955375/posts/jPjZU6H2dip
+- [optimize] Add a text description to the upper right sidebar and back button to make it easier for people with poor eyesight.
+- [fix] Fixed an issue where FeedMe mobilizer could not parse pure audio pages correctly.
+- [fix] Fixed an issue where images could not be downloaded under WIFI in some cases.
+
 ### 3.8.4
 ###### 2018-7-8
 - [new] Add `Data Collection` option in `Settings` - `About `, default is disabled.
