@@ -1,3 +1,11 @@
+# 3.9
+###### 2018-10-6
+- [new] Feed supports sorting.
+- [optimize] Add sd card path in cache path if SD exists.
+- [optimize] Update media while save picture, then this picture can show in gallery or other image browsers. (Some devices not support)
+- [fix] Tiny Tiny RSS supports attachments.
+- [fix] Fixed InoReader / FreshRSS / The Old Reader / Bazqux tag display issue.
+
 ### 3.8.5
 ###### 2018-8-8
 - [new] Support BlackBerry key series quick actions through keyboard. Link: https://plus.google.com/u/1/100365587272890955375/posts/jPjZU6H2dip
