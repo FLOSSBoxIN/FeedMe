@@ -1,3 +1,11 @@
+### 3.9.1
+###### 2019-3-14
+- [optimize] Remove Umeng analysis.
+- [fix] Feedly, Inoreader now only support HTTPS.
+- [fix] Now sorted alphabetically by default. `Reset order` menu will be added in next version.
+- [fix] Fixed Tiny Tiny RSS can't save image issue.
+- [fix] Fixed unplugging headphones and not stopping playing issue.
+
 # 3.9
 ###### 2018-10-6
 - [new] Feed supports sorting.
