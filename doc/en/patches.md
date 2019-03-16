@@ -1,3 +1,9 @@
+### 3.9.2
+###### 2019-3-16
+- [optimize]Optimize sorting: Provide reset button. Uncategorized feeds can also be sorted.
+- [fix]Fix login and built-in browser issues on Android 9.
+- [fix]Fix crashes when searching and adding subscriptions.
+
 ### 3.9.1
 ###### 2019-3-14
 - [optimize] Remove Umeng analysis.
