@@ -1,3 +1,7 @@
+### 3.9.3
+###### 2019-3-20
+- [fix]Fix crash issue on Android 4.x.
+
 ### 3.9.2
 ###### 2019-3-16
 - [optimize]Optimize sorting: Provide reset button. Uncategorized feeds can also be sorted.
