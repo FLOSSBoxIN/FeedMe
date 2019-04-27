@@ -1,3 +1,10 @@
+### 3.9.4
+###### 2019-4-27
+- [new]Support custom share template, find it in new setting category `Individuation`.
+- [optimize]Article summary text from 144 to 200, to avoid incomplete display.
+- [optimize]Update cs, de, es, it, nl, pl, pt-br, ro, uk, zh-tw.
+- [fix]Fix custom launcher can't add picture error.
+
 ### 3.9.3
 ###### 2019-3-20
 - [fix]Fix crash issue on Android 4.x.

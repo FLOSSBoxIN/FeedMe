@@ -4,24 +4,24 @@
 - 凌光伟
 - 淡空醉花
 
-## Translators (Order by Update Date, last updated: 14 Jun 2018)
+## Translators (Order by Update Date, last updated: 17 Apr 2019)
 |Language   |Locale   |Translator|
 |---        |---      |---|
-|Nederlands |nl       |**Meindert van der Kolk**| 
+|Українська |uk       |**Evgeny Shepelyuk**| 
+|Polski     |pl       |Paweł Nowakowski, Przemek Erwiński, Paweł Myrczek| 
+|Italiano   |it       |Carlo Campinoti| 
 |繁体中文   |zh-TW    |**matif.tw**, jamesng3141| 
-|Español    |es       |**Francisco Gomez**, Alfredo Heredero| 
-|Deutsch    |de       |**Ingo Laubach**, Florian Edelmann, Jan Fehlauer, Felix Edelmann| 
-|Română     |ro       |Grigore Frisan| 
 |čeština    |cs       |Vojta Vilímec| 
-|Pусский    |ru       |**firestarter**, remezn, Юрий Лужинский, Александр| 
 |Português (Brasil) |pt-BR    |**Diego Apolinario**, **Marcio de Andrade**, edus.nogueira, Geofilho Ferreira Moraes, Marcelo Lipas| 
+|Română     |ro       |Grigore Frisan| 
+|Deutsch    |de       |**Ingo Laubach**, Florian Edelmann, Jan Fehlauer, Felix Edelmann| 
+|Nederlands |nl       |**Meindert van der Kolk**| 
+|Español    |es       |**Francisco Gomez**, Alfredo Heredero| 
+|Pусский    |ru       |**firestarter**, remezn, Юрий Лужинский, Александр| 
 |magyar     |hu       |**KONTRA**, **Gergely**, szelk| 
 |Français   |fr       |**Matth78**, OOlyt, Julien Stephan, Renaud Boyer| 
-|Italiano   |it       |Carlo Campinoti| 
 |한국어      |ko      |김형록|
 |bahasa Indonesia |id       |**Nochka**| 
-|Polski     |pl       |Paweł Nowakowski, Przemek Erwiński, Paweł Myrczek| 
-|Українська |uk       |**Evgeny Shepelyuk**| 
 |日本語     |jp       |**naritaka.5309**, Toshiharu Takamatsu| 
 |فارسی      |fa       |Hashem Abadian| 
 
