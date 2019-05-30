@@ -1,3 +1,13 @@
+# 3.10
+###### 2019-5-30
+- [optimize]Optimize automatic synchronization.
+- [optimize]If disable downloading full text and image of all feeds, skip the relevant synchronization process.
+- [optimize]Optimize the article list feed name display, now it will display as much as possible.
+- [fix]Now built-in image browser is the default.
+- [fix]Fixed TTS issue when web page has been downloaded.
+- [fix]Clearing the cache no longer clears the feed sorting data.
+- [fix]Fixed failed to get modified tag name on Feedly.
+
 ### 3.9.4
 ###### 2019-4-27
 - [new]Support custom share template, find it in new setting category `Individuation`.
