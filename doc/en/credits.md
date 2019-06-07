@@ -9,7 +9,7 @@
 |---        |---      |---|
 |Українська |uk       |**Evgeny Shepelyuk**| 
 |Polski     |pl       |Paweł Nowakowski, Przemek Erwiński, Paweł Myrczek| 
-|Italiano   |it       |Carlo Campinoti| 
+|Italiano   |it       |Gabriele Lauricella, Carlo Campinoti| 
 |繁体中文   |zh-TW    |**matif.tw**, jamesng3141| 
 |čeština    |cs       |Vojta Vilímec| 
 |Português (Brasil) |pt-BR    |**Diego Apolinario**, **Marcio de Andrade**, edus.nogueira, Geofilho Ferreira Moraes, Marcelo Lipas| 
