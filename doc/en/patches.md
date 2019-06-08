@@ -1,3 +1,9 @@
+### 3.10.1
+###### 2019-6-8
+- [optimize]TTS supports media button next/previous (single click to replay/forward, double click to next/previous article).
+- [fix]Fixed crash issue on Android 4.x~6.x.
+- [fix]Fixed language setting issue.
+
 # 3.10
 ###### 2019-5-30
 - [optimize]Optimize automatic synchronization.
