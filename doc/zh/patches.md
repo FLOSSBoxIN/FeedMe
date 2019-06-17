@@ -156,7 +156,7 @@
 - [其他] 可以外部调用同步服务。
 ``` java
 Intent intent = new Intent();
-intent.setClassName("com.seazon.feedme", "com.seazon.feedme.service.sync.SyncService");
+intent.setClassName("com.seazon.feedme", "com.seazon.feedme.sync.service.SyncService");
 intent.putExtra("auto", false);
 intent.putExtra("type", syncTypes);
 activity.startService(intent);

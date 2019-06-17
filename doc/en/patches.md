@@ -158,7 +158,7 @@
 - [other] Call sync service via 3rd party app.
 ``` java
 Intent intent = new Intent();
-intent.setClassName("com.seazon.feedme", "com.seazon.feedme.service.sync.SyncService");
+intent.setClassName("com.seazon.feedme", "com.seazon.feedme.sync.service.SyncService");
 intent.putExtra("auto", false);
 intent.putExtra("type", syncTypes);
 activity.startService(intent);
