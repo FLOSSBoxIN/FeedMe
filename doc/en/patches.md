@@ -1,3 +1,9 @@
+### 3.10.2
+###### 2019-7-20
+- [new]Support Fever.
+- [fix]Fix Feedbin sync issue.
+- [fix]Remove Mercury.
+
 ### 3.10.1
 ###### 2019-6-8
 - [optimize]TTS supports media button next/previous (single click to replay/forward, double click to next/previous article).
