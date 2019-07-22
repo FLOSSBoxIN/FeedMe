@@ -1,3 +1,7 @@
+### 3.10.3
+###### 2019-7-22
+- [fix]Fix delay issue when opening articles.
+
 ### 3.10.2
 ###### 2019-7-20
 - [new]Support Fever.
