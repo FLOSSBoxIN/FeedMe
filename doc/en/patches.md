@@ -1,3 +1,7 @@
+### 3.10.4
+###### 2019-8-13
+- [fix]Reduce too much automatic synchronization.
+
 ### 3.10.3
 ###### 2019-7-22
 - [fix]Fix delay issue when opening articles.
