@@ -1,3 +1,7 @@
+### 3.10.5
+###### 2019-8-18
+- [fix]Fix crash issue when using `Card` layout.
+
 ### 3.10.4
 ###### 2019-8-13
 - [fix]Reduce too much automatic synchronization.
