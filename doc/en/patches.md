@@ -1,3 +1,7 @@
+### 3.10.6
+###### 2019-9-4
+- [fix]Fix `Sync on app launch` not work if set `Sync Interval` as `Never`.
+
 ### 3.10.5
 ###### 2019-8-18
 - [fix]Fix crash issue when using `Card` layout.
