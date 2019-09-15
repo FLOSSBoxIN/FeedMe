@@ -1,3 +1,8 @@
+### 3.11
+###### 2019-9-15
+- [optimize]`Write external storage` permission is not enforced when launch app, but request when need.
+- [fix]Fix TTS reading characters incorrectly issue.
+
 ### 3.10.6
 ###### 2019-9-4
 - [fix]Fix `Sync on app launch` not work if set `Sync Interval` as `Never`.
