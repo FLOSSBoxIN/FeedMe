@@ -4,12 +4,13 @@
 - 凌光伟
 - 淡空醉花
 
-## Translators (Order by Update Date, last updated: 17 Apr 2019)
+## Translators (Order by Update Date, last updated: 28 Sep 2019)
 |Language   |Locale   |Translator|
 |---        |---      |---|
+|norsk språk|no       |**Tormod**| 
+|Italiano   |it       |Gabriele Lauricella, Carlo Campinoti| 
 |Українська |uk       |**Evgeny Shepelyuk**| 
 |Polski     |pl       |Paweł Nowakowski, Przemek Erwiński, Paweł Myrczek| 
-|Italiano   |it       |Gabriele Lauricella, Carlo Campinoti| 
 |繁体中文   |zh-TW    |**matif.tw**, jamesng3141| 
 |čeština    |cs       |Vojta Vilímec| 
 |Português (Brasil) |pt-BR    |**Diego Apolinario**, **Marcio de Andrade**, edus.nogueira, Geofilho Ferreira Moraes, Marcelo Lipas| 

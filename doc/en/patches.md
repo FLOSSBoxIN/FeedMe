@@ -1,4 +1,12 @@
-### 3.11
+# 3.12
+###### 2019-9-28
+- [new]Support sharing to WeChat friends.
+- [new]Support Norwegian.
+- [optimize]The article list won't refresh when synchronization is done if you stay on this screen. Instead, a popup will appear at the top.
+- [optimize]Update Italian.
+- [fix]Fix an issue that failed to share to WeChat moment.
+
+# 3.11
 ###### 2019-9-15
 - [optimize]`Write external storage` permission is not enforced when launch app, but request when need.
 - [fix]Fix TTS reading characters incorrectly issue.
