@@ -4,21 +4,21 @@
 - 凌光伟
 - 淡空醉花
 
-## Translators (Order by Update Date, last updated: 28 Sep 2019)
+## Translators (Order by Update Date, last updated: 15 Oct 2019)
 |Language   |Locale   |Translator|
 |---        |---      |---|
-|norsk språk|no       |**Tormod**| 
-|Italiano   |it       |Gabriele Lauricella, Carlo Campinoti| 
-|Українська |uk       |**Evgeny Shepelyuk**| 
-|Polski     |pl       |Paweł Nowakowski, Przemek Erwiński, Paweł Myrczek| 
-|繁体中文   |zh-TW    |**matif.tw**, jamesng3141| 
-|čeština    |cs       |Vojta Vilímec| 
-|Português (Brasil) |pt-BR    |**Diego Apolinario**, **Marcio de Andrade**, edus.nogueira, Geofilho Ferreira Moraes, Marcelo Lipas| 
-|Română     |ro       |Grigore Frisan| 
-|Deutsch    |de       |**Ingo Laubach**, Florian Edelmann, Jan Fehlauer, Felix Edelmann| 
-|Nederlands |nl       |**Meindert van der Kolk**| 
-|Español    |es       |**Francisco Gomez**, Alfredo Heredero| 
-|Pусский    |ru       |**firestarter**, remezn, Юрий Лужинский, Александр| 
+|Español    |es       |**Francisco Gomez**, Alfredo Heredero|
+|Nederlands |nl       |**Meindert van der Kolk**|
+|Deutsch    |de       |**Ingo Laubach**, Florian Edelmann, Jan Fehlauer, Felix Edelmann|
+|Italiano   |it       |Gabriele Lauricella, Carlo Campinoti|
+|norsk språk|no       |**Tormod**|
+|Українська |uk       |**Evgeny Shepelyuk**|
+|Polski     |pl       |Paweł Nowakowski, Przemek Erwiński, Paweł Myrczek|
+|繁体中文   |zh-TW    |**matif.tw**, jamesng3141|
+|čeština    |cs       |Vojta Vilímec|
+|Português (Brasil) |pt-BR    |**Diego Apolinario**, **Marcio de Andrade**, edus.nogueira, Geofilho Ferreira Moraes, Marcelo Lipas|
+|Română     |ro       |Grigore Frisan|
+|Pусский    |ru       |**firestarter**, remezn, Юрий Лужинский, Александр|
 |magyar     |hu       |**KONTRA**, **Gergely**, szelk| 
 |Français   |fr       |**Matth78**, OOlyt, Julien Stephan, Renaud Boyer| 
 |한국어      |ko      |김형록|

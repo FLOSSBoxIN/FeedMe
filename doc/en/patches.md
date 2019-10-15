@@ -1,3 +1,10 @@
+### 3.12.1
+###### 2019-10-15
+- [optimize]The article's image can now be aligned with the article. This setting can be found in the `View` menu of the article screen.
+- [optimize]Optimize 'manual refresh'. Now you can disable it in the 'sync' setting.
+- [optimize]Fever displays a tip in the login dialog.
+- [optimize]Update German，Italian，Dutch，Spanish.
+
 # 3.12
 ###### 2019-9-28
 - [new]Support sharing to WeChat friends.
