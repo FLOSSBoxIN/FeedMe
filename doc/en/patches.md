@@ -1,3 +1,9 @@
+### 3.12.2
+###### 2019-11-19
+- [new]Support Feedbin parser for mobilizer.
+- [fix]Fix backup failed issue.
+- [fix]Fix article date issue of Fever.
+
 ### 3.12.1
 ###### 2019-10-15
 - [optimize]The article's image can now be aligned with the article. This setting can be found in the `View` menu of the article screen.
