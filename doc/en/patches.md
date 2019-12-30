@@ -1,3 +1,11 @@
+### 3.12.3
+###### 2019-12-30
+- [optimize]Support add feed url directly.
+- [optimize]Optimize HTML pre tag style.
+- [optimize]Add `Decode HTML` open in feed settings dialog, for some encoded HTML page. Default is off.
+- [optimize]`Auto sync on Wi-Fi only` in `Traffic` enable now when disable `Auto Sync` but enable `Sync on app launch`.
+- [fix]Fix the problem of new articles not displaying after synchronization.
+
 ### 3.12.2
 ###### 2019-11-19
 - [new]Support Feedbin parser for mobilizer.
