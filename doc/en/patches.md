@@ -1,3 +1,8 @@
+### 3.12.4
+###### 2020-1-3
+- [optimize]`Decode HTML` adds a global default value(in settings - sync - advanced).
+- [fix]Fix sync failed issue.
+
 ### 3.12.3
 ###### 2019-12-30
 - [optimize]Support add feed url directly.
