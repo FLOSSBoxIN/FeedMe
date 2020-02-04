@@ -12,7 +12,7 @@ This is the documentation of FeedMe.
 
 ## Version:
 - release: 3.12.2
-- beta: 3.12.4 (join beta test: https://play.google.com/apps/testing/com.seazon.feedme)
+- beta: 3.13 (join beta test: https://play.google.com/apps/testing/com.seazon.feedme)
 
 ## Download:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme
@@ -28,8 +28,10 @@ This is the documentation of FeedMe.
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/filter.md">Filter</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/customize_menus.md">Customize Menus</a>
 - Feed setting
-- <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/mobilizer.md">Mobilizer and full text download</a>
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/mobilizer.md">Mobilizer and Full Text Download</a>
 - Sync
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/storage_and_cache.md">Storage and Cache</a>
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/block_image.md">Blocking images</a>
 
 ## <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/qa.md">QA</a>
 

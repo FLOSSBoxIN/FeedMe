@@ -1,3 +1,11 @@
+# 3.13
+###### 2020-2-4
+- [优化]兼容 Android 10 的存储机制，具体请查看 <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/storage_and_cache.md">存储及缓存</a>
+- [优化]优化拦截图片功能，具体请查看 <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/block_image.md">拦截图片</a>
+- [优化]修改 `Decode HTML` 默认为开启。
+- [修复]修复文章界面打开图片不一致问题。
+- [其他]最低支持版本提高到 Android 5。
+
 ### 3.12.4
 ###### 2020-1-3
 - [优化]订阅源HTML转码选项添加全局默认值（在设置-同步-高级中）。

@@ -1,3 +1,11 @@
+# 3.13
+###### 2020-2-4
+- [optimize] Compatible with Android 10 storage mechanism, please see <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/storage_and_cache.md"> Storage and cache </a>
+- [optimize] Optimize the function of blocking images, please see <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/block_image.md"> blocking images </a>
+- [optimize] Enable `Decode HTML` by default.
+- [fix] Fix the problem of opening wrong image in the article screen.
+- [other] The minimum supported version is increased to Android 5.
+
 ### 3.12.4
 ###### 2020-1-3
 - [optimize]`Decode HTML` adds a global default value(in settings - sync - advanced).
