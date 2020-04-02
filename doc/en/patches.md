@@ -1,3 +1,13 @@
+# 3.14
+###### 2020-4-2
+- [new]New layout: Twitter.
+  - For short content
+  - Show full text and picture in list
+  - No need to enter article screen
+- [optimize]Optimize the connection of Feedly.
+- [optimize]optimize layout of article screen for tablet.
+- [optimize]Adjust the color of paper and dark themes to improve readability.
+
 # 3.13
 ###### 2020-2-4
 - [optimize] Compatible with Android 10 storage mechanism, please see <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/storage_and_cache.md">Storage and Cache</a>
