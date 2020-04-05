@@ -1,3 +1,10 @@
+### 3.14.1
+###### 2020-4-5
+- [optimize]Update Czech, Italian, Indonesian, German, Hungarian, Polish, Spanish.
+- [optimize]Update next/previous to forward/replay in notification.
+- [fix]Fix scroll issue of article screen.
+- [fix]Fix feed search issue.
+
 # 3.14
 ###### 2020-4-2
 - [new]New layout: Twitter.
