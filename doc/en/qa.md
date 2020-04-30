@@ -2,6 +2,9 @@
 ### Q:Automatic synchronization does not work.
 A:Please try to search "Battery Optimization" in system settings and set FeedMe as "Unoptimized".
 
+### Q:Can I sync read items?
+A:No, FeedMe only sync unread items from RSS service provider.
+
 ### Q:Can I sync portion feeds?
 A:Yes, you can customize which feeds to sync here: `feed list` -> `Subscription`. And you can also customize whether to download the images, whether to download the full text, whether to display image title.
 
