@@ -1,3 +1,12 @@
+# 3.15
+###### 2020-5-5
+- [new]Add explore at sidebar, supports search podcast.
+- [optimize]Inoreader(not OAuth), TheOldReader, Bazqux support modify host in login page.
+- [optimize]Show podcast indicator in article list page.
+- [optimize]Icon adapter with theme color.
+- [optimize]Remember expand status of twitter layout.
+- [other]Allow user certificate.
+
 ### 3.14.1
 ###### 2020-4-5
 - [optimize]Update Czech, Italian, Indonesian, German, Hungarian, Polish, Spanish.
