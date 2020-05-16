@@ -1,3 +1,9 @@
+### 3.15.1
+###### 2020-5-16
+- [optimize]Identify 5G networks.
+- [fix]Fix icon display issue.
+- [fix]Fix other issues.
+
 # 3.15
 ###### 2020-5-5
 - [new]Add explore at sidebar, supports search podcast.
