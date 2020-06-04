@@ -1,3 +1,10 @@
+### 3.15.2
+###### 2020-6-4
+- [optimize]Update Polish，Italian，Norwegian, Spanish, Dutch，German.
+- [fix]Fix the problem that TTS will not continue to play in some cases.
+- [fix]FreshRss supports synchronization by feed/category.
+- [fix]Fix other issues.
+
 ### 3.15.1
 ###### 2020-5-16
 - [optimize]Identify 5G networks.

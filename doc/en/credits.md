@@ -4,18 +4,18 @@
 - 凌光伟
 - 淡空醉花
 
-## Translators (Order by Update Date, last updated: 5 Apr 2020)
+## Translators (Order by Update Date, last updated: 4 Jun 2020)
 |Language   |Locale   |Translator|
 |---        |---      |---|
-|čeština    |cs       |Vojta Vilímec|
-|Italiano   |it       |Gabriele Lauricella, Carlo Campinoti|
-|bahasa Indonesia   |id       |Annisa|
-|Deutsch    |de       |**Ingo Laubach**, Florian Edelmann, Jan Fehlauer, Felix Edelmann|
-|magyar     |hu       |**KONTRA**, **Gergely**, szelk|
 |Polski     |pl       |Paweł Nowakowski, Przemek Erwiński, Paweł Myrczek|
+|Italiano   |it       |Gabriele Lauricella, Carlo Campinoti|
+|norsk språk|no       |**Tormod**|
 |Español    |es       |**Francisco Gomez**, Alfredo Heredero|
 |Nederlands |nl       |**Meindert van der Kolk**|
-|norsk språk|no       |**Tormod**|
+|Deutsch    |de       |**Ingo Laubach**, Florian Edelmann, Jan Fehlauer, Felix Edelmann|
+|čeština    |cs       |Vojta Vilímec|
+|bahasa Indonesia   |id       |Annisa|
+|magyar     |hu       |**KONTRA**, **Gergely**, szelk|
 |Українська |uk       |**Evgeny Shepelyuk**|
 |繁体中文   |zh-TW    |**matif.tw**, jamesng3141|
 |Português (Brasil) |pt-BR    |**Diego Apolinario**, **Marcio de Andrade**, edus.nogueira, Geofilho Ferreira Moraes, Marcelo Lipas|
