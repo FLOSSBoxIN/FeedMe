@@ -16,7 +16,7 @@ This is the documentation of FeedMe.
 
 ## Download:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme
-- <a href="../build/FeedMe.apk">Download 3.15.2</a>
+- <a href="https://github.com/seazon/FeedMe/releases">Download</a>
 
 ## Contact:
 - (Recommendation) https://github.com/seazon/FeedMe/issues
