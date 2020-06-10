@@ -17,7 +17,7 @@ FeedMe是一个RSS阅读器，支持以下RSS服务：
 ## 下载:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme
 - <a href="https://github.com/seazon/FeedMe/releases">下载</a>
-- ~`酷安`app搜索`FeedMe`，下载~ FeedMe在酷安被不可抗力下架了，基本无望重新上线。
+- ~酷安app搜索FeedMe下载~ `FeedMe`在`酷安`由于`不可抗力`被下架了，基本无望重新上线。以后会直接在Github提供下载。欢迎喜欢的小伙伴来Github讨论。
 
 ## 联系:
 - （推荐）https://github.com/seazon/FeedMe/issues
