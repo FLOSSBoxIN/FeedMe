@@ -1,3 +1,25 @@
+# 3.16
+###### 2020-6-21
+- [new]New custom fonts, no longer rely on font packages. Old font package is no longer compatible.
+- [fix]When searching for podcasts and episodes, due to third-party interface restrictions, you cannot directly subscribe, so now open the browser to obtain the subscription url.
+- [fix]https://github.com/seazon/FeedMe/issues/209 
+- [fix]https://github.com/seazon/FeedMe/issues/202
+- [other] Call player command via 3rd party app.
+``` java
+Intent intent = new Intent();
+intent.setAction("com.seazon.feedme.action.STOP_ACTION");
+sendBroadcast(intent);
+
+// actions:
+com.seazon.feedme.action.PLAY_ACTION
+com.seazon.feedme.action.STOP_ACTION
+com.seazon.feedme.action.NEXT_ACTION
+com.seazon.feedme.action.PREVIOUS_ACTION
+com.seazon.feedme.action.FORWARD_ACTION
+com.seazon.feedme.action.REPLAY_ACTION
+com.seazon.feedme.action.STAR_ACTION
+```
+
 ### 3.15.2
 ###### 2020-6-4
 - [optimize]Update Polish，Italian，Norwegian, Spanish, Dutch，German.

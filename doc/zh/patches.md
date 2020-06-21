@@ -1,3 +1,25 @@
+# 3.16
+###### 2020-6-21
+- [新增]新的自定义字体，不再依赖字体包。老的字体包不再兼容。
+- [修复]探索中搜索播客节目和单集时，由于第三方接口限制，不能直接订阅，所以现在会打开浏览器获取订阅地址。
+- [修复]https://github.com/seazon/FeedMe/issues/209 
+- [修复]https://github.com/seazon/FeedMe/issues/202
+- [其他]支持外部控制播放器。
+``` java
+Intent intent = new Intent();
+intent.setAction("com.seazon.feedme.action.STOP_ACTION");
+sendBroadcast(intent);
+
+// actions:
+com.seazon.feedme.action.PLAY_ACTION
+com.seazon.feedme.action.STOP_ACTION
+com.seazon.feedme.action.NEXT_ACTION
+com.seazon.feedme.action.PREVIOUS_ACTION
+com.seazon.feedme.action.FORWARD_ACTION
+com.seazon.feedme.action.REPLAY_ACTION
+com.seazon.feedme.action.STAR_ACTION
+```
+
 ### 3.15.2
 ###### 2020-6-4
 - [修复]修复某些情况下TTS不会继续播放的问题。
