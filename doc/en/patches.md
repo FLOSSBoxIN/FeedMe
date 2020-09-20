@@ -1,10 +1,24 @@
+# 3.17
+###### 2020-9-20
+- [new]Highlighter https://github.com/seazon/FeedMe/blob/master/doc/en/highlighter.md
+- [new]support jump/seek via time in show notes.
+- [optimize]Reduce the space between paragraphs of article page.
+- [optimize]The images in the `New List` layout have more display space.
+- [optimize]Show refresh at bottom if enable `Split Action Bar`.
+- [optimize]Update translation: Japanese, Dutch, German, Spanish.
+- [fix]Fix FeedMe mobilizer failed in some case.
+- [fix]Fix show read time as 1 min. https://github.com/seazon/FeedMe/issues/223
+- [fix]Fix play note screen not show note issue.
+- [others]Remove phone permission.
+- [others]Update IAB and other 3rd party libraries.
+
 # 3.16
 ###### 2020-6-21
 - [new]New custom fonts, no longer rely on font packages. Old font package is no longer compatible.
 - [fix]When searching for podcasts and episodes, due to third-party interface restrictions, you cannot directly subscribe, so now open the browser to obtain the subscription url.
-- [fix]https://github.com/seazon/FeedMe/issues/209 
+- [fix]https://github.com/seazon/FeedMe/issues/209
 - [fix]https://github.com/seazon/FeedMe/issues/202
-- [other] Call player command via 3rd party app.
+- [other]Call player command via 3rd party app.
 ``` java
 Intent intent = new Intent();
 intent.setAction("com.seazon.feedme.action.STOP_ACTION");
