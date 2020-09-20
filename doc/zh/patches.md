@@ -1,4 +1,4 @@
-### 3.17
+# 3.17
 ###### 2020-9-20
 - [新增]荧光标 https://github.com/seazon/FeedMe/blob/master/doc/zh/highlighter.md
 - [新增]支持音频播放界面show notes内时间戳跳转。
