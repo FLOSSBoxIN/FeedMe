@@ -2,6 +2,7 @@
 
 ### 设置荧光标签
 - 侧栏`所有条目`上面新增了`Highlighter`
+
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/highlighter_1.png" width="25%" height="25%" />
 
 - 点击`Highlighter`进入Highlighter界面
@@ -14,11 +15,14 @@
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/highlighter_2.png" width="25%" height="25%" />
 
 - 点击删除按钮删除此标签
+
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/highlighter_3.png" width="25%" height="25%" />
 
 ### 使用荧光标签
 - 返回侧栏后，点击`Highlighter`左侧的箭头展开，可以看到checkbox选中的标签
+
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/highlighter_4.png" width="25%" height="25%" />
 
 - 浏览列表和文章，所有荧光标签都会以相应的颜色高亮显示
+
 <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/highlighter_5.png" width="25%" height="25%" /> <img src="https://github.com/seazon/FeedMe/blob/master/doc/en/imgs/highlighter_6.png" width="25%" height="25%" />
