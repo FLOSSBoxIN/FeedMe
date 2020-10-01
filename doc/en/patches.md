@@ -1,3 +1,9 @@
+### 3.17.1
+###### 2020-10-1
+- [optimize]Add new option in `Setting`-`Interface`-`Highlighter`: Show `Highlighter` in NAV side.
+- [optimize]Highlighter add `case sensitive` option.
+- [fix]Fix crash issue which caused by `Highlighter` feature. https://github.com/seazon/FeedMe/issues/244
+
 # 3.17
 ###### 2020-9-20
 - [new]Highlighter https://github.com/seazon/FeedMe/blob/master/doc/en/highlighter.md

@@ -1,3 +1,9 @@
+### 3.17.1
+###### 2020-10-1
+- [优化]增加`设置`-`界面`-`荧光标`选项：是否在侧栏显示`荧光标`入口。
+- [优化]荧光标设置增加是否区分大小写。
+- [修复]修复`荧光标`引起的崩溃问题。https://github.com/seazon/FeedMe/issues/244
+
 # 3.17
 ###### 2020-9-20
 - [新增]荧光标 https://github.com/seazon/FeedMe/blob/master/doc/zh/highlighter.md
