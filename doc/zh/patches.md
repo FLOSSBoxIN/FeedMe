@@ -193,7 +193,7 @@ com.seazon.feedme.action.STAR_ACTION
 
 ### 3.8.5
 ###### 2018-8-8
-- [新增] 支持黑莓key系列手机进行快捷操作。详见：https://plus.google.com/u/1/100365587272890955375/posts/jPjZU6H2dip
+- [新增] 支持黑莓key系列手机进行快捷操作。详见：https://github.com/seazon/FeedMe/blob/master/doc/zh/shortcut_key.md
 - [优化] 右上角侧栏及返回按钮添加文字描述，方便视力不佳者。
 - [修复] 修复FeedMe mobilizer不能正确解析纯音频页面的错误。
 - [修复] 修复某些情况下在WIFI下图片不能下载的问题。

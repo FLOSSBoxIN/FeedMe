@@ -199,7 +199,7 @@ com.seazon.feedme.action.STAR_ACTION
 
 ### 3.8.5
 ###### 2018-8-8
-- [new] Support BlackBerry key series quick actions through keyboard. Link: https://plus.google.com/u/1/100365587272890955375/posts/jPjZU6H2dip
+- [new] Support BlackBerry key series quick actions through keyboard. Link: https://github.com/seazon/FeedMe/blob/master/doc/en/shortcut_key.md
 - [optimize] Add a text description to the upper right sidebar and back button to make it easier for people with poor eyesight.
 - [fix] Fixed an issue where FeedMe mobilizer could not parse pure audio pages correctly.
 - [fix] Fixed an issue where images could not be downloaded under WIFI in some cases.

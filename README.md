@@ -34,6 +34,7 @@ This is the documentation of FeedMe.
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/storage_and_cache.md">Storage and Cache</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/block_image.md">Blocking Images</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/highlighter.md">Highlighter</a>
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/shortcut_key.md">Shortcut key</a>
 
 ## <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/qa.md">QA</a>
 
