@@ -22,6 +22,9 @@ A:`Sync` will synchronize all you feeds, and including download images and web p
 A:You can find a subscribe menu in `feed list` -> `Subscription`. And then you can search feed by title or url.
 
 # View
+### Q:Why are the articles that I have read gone? And be deleted?
+A:By default, FeedMe will hide articles that have been read. You can switch the display of `unread articles` and `all articles` through the `⭕️` icon in the article list page.
+
 ### Q:How can I enable split action bar & side navigation bar?
 A:You can enable them in `Settings` -> `Control`.
 
