@@ -1,3 +1,8 @@
+### 3.17.2
+###### 2021-1-23
+- [fix]Apply theme for blocking image.
+- [fix]Fix FeedMe mobilizer can't show image in some cases.
+
 ### 3.17.1
 ###### 2020-10-1
 - [optimize]Add new option in `Setting`-`Interface`-`Highlighter`: Show `Highlighter` in NAV side.
