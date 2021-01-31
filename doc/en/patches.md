@@ -1,3 +1,11 @@
+### 3.17.3
+###### 2021-1-31
+- [optimize]Swipe keep unread again can update to read.
+- [fix]Fix TTRSS can't unsubscribe feed issue.
+- [fix]Fix HTML blockquote can't display issue.
+- [fix]Fix time parse issue in show note page.
+- [fix]Fix widget not update count issue.
+
 ### 3.17.2
 ###### 2021-1-23
 - [fix]Apply theme for blocking image.
