@@ -1,3 +1,8 @@
+### 3.17.4
+###### 2021-2-8
+- [fix]Fix TTRSS can't sync issue.
+- [fix]Fix summary display issue.
+
 ### 3.17.3
 ###### 2021-1-31
 - [optimize]Swipe keep unread again can update to read.
