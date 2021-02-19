@@ -12,3 +12,4 @@
 ### <a href="https://github.com/alexjlockwood/adp-path-morph-pause-to-pause">material-pause-play-animation</a>
 ### <a href="https://github.com/liuguangqiang/IPicker">IPicker</a>
 ### <a href="https://github.com/weidongjian/androidWheelView">androidWheelView</a>
+### <a href="https://github.com/rhlff/NestedScrollWebView">NestedScrollWebView</a>
