@@ -30,7 +30,7 @@ This is the documentation of FeedMe.
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/customize_menus.md">Customize Menus</a>
 - Feed setting
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/mobilizer.md">Mobilizer and Full Text Download</a>
-- Sync
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/sync.md">Sync</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/storage_and_cache.md">Storage and Cache</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/block_image.md">Blocking Images</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/highlighter.md">Highlighter</a>
