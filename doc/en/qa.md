@@ -1,6 +1,6 @@
 # Sync
 ### Q:Automatic synchronization does not work.
-A:Please try to search "Battery Optimization" in system settings and set FeedMe as "Unoptimized".<a href="#qmore-tips-about-keep-feedme-alive">More tips</a>
+A:Please try to search "Battery Optimization" in system settings and set FeedMe as "Unoptimized". <a href="#qmore-tips-about-keep-feedme-alive">More tips</a>
 
 ### Q:Can I sync read items?
 A:No, FeedMe only sync unread items from RSS service provider.
@@ -47,7 +47,7 @@ If this can't help you, get more help in this ticket: https://github.com/seazon/
 
 # Others
 ### Q:More tips about keep FeedMe alive.
-A:(https://dontkillmyapp.com/)[https://dontkillmyapp.com/]
+A:[https://dontkillmyapp.com/](https://dontkillmyapp.com/)
 
 ### Q:What does `keep unread` mean?
 A:`keep unread` just keep unread locally, will not be synchronized to the server. If you clear cache, logout or reinstall the application, you will not be able to retrieve records which keep unread. So temporary use keep unread only.
