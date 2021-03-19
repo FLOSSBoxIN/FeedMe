@@ -4,27 +4,28 @@
 - 凌光伟
 - 淡空醉花
 
-## Translators (Order by Update Date, last updated: 28 Aug 2020)
+## Translators (last updated: 21 Feb 2021)
 |Language   |Locale   |Translator|
 |---        |---      |---|
-|Español    |es       |**Francisco Gomez**, Alfredo Heredero|
-|Deutsch    |de       |**Ingo Laubach**, Florian Edelmann, Jan Fehlauer, Felix Edelmann|
-|日本語     |jp       |**naritaka.5309**, Toshiharu Takamatsu| 
-|Nederlands |nl       |**Meindert van der Kolk**|
-|Polski     |pl       |Paweł Nowakowski, Przemek Erwiński, Paweł Myrczek|
-|Italiano   |it       |Gabriele Lauricella, Carlo Campinoti|
-|norsk språk|no       |**Tormod**|
+|عربي      |ar         |faleh-a, osso333|
 |čeština    |cs       |Vojta Vilímec|
-|bahasa Indonesia   |id       |Annisa|
+|Deutsch    |de       |**Ingo Laubach**, Florian Edelmann, Jan Fehlauer, Felix Edelmann|
+|Español    |es       |**Francisco Gomez**, Alfredo Heredero|
+|فارسی      |fa         |Hashem Abadian|
+|Français   |fr       |**Matth78**, OOlyt, Julien Stephan, Renaud Boyer|
 |magyar     |hu       |**KONTRA**, **Gergely**, szelk|
-|Українська |uk       |**Evgeny Shepelyuk**|
-|繁体中文   |zh-TW    |**matif.tw**, jamesng3141|
+|bahasa Indonesia   |id       |Annisa, Nochka|
+|Italiano   |it       |Gabriele Lauricella, Carlo Campinoti|
+|日本語      |jp       |**naritaka.5309**, Toshiharu Takamatsu|
+|한국어       |ko       |김형록|
+|Nederlands |nl       |**Meindert van der Kolk**|
+|norsk språk|no       |**Tormod**|
+|Polski     |pl       |Paweł Nowakowski, Przemek Erwiński, Paweł Myrczek|
 |Português (Brasil) |pt-BR    |**Diego Apolinario**, **Marcio de Andrade**, edus.nogueira, Geofilho Ferreira Moraes, Marcelo Lipas|
 |Română     |ro       |Grigore Frisan|
 |Pусский    |ru       |**firestarter**, remezn, Юрий Лужинский, Александр|
-|Français   |fr       |**Matth78**, OOlyt, Julien Stephan, Renaud Boyer|
-|한국어      |ko      |김형록|
-|bahasa Indonesia |id       |**Nochka**| 
-|فارسی      |fa       |Hashem Abadian| 
+|Slovák     |sk       |foreteller22, kralcak|
+|Українська |uk       |**Evgeny Shepelyuk**|
+|繁体中文    |zh-TW    |**matif.tw**, jamesng3141|
 
 *Now FeedMe uses OneSky to manager translation, if you like FeedMe and want to localized it, please visit <a href="https://oszvg1n.oneskyapp.com/collaboration/project/32907">oneskyapp</a> and join us. If language is not listed, please contact me. Mail : dxdroid@gmail.com*

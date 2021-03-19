@@ -1,3 +1,16 @@
+# 3.18.0
+###### 2021-3-19
+- [optimize]Improve load favicon logic and support reload favicon and move the `unsubscribe` button place in feed manager dialog. https://github.com/seazon/FeedMe/issues/286
+- [optimize]`Open in browser` can apply to category or feed.
+- [optimize]`Show image alt` apply to global
+- [optimize]New Language: Slovak, Arabic, improve R2L layout. Update Japanese, German, Spanish, Italian, Dutch, Ukrainian.
+- [optimize]Built-in browser support dark mode which require `Android System WebView` as WebView implementation. Improve the top and bottom padding issue.
+- [optimize]Merge rss url and keyword in explore, improve rss parser.
+- [optimize]Add more playback speed.
+- [fix]Fix synchronization interruption issue. https://github.com/seazon/FeedMe/issues/297
+- [fix]Fix stop sync if 0 unread at server side. https://github.com/seazon/FeedMe/issues/284
+- [fix]Fix scroll jump down issue when use 2 fingers.
+
 ### 3.17.4
 ###### 2021-2-8
 - [fix]Fix TTRSS can't sync issue.
