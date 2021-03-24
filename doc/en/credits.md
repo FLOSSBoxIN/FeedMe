@@ -27,5 +27,3 @@
 |Slovák     |sk       |foreteller22, kralcak|
 |Українська |uk       |**Evgeny Shepelyuk**|
 |繁体中文    |zh-TW    |**matif.tw**, jamesng3141|
-
-*Now FeedMe uses OneSky to manager translation, if you like FeedMe and want to localized it, please visit <a href="https://oszvg1n.oneskyapp.com/collaboration/project/32907">oneskyapp</a> and join us. If language is not listed, please contact me. Mail : dxdroid@gmail.com*
