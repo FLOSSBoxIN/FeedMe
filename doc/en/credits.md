@@ -4,7 +4,7 @@
 - 凌光伟
 - 淡空醉花
 
-## Translators (last updated: 21 Feb 2021)
+## Translators (last updated: 3 May 2021)
 |Language   |Locale   |Translator|
 |---        |---      |---|
 |عربي      |ar         |faleh-a, osso333|
@@ -13,6 +13,7 @@
 |Español    |es       |**Francisco Gomez**, Alfredo Heredero|
 |فارسی      |fa         |Hashem Abadian|
 |Français   |fr       |**Matth78**, OOlyt, Julien Stephan, Renaud Boyer|
+|עִברִית     |he       |**grebulon**, grebulon|
 |magyar     |hu       |**KONTRA**, **Gergely**, szelk|
 |bahasa Indonesia   |id       |Annisa, Nochka|
 |Italiano   |it       |Gabriele Lauricella, Carlo Campinoti|

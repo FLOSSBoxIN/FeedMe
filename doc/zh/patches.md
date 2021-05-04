@@ -1,3 +1,10 @@
+# 3.18.1
+###### 2021-5-3
+- [修复]修复 https://github.com/seazon/FeedMe/issues/301
+- [修复]修复 https://github.com/seazon/FeedMe/issues/308
+- [修复]修复 https://github.com/seazon/FeedMe/issues/311
+- [修复]修复其他问题。
+
 # 3.18.0
 ###### 2021-3-19
 - [优化]优化favicon选取逻辑，订阅源设置对话框支持刷新。移动`退订`按钮位置。https://github.com/seazon/FeedMe/issues/286

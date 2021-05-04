@@ -1,3 +1,11 @@
+# 3.18.1
+###### 2021-5-3
+- [optimize]New Language: Hebrew. Update French, Spanish, German, Czech, Hungarian, Dutch.
+- [fix]Fix https://github.com/seazon/FeedMe/issues/301
+- [fix]Fix https://github.com/seazon/FeedMe/issues/308
+- [fix]Fix https://github.com/seazon/FeedMe/issues/311
+- [fix]Fix other issues.
+
 # 3.18.0
 ###### 2021-3-19
 - [optimize]Improve load favicon logic and support reload favicon and move the `unsubscribe` button place in feed manager dialog. https://github.com/seazon/FeedMe/issues/286
