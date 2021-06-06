@@ -11,8 +11,8 @@ FeedMe is an reader client application for RSS service:
 This is the documentation of FeedMe.
 
 ## Version:
-- release: 3.18.0
-- beta: 3.18.1 (join beta test: https://play.google.com/apps/testing/com.seazon.feedme)
+- release: 3.18.1
+- beta: 3.18.2 (join beta test: https://play.google.com/apps/testing/com.seazon.feedme)
 
 ## Download:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme

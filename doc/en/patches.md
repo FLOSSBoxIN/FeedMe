@@ -1,3 +1,7 @@
+# 3.18.2
+###### 2021-6-6
+- [fix]Fix small issues.
+
 # 3.18.1
 ###### 2021-5-3
 - [optimize]New Language: Hebrew. Update French, Spanish, German, Czech, Hungarian, Dutch.
