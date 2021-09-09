@@ -1,3 +1,11 @@
+# 3.19.0
+###### 2021-9-9
+- [new]Support long lick to select text on article page to add highlighter.
+- [optimize]Show amount of highlighter on side bar.
+- [optimize]Increased the number of highlighter on sidebars to 10.
+- [fix]Fix https://github.com/seazon/FeedMe/issues/342
+- [fix]Fix https://github.com/seazon/FeedMe/issues/354
+
 # 3.18.3
 ###### 2021-6-10
 - [fix]Fix purchase refund issue.
