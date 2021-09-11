@@ -1,3 +1,7 @@
+# 3.19.1
+###### 2021-9-11
+- [fix]Fix images cannot be displayed.
+
 # 3.19.0
 ###### 2021-9-9
 - [new]Support long lick to select text on article page to add highlighter.
