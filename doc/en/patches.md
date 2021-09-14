@@ -1,3 +1,8 @@
+# 3.19.2
+###### 2021-9-15
+- [optimize]Favicon supports SVG.
+- [fix]https://github.com/seazon/FeedMe/issues/330
+
 # 3.19.1
 ###### 2021-9-11
 - [fix]Fix images cannot be displayed.
