@@ -1,3 +1,11 @@
+# 3.19.3
+###### 2021-10-19
+- [fix]Fix scroll bar disappear in article page.
+- [fix]Fix RSS link and date parse issue.
+- [fix]https://github.com/seazon/FeedMe/issues/365
+- [fix]https://github.com/seazon/FeedMe/issues/366
+- [fix]Fix save blank favicon in some cases.
+
 # 3.19.2
 ###### 2021-9-15
 - [optimize]Favicon supports SVG.
