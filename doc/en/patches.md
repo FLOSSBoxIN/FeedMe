@@ -1,4 +1,14 @@
-# 3.19.3
+# 3.20.0
+###### 2021-11-1
+- [new]Support dark mode for Android 10+.
+- [new]Support OPML import and export.
+- [optimize]Remove `Manual Refresh` in settings, update manual refresh logic.
+  - Refresh list if list never scroll when sync done.
+  - Otherwise, if new items fetched for current list, show manual refresh tips.
+- [optimize]Hide `New` button in `Add tag` dialog for Tiny Tiny RSS, and fix https://github.com/seazon/FeedMe/issues/369
+- [optimize]Clear feed when logout.
+
+### 3.19.3
 ###### 2021-10-19
 - [fix]Fix scroll bar disappear in article page.
 - [fix]Fix RSS link and date parse issue.
@@ -6,12 +16,12 @@
 - [fix]https://github.com/seazon/FeedMe/issues/366
 - [fix]Fix save blank favicon in some cases.
 
-# 3.19.2
+### 3.19.2
 ###### 2021-9-15
 - [optimize]Favicon supports SVG.
 - [fix]https://github.com/seazon/FeedMe/issues/330
 
-# 3.19.1
+### 3.19.1
 ###### 2021-9-11
 - [fix]Fix images cannot be displayed.
 
@@ -23,15 +33,15 @@
 - [fix]Fix https://github.com/seazon/FeedMe/issues/342
 - [fix]Fix https://github.com/seazon/FeedMe/issues/354
 
-# 3.18.3
+### 3.18.3
 ###### 2021-6-10
 - [fix]Fix purchase refund issue.
 
-# 3.18.2
+### 3.18.2
 ###### 2021-6-6
 - [fix]Fix small issues.
 
-# 3.18.1
+### 3.18.1
 ###### 2021-5-3
 - [optimize]New Language: Hebrew. Update French, Spanish, German, Czech, Hungarian, Dutch.
 - [fix]Fix https://github.com/seazon/FeedMe/issues/301
