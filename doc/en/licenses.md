@@ -5,11 +5,11 @@
 ### <a href="https://github.com/bumptech/glide">glide</a>
 ### <a href="https://github.com/felipecsl/GifImageView">GifImageView</a>
 ### <a href="https://github.com/DreaminginCodeZH/MaterialProgressBar">MaterialProgressBar</a>
-### <a href="https://github.com/chrisbanes/PhotoView">PhotoView</a>
+### <a href="https://github.com/Baseflow/PhotoView">PhotoView</a>
 ### <a href="https://github.com/tianzhijiexian/CommonAdapter">CommonAdapter</a>
 ### <a href="https://github.com/greenrobot/EventBus/">EventBus</a>
 ### <a href="https://github.com/romandanylyk/PageIndicatorView">PageIndicatorView</a>
 ### <a href="https://github.com/alexjlockwood/adp-path-morph-pause-to-pause">material-pause-play-animation</a>
 ### <a href="https://github.com/liuguangqiang/IPicker">IPicker</a>
-### <a href="https://github.com/weidongjian/androidWheelView">androidWheelView</a>
+### <a href="https://github.com/gzu-liyujiang/AndroidPicker">AndroidPicker</a>
 ### <a href="https://github.com/rhlff/NestedScrollWebView">NestedScrollWebView</a>
