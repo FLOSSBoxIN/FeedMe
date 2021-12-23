@@ -1,3 +1,9 @@
+# 3.20.1
+###### 2021-12-23
+- [optimize]Adapt for Android 12.
+- [optimize]Update Hebrew, German, French, Dutch, Spanish, Italian, Ukrainian, Portuguese (Brazil), Romanian, Czech.
+- [fix]https://github.com/seazon/FeedMe/issues/382
+
 # 3.20.0
 ###### 2021-11-1
 - [new]Support dark mode for Android 10+.

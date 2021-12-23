@@ -1,3 +1,8 @@
+# 3.20.1
+###### 2021-12-23
+- [优化]Android 12 适配。
+- [修复]https://github.com/seazon/FeedMe/issues/382
+
 # 3.20.0
 ###### 2021-11-1
 - [新增]Android 10+ 支持深色模式。
