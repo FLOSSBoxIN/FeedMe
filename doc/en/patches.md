@@ -1,3 +1,7 @@
+# 3.20.2
+###### 2021-12-24
+- [fix]https://github.com/seazon/FeedMe/issues/385
+
 # 3.20.1
 ###### 2021-12-23
 - [optimize]Adapt for Android 12.
