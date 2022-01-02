@@ -1,8 +1,13 @@
-# 3.20.2
+### 3.20.3
+###### 2022-1-2
+- [fix]Fix status bar height issue on Android 12+.
+- [fix]Fix custom launcher crash issue when using image.
+
+### 3.20.2
 ###### 2021-12-24
 - [fix]Fix crash issue on Android 12 https://github.com/seazon/FeedMe/issues/385
 
-# 3.20.1
+### 3.20.1
 ###### 2021-12-23
 - [optimize]Adapt for Android 12.
 - [optimize]Update Hebrew, German, French, Dutch, Spanish, Italian, Ukrainian, Portuguese (Brazil), Romanian, Czech.
