@@ -1,3 +1,7 @@
+### 3.20.4
+###### 2022-1-14
+- [fix]Fix status bar theme issue on Android 12+.
+
 ### 3.20.3
 ###### 2022-1-2
 - [fix]Fix status bar height issue on Android 12+.
