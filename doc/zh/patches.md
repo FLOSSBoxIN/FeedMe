@@ -1,3 +1,8 @@
+### 3.20.5
+###### 2022-1-21
+- [修复]部分iframe内嵌视频无法播放 https://github.com/seazon/FeedMe/issues/392
+- [修复]优化右向左的语言在文章页的显示 https://github.com/seazon/FeedMe/issues/391
+
 ### 3.20.4
 ###### 2022-1-14
 - [修复]修复Android 12+状态栏可见性问题。

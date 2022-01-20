@@ -1,3 +1,8 @@
+### 3.20.5
+###### 2022-1-21
+- [fix]Some iframe embedded video can play https://github.com/seazon/FeedMe/issues/392
+- [fix]Improve RTL language display in article page https://github.com/seazon/FeedMe/issues/391
+
 ### 3.20.4
 ###### 2022-1-14
 - [fix]Fix status bar theme issue on Android 12+.
