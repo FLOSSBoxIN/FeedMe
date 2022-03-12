@@ -1,3 +1,7 @@
+### 3.20.6
+###### 2022-3-12
+- [fix]Crash issue in article page on Android 12.
+
 ### 3.20.5
 ###### 2022-1-21
 - [fix]Some iframe embedded video can play https://github.com/seazon/FeedMe/issues/392
