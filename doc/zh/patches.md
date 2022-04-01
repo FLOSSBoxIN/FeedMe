@@ -1,3 +1,8 @@
+### 3.20.7
+###### 2022-4-1
+- [优化]优化figcaption标签样式。 https://github.com/seazon/FeedMe/issues/403
+- [优化]以太网连接应该同Wifi一致。 https://github.com/seazon/FeedMe/issues/400
+
 ### 3.20.6
 ###### 2022-3-12
 - [修复]文章页崩溃问题。

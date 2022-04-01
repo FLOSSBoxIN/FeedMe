@@ -1,3 +1,8 @@
+### 3.20.7
+###### 2022-4-1
+- [optimize]Improve figcaption tag style. https://github.com/seazon/FeedMe/issues/403
+- [optimize]Ethernet connection should same as Wifi. https://github.com/seazon/FeedMe/issues/400
+
 ### 3.20.6
 ###### 2022-3-12
 - [fix]Crash issue in article page on Android 12.
