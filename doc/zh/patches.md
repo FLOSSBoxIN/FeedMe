@@ -1,3 +1,8 @@
+### 3.20.8
+###### 2022-5-28
+- [优化]https://github.com/seazon/FeedMe/issues/420
+- [修复]https://github.com/seazon/FeedMe/issues/426
+
 ### 3.20.7
 ###### 2022-4-1
 - [优化]优化figcaption标签样式。 https://github.com/seazon/FeedMe/issues/403

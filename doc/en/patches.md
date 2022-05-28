@@ -1,3 +1,8 @@
+### 3.20.8
+###### 2022-5-28
+- [optimize]https://github.com/seazon/FeedMe/issues/420
+- [fix]https://github.com/seazon/FeedMe/issues/426
+
 ### 3.20.7
 ###### 2022-4-1
 - [optimize]Improve figcaption tag style. https://github.com/seazon/FeedMe/issues/403
