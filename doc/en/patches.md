@@ -1,5 +1,9 @@
 ### 3.20.8
 ###### 2022-5-28
+- [fix]Fix crash issue on article page.
+
+### 3.20.8
+###### 2022-5-28
 - [optimize]https://github.com/seazon/FeedMe/issues/420
 - [fix]https://github.com/seazon/FeedMe/issues/426
 
