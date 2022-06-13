@@ -1,4 +1,9 @@
-### 3.20.8
+### 3.20.10
+###### 2022-6-14
+- [fix]https://github.com/seazon/FeedMe/issues/435
+- [fix]TTS can't play issue.
+
+### 3.20.9
 ###### 2022-5-28
 - [fix]Fix crash issue on article page.
 
