@@ -4,7 +4,7 @@
 - 凌光伟
 - 淡空醉花
 
-## Translators (last updated: 18 Dec 2021)
+## Translators (last updated: 28 Jun 2022)
 |Language   |Locale   |Translator|
 |---        |---      |---|
 |عربي      |ar         |faleh-a, osso333|

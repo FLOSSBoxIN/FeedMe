@@ -1,3 +1,7 @@
+### 3.20.11
+###### 2022-6-28
+- [optimize]Update French, Polish, German.
+
 ### 3.20.10
 ###### 2022-6-14
 - [fix]https://github.com/seazon/FeedMe/issues/435
