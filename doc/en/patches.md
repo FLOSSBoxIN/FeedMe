@@ -1,3 +1,8 @@
+### 3.20.12
+###### 2022-7-3
+- [fix]Fix can't share to WeChat issue.
+- [fix]Fix the issue that some options were lost when long-pressing the text on the article page.
+
 ### 3.20.11
 ###### 2022-6-28
 - [optimize]Update French, Polish, German.
