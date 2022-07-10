@@ -1,3 +1,7 @@
+### 3.20.14
+###### 2022-7-10
+- [fix]Fix theme follow system not work issue.
+
 ### 3.20.13
 ###### 2022-7-10
 - [fix]Fix some options lost in `Integrations`.
