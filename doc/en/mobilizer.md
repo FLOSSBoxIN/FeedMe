@@ -18,7 +18,16 @@ So, the mobilizer in the `feed settings` dialog is only use for download when re
 
 Note : Mobilizer is removing some unimportant elements on the page (head, side and bottom of the navigation or link) and re-layout, leaving only the text part. General mobilizer get the article is calculated by algorithm, so can not guarantee 100% correct. Mature mobilizer resolution is more accurate, and built-in is worse.
 
-# Switch feed/web view manually
+# Feed & Web
+In the top right corner of the article page, it displays `Feed/Web`. Where `Feed` represents the article content from RSS, `Web` represents the article content from the source link.
+
+The content of the web is re-crawled via source links and parsed by Mobilizer. In general, the body content can be parsed correctly, but it may be parsed incorrectly, return the wrong content.
+
+## Current is `Feed` or `Web`?
+- When `Feed` is the accent color, it means the current content is `Web`.
+- When `Web` is the accent color, it means the current content is `Feed`.
+
+## Switch feed/web view manually
 Once enter article page, how can I switch feed/web view manually?
 
 ### 1. Tap feed/web link
