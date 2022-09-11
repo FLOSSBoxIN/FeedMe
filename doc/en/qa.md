@@ -25,6 +25,8 @@ A:You can find a subscribe menu in `feed list` -> `Subscription`. And then you c
 ### Q:Why are the articles that I have read gone? And be deleted?
 A:By default, FeedMe will hide articles that have been read. You can switch the display of `unread articles` and `all articles` through the `⭕️` icon in the article list page.
 
+And this change also effect side bar. If switch to `unread articles`, only the feeds which have unread articles will show. If switch to `all articles`, all feeds will show at side bar.
+
 ### Q:How can I enable split action bar & side navigation bar?
 A:You can enable them in `Settings` -> `Control`.
 
