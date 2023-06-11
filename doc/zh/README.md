@@ -13,6 +13,7 @@ FeedMe是一个RSS阅读器，支持以下RSS服务：
 ## 版本:
 - 正式: 3.20.14
 - 测试: 3.20.14 (加入beta测试: https://play.google.com/apps/testing/com.seazon.feedme)
+- canary: 4.0.0-Canary-1 (仅在Github下载)
 
 ## 下载:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme
@@ -56,7 +57,8 @@ FeedMe是一个RSS阅读器，支持以下RSS服务：
 
 ## 更新:
 
-- <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/patches.md">3.x</a>
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/patches.md">4.x</a>
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/patches_3.x.md">3.x</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/patches_2.x.md">2.x</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/patches_1.x.md">1.x</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/patches_0.x.md">0.x</a>

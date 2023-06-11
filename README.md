@@ -13,6 +13,7 @@ This is the documentation of FeedMe.
 ## Version:
 - release: 3.20.14
 - beta: 3.20.14 (join beta test: https://play.google.com/apps/testing/com.seazon.feedme)
+- canary: 4.0.0-Canary-1 (only available on Github)
 
 ## Download:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme
@@ -41,7 +42,8 @@ This is the documentation of FeedMe.
 
 ## Patches:
 
-- <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/patches.md">3.x</a>
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/patches.md">4.x</a>
+- <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/patches_3.x.md">3.x</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/patches_2.x.md">2.x</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/patches_1.x.md">1.x</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/patches_0.x.md">0.x</a>
