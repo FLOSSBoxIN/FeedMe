@@ -7,18 +7,18 @@
 #### Large screen adaptation
 - Display different layouts according to screen size
 - Keyboard shortcut support *
-#### audio
+#### Audio
 - Support direct streaming, no download required
 - Audio support for skipping silence
 - sleep time supports the end of a single episode
 - Support playing searched, unsubscribed episodes
 - Remove the star addition function in the player interface
 - Podcast download configurable
-#### video
+#### Video
 - Video supports full-screen playback
-#### subscribe
+#### Subscribe
 - When entering some website addresses, it will be automatically converted to rss addresses *
-#### other
+#### Other
 - Mark read optimization
   - When long press to mark all read, more options will pop up (mark one day ago as read, mark one week ago as read)
   - Long press the article besides mark above as read, add mark below as read
