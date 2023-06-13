@@ -1,3 +1,8 @@
+# 4.0.0-Canary-2
+###### 2023-6-13
+- [修复]文章列表中的强调背景色问题。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1586292674
+- [修复]左右滑动功能名称与实际功能不匹配的问题。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1587651850
+
 # 4.0.0-Canary-1
 ###### 2023-6-11
 #### 基于 Material You 的新界面

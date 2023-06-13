@@ -1,3 +1,8 @@
+# 4.0.0-Canary-2
+###### 2023-6-13
+- [fix]Accent background color issue on article list. https://github.com/seazon/FeedMe/issues/517#issuecomment-1586292674
+- [fix]The name and the actual function do not match for swipe left and right feature. https://github.com/seazon/FeedMe/issues/517#issuecomment-1587651850
+
 # 4.0.0-Canary-1
 ###### 2023-6-11
 #### New UI based on Material You
