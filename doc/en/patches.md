@@ -1,4 +1,9 @@
-# 4.0.0-Canary-2
+### 4.0.0-Canary-3
+###### 2023-6-15
+- [Fix] Fix the problem that the article page menu is not updated. https://github.com/seazon/FeedMe/issues/517#issuecomment-1589336638
+- [Fix] Fix pull-to-refresh not working. https://github.com/seazon/FeedMe/issues/517#issuecomment-1589351824
+
+### 4.0.0-Canary-2
 ###### 2023-6-13
 - [fix]Accent background color issue on article list. https://github.com/seazon/FeedMe/issues/517#issuecomment-1586292674
 - [fix]The name and the actual function do not match for swipe left and right feature. https://github.com/seazon/FeedMe/issues/517#issuecomment-1587651850

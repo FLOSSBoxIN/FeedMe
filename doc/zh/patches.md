@@ -1,4 +1,10 @@
-# 4.0.0-Canary-2
+### 4.0.0-Canary-3
+###### 2023-6-15
+- [修复]更新中文。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1590312904
+- [修复]修复文章页菜单没有更新的问题。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1589336638
+- [修复]修复下拉刷新不起作用的问题。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1589351824
+
+### 4.0.0-Canary-2
 ###### 2023-6-13
 - [修复]文章列表中的强调背景色问题。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1586292674
 - [修复]左右滑动功能名称与实际功能不匹配的问题。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1587651850
