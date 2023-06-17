@@ -1,6 +1,14 @@
+### 4.0.0-Canary-4
+###### 2023-6-17
+- [新增] 点击文章页面的feed标题可以进入该feed的文章列表页面。 https://github.com/seazon/FeedMe/issues/523
+- [优化] 更新沉浸模式。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1590289087
+- [修复] 修复 Tiny Tiny RSS 无法同步到未读条目的问题。 https://github.com/seazon/FeedMe/issues/525
+- [修复] 修复旋转屏幕后视频停止播放的问题。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1586380529
+- [修复] 修复分享到微信崩溃的问题。 https://github.com/seazon/FeedMe/issues/522#issuecomment-1593792701
+
 ### 4.0.0-Canary-3
 ###### 2023-6-15
-- [修复]更新中文。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1590312904
+- [优化]更新中文。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1590312904
 - [修复]修复文章页菜单没有更新的问题。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1589336638
 - [修复]修复下拉刷新不起作用的问题。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1589351824
 

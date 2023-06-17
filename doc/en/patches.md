@@ -1,12 +1,20 @@
+### 4.0.0-Canary-4
+###### 2023-6-17
+- [new] Click the feed title in article page to goto this feed's article list page. https://github.com/seazon/FeedMe/issues/523
+- [optimize] Update immersive mode. https://github.com/seazon/FeedMe/issues/517#issuecomment-1590289087
+- [fix] Fix Tiny Tiny RSS can't fetch unread items issue. https://github.com/seazon/FeedMe/issues/525
+- [fix] Video stop play after rotate screen. https://github.com/seazon/FeedMe/issues/517#issuecomment-1586380529
+- [fix] Fix crash issue while share to Wechat. https://github.com/seazon/FeedMe/issues/522#issuecomment-1593792701
+
 ### 4.0.0-Canary-3
 ###### 2023-6-15
-- [Fix] Fix the problem that the article page menu is not updated. https://github.com/seazon/FeedMe/issues/517#issuecomment-1589336638
-- [Fix] Fix pull-to-refresh not working. https://github.com/seazon/FeedMe/issues/517#issuecomment-1589351824
+- [fix] Fix the problem that the article page menu is not updated. https://github.com/seazon/FeedMe/issues/517#issuecomment-1589336638
+- [fix] Fix pull-to-refresh not working. https://github.com/seazon/FeedMe/issues/517#issuecomment-1589351824
 
 ### 4.0.0-Canary-2
 ###### 2023-6-13
-- [fix]Accent background color issue on article list. https://github.com/seazon/FeedMe/issues/517#issuecomment-1586292674
-- [fix]The name and the actual function do not match for swipe left and right feature. https://github.com/seazon/FeedMe/issues/517#issuecomment-1587651850
+- [fix] Accent background color issue on article list. https://github.com/seazon/FeedMe/issues/517#issuecomment-1586292674
+- [fix] The name and the actual function do not match for swipe left and right feature. https://github.com/seazon/FeedMe/issues/517#issuecomment-1587651850
 
 # 4.0.0-Canary-1
 ###### 2023-6-11
