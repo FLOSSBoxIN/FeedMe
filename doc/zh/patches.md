@@ -1,3 +1,8 @@
+### 4.0.0-Canary-5
+###### 2023-6-21
+- [修复] 修复操作栏菜单显示不正确的问题。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1594359875
+- [修复] 修复文章列表从其他屏幕返回时自动滚动的问题。 https://github.com/seazon/FeedMe/issues/528
+
 ### 4.0.0-Canary-4
 ###### 2023-6-17
 - [新增] 点击文章页面的feed标题可以进入该feed的文章列表页面。 https://github.com/seazon/FeedMe/issues/523

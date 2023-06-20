@@ -1,3 +1,8 @@
+### 4.0.0-Canary-5
+###### 2023-6-21
+- [fix] Fix action bar menus not show correctly. https://github.com/seazon/FeedMe/issues/517#issuecomment-1594359875
+- [fix] Fix article list scroll automatically when back from other screen. https://github.com/seazon/FeedMe/issues/528
+
 ### 4.0.0-Canary-4
 ###### 2023-6-17
 - [new] Click the feed title in article page to goto this feed's article list page. https://github.com/seazon/FeedMe/issues/523
