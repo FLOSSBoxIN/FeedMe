@@ -1,3 +1,7 @@
+### 4.0.0-Canary-6
+###### 2023-6-22
+- [修复]修复文章列表中出现大空白的问题。 https://github.com/seazon/FeedMe/issues/532
+- 
 ### 4.0.0-Canary-5
 ###### 2023-6-21
 - [修复] 修复操作栏菜单显示不正确的问题。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1594359875
