@@ -1,3 +1,10 @@
+### 4.0.0-Canary-7
+###### 2023-7-14
+- [优化]记住文章阅读位置。 https://github.com/seazon/FeedMe/issues/526
+- [优化]更好的处理界面和导航栏的关系当导航栏位于屏幕左侧或右侧时。
+- [修复]修复内置浏览器分享时崩溃的问题。 https://github.com/seazon/FeedMe/issues/522#issuecomment-1605891128
+- [修复]修复无法加载文章列表第二页的问题。 https://github.com/seazon/FeedMe/issues/542
+
 ### 4.0.0-Canary-6
 ###### 2023-6-22
 - [修复]修复文章列表中出现大空白的问题。 https://github.com/seazon/FeedMe/issues/532

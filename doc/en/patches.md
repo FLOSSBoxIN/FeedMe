@@ -1,3 +1,10 @@
+### 4.0.0-Canary-7
+###### 2023-7-14
+- [optimize] Remember article position. https://github.com/seazon/FeedMe/issues/526
+- [optimize] Better support for navigation bar if it show at left or right of screen.
+- [fix] Fix crash issue while share in built-in browser. https://github.com/seazon/FeedMe/issues/522#issuecomment-1605891128
+- [fix] Fix can't load second page for article list. https://github.com/seazon/FeedMe/issues/542
+
 ### 4.0.0-Canary-6
 ###### 2023-6-22
 - [fix] Fix large blank on article list. https://github.com/seazon/FeedMe/issues/532
