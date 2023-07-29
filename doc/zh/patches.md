@@ -1,3 +1,15 @@
+### 4.0.0-Canary-8
+###### 2023-7-29
+- [优化] 添加翻页百分比选项。
+- [优化] 用于强调色和荧光标签颜色的新颜色选择器。
+- [优化] 确认框按钮垂直摆放。
+- [优化] 在 url 对话框中显示 url。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1629953259
+- [优化] 导航现在可以通过滑动关闭。 https://github.com/seazon/FeedMe/issues/546
+- [优化] 优化选中条目的颜色。 https://github.com/seazon/FeedMe/issues/538
+- [修复] 修复双面板情况下无法标记已读的问题。 https://github.com/seazon/FeedMe/issues/543
+- [修复] 关闭沉浸模式时始终显示工具栏。
+- [修复] 增加导航栏底部空间。 https://github.com/seazon/FeedMe/issues/553
+
 ### 4.0.0-Canary-7
 ###### 2023-7-14
 - [优化]记住文章阅读位置。 https://github.com/seazon/FeedMe/issues/526

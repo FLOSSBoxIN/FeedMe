@@ -1,3 +1,15 @@
+### 4.0.0-Canary-8
+###### 2023-7-29
+- [optimize] Add option for flip percent.
+- [optimize] New color picker for accent color and highlighter color.
+- [optimize] Alert dialog button list vertically.
+- [optimize] Show url in url dialog. https://github.com/seazon/FeedMe/issues/517#issuecomment-1629953259
+- [optimize] Nav can close by swipe now. https://github.com/seazon/FeedMe/issues/546
+- [optimize] Optimize the color of selected item. https://github.com/seazon/FeedMe/issues/538
+- [fix] Fix can't mark read for double panel case. https://github.com/seazon/FeedMe/issues/543
+- [fix] Always show tool bars when immersive off.
+- [fix] Add bottom space for navigation bar. https://github.com/seazon/FeedMe/issues/553
+
 ### 4.0.0-Canary-7
 ###### 2023-7-14
 - [optimize] Remember article position. https://github.com/seazon/FeedMe/issues/526
