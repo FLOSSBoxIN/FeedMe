@@ -1,3 +1,7 @@
+### 4.0.0-Canary-10
+###### 2023-8-2
+- [fix] Fix mobilizer not work issue. https://github.com/seazon/FeedMe/issues/567
+
 ### 4.0.0-Canary-9
 ###### 2023-8-1
 - [新增] 添加紧凑布局选项。 https://github.com/seazon/FeedMe/issues/556
@@ -28,7 +32,7 @@
 ### 4.0.0-Canary-6
 ###### 2023-6-22
 - [修复]修复文章列表中出现大空白的问题。 https://github.com/seazon/FeedMe/issues/532
-- 
+
 ### 4.0.0-Canary-5
 ###### 2023-6-21
 - [修复] 修复操作栏菜单显示不正确的问题。 https://github.com/seazon/FeedMe/issues/517#issuecomment-1594359875

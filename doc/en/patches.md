@@ -1,3 +1,7 @@
+### 4.0.0-Canary-10
+###### 2023-8-2
+- [fix] Fix mobilizer not work issue. https://github.com/seazon/FeedMe/issues/567
+
 ### 4.0.0-Canary-9
 ###### 2023-8-1
 - [new] Add compact layout option. https://github.com/seazon/FeedMe/issues/556
@@ -28,7 +32,7 @@
 ### 4.0.0-Canary-6
 ###### 2023-6-22
 - [fix] Fix large blank on article list. https://github.com/seazon/FeedMe/issues/532
-- 
+
 ### 4.0.0-Canary-5
 ###### 2023-6-21
 - [fix] Fix action bar menus not show correctly. https://github.com/seazon/FeedMe/issues/517#issuecomment-1594359875
