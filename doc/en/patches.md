@@ -1,3 +1,11 @@
+### 4.0.0-Canary-9
+###### 2023-8-1
+- [new] Add compact layout option. https://github.com/seazon/FeedMe/issues/556
+- [fix] Fix crash issue when update sync interval. If you upgrade from Canary 8, need update `Settings` - `Cache` - `Reading List` to avoid crash again. https://github.com/seazon/FeedMe/issues/561 
+- [fix] Fix images are showed in music format. https://github.com/seazon/FeedMe/issues/364
+- [fix] Fix menu bar disappears after switching from "Starred items" to "All items". https://github.com/seazon/FeedMe/issues/560
+- [fix] Fix sidebar not clickable after exiting from fullscreen video. https://github.com/seazon/FeedMe/issues/554
+
 ### 4.0.0-Canary-8
 ###### 2023-7-29
 - [optimize] Add option for flip percent.

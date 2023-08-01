@@ -1,3 +1,11 @@
+### 4.0.0-Canary-9
+###### 2023-8-1
+- [新增] 添加紧凑布局选项。 https://github.com/seazon/FeedMe/issues/556
+- [修复] 修复更新同步间隔时崩溃的问题。<b>如果您从 Canary 8 升级，需要更新`设置` - `缓存` - `阅读列表`以避免再次崩溃。</b> https://github.com/seazon/FeedMe/issues/561
+- [修复] 修复图像显示为音乐icon的问题。 https://github.com/seazon/FeedMe/issues/364
+- [修复] 修复从`加星条目”切换到“所有条目”后菜单栏消失的问题。 https://github.com/seazon/FeedMe/issues/560
+- [修复] 修复退出全屏视频后侧边栏不可点击的问题。 https://github.com/seazon/FeedMe/issues/554
+
 ### 4.0.0-Canary-8
 ###### 2023-7-29
 - [优化] 添加翻页百分比选项。
