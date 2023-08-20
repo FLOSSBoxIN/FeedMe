@@ -13,7 +13,7 @@ FeedMe是一个RSS阅读器，支持以下RSS服务：
 ## 版本:
 - 正式: 3.20.14
 - 测试: 3.20.14 (加入beta测试: https://play.google.com/apps/testing/com.seazon.feedme)
-- canary: 4.0.0-Canary-10 (仅在Github下载)
+- canary: 4.0.0-Canary-11 (仅在Github下载)
 
 ## 下载:
 - https://play.google.com/store/apps/details?id=com.seazon.feedme

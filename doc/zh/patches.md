@@ -1,3 +1,13 @@
+### 4.0.0-Canary-11
+###### 2023-8-20
+- [DE-BUFF] 在文章列表中显示广告。
+- [优化] 添加忽略电池优化白名单的提示。 https://github.com/seazon/FeedMe/issues/91#issuecomment-1683809364
+- [优化] 同步间隔新增选项：10分钟。
+- [优化] 禁用“紧凑布局”将始终显示单屏。 https://github.com/seazon/FeedMe/issues/556#issuecomment-1660290318
+- [修复] 修复图像以音乐格式显示。 https://github.com/seazon/FeedMe/issues/364
+- [修复] 修复蓝牙控件不起作用的问题。 https://github.com/seazon/FeedMe/issues/581
+- [修复] 修复到达底部时无法自动标记已读的问题。 https://github.com/seazon/FeedMe/issues/574
+
 ### 4.0.0-Canary-10
 ###### 2023-8-2
 - [fix] Fix mobilizer not work issue. https://github.com/seazon/FeedMe/issues/567

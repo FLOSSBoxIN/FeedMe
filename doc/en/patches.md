@@ -1,3 +1,13 @@
+### 4.0.0-Canary-11
+###### 2023-8-20
+- [DE-BUFF] Show AD in article list.
+- [optimize] Tips for add to ignore battery optimizations whitelist. https://github.com/seazon/FeedMe/issues/91#issuecomment-1683809364
+- [optimize] Sync interval add new option: 10 minutes.
+- [optimize] Disable `Compact Layout` will always show single screen. https://github.com/seazon/FeedMe/issues/556#issuecomment-1660290318
+- [fix] Fix images are showed in music format. https://github.com/seazon/FeedMe/issues/364
+- [fix] Fix bluetooth controls not work issue. https://github.com/seazon/FeedMe/issues/581
+- [fix] Fix can't auto mark read when reach the bottom. https://github.com/seazon/FeedMe/issues/574
+
 ### 4.0.0-Canary-10
 ###### 2023-8-2
 - [fix] Fix mobilizer not work issue. https://github.com/seazon/FeedMe/issues/567
