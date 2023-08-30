@@ -1,3 +1,7 @@
+### 4.0.0
+###### 2023-8-30
+- [fix] Fix failed to import/export OPML issue.
+
 ### 4.0.0-Canary-11
 ###### 2023-8-20
 - [DE-BUFF] Show AD in article list.
