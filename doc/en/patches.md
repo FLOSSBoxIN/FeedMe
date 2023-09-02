@@ -1,3 +1,10 @@
+### 4.0.1
+###### 2023-9-2
+- [optimize] Adjust the minimum value of article page margin.
+- [fix] Fix the problem that the page margin of the article is too large.
+- [fix] Fix the problem of automatically scrolling to the last reading position when opening the app. https://github.com/seazon/FeedMe/issues/591
+- [others] Remove AD.
+
 ### 4.0.0
 ###### 2023-8-30
 - [fix] Fix failed to import/export OPML issue.
