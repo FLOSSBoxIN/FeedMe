@@ -1,3 +1,10 @@
+### 4.0.2
+###### 2023-9-15
+- [optimize] Support set article list margin.
+- [fix] Fix show side nav not working when launch. https://github.com/seazon/FeedMe/issues/612
+- [fix] Fix sync on app start is not working issue. https://github.com/seazon/FeedMe/issues/607
+- [fix] Fix back action wrong logic.
+
 ### 4.0.1
 ###### 2023-9-2
 - [optimize] Adjust the minimum value of article page margin.
