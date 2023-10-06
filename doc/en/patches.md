@@ -1,3 +1,8 @@
+### 4.0.3
+###### 2023-10-6
+- [fix] Fix not possible to set auto sync interval of 4 hours. https://github.com/seazon/FeedMe/issues/630
+- [fix] Fix dark mode not work in built-in web browser.
+
 ### 4.0.2
 ###### 2023-9-15
 - [optimize] Support set article list margin.
