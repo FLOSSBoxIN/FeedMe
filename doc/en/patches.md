@@ -1,3 +1,8 @@
+### 4.0.4
+###### 2023-10-8
+- [optimize] Include highlighter data in backup. https://github.com/seazon/FeedMe/issues/615
+- [fix] Fix Feedbin mobilizer issue. https://github.com/seazon/FeedMe/issues/602 https://github.com/seazon/FeedMe/issues/577
+
 ### 4.0.3
 ###### 2023-10-6
 - [fix] Fix not possible to set auto sync interval of 4 hours. https://github.com/seazon/FeedMe/issues/630

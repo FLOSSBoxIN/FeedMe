@@ -1,3 +1,8 @@
+### 4.0.4
+###### 2023-10-8
+- [优化] 在备份中包含荧光标签数据。 https://github.com/seazon/FeedMe/issues/615
+- [修复]修复 Feedbin mobilizer 的问题。 https://github.com/seazon/FeedMe/issues/602 https://github.com/seazon/FeedMe/issues/577
+
 ### 4.0.3
 ###### 2023-10-6
 - [修复] 修复不能设置同步间隔为4小时的问题。 https://github.com/seazon/FeedMe/issues/630
