@@ -11,7 +11,7 @@ FeedMe is an reader client application for RSS service:
 This is the documentation of FeedMe.
 
 ## Version:
-- release: 4.0.3
+- release: 4.0.4
 - beta: 4.0.4 (join beta test: https://play.google.com/apps/testing/com.seazon.feedme)
 
 ## Download:
@@ -55,6 +55,6 @@ This is the documentation of FeedMe.
 ## <a href="https://github.com/seazon/FeedMe/blob/master/privacy_and_security.md">Privacy and Security</a>
 
 ## Translation
-Now FeedMe uses OneSky to manager translation, if you like FeedMe and want to localized it, please visit <a href="https://oszvg1n.oneskyapp.com/collaboration/project/32907">oneskyapp</a> and join us. If language is not listed, please create new issue.
+FeedMe uses OneSky to manager translation, if you like FeedMe and want to localize it, please check https://github.com/seazon/FeedMe/issues/639.
 
 ## <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md">中文</a>
