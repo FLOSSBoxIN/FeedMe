@@ -54,3 +54,26 @@ Web的内容通过源链接重新抓取，并通过Mobilizer解析。一般情�
 - 显示 feed 页面，如果你在`订阅源设置`对话框启用了`阅读时下载 web 页面`但网络不可用。
 
 当文章内容在某些功能中使用时，比如`全文分享`或者播放，它同样会遵循以上规则。 
+
+# FeedMe Mobilizer 选择器 （从v4.1开始支持）
+`FeedMe Mobilizer` 使用了一个简单的算法来解析一个URL地址中的正文内容。一般在正文内容比较多时可以获得比较准确的解析。但由于网页各式各样，总有这个简单算法解析错误的时候。
+
+在CSS中，选择器用来选择HTML的某一些元素。从v4.1开始，FeedMe会简单的使用一些类选择器的思路来帮助`FeedMe Mobilizer`更准确的定位内容部分。我把这个新功能叫做`FeedMe Mobilizer 选择器`。
+
+## 优点
+- 更加准确的解析文章正文内容
+- 更少的解析时间
+
+## 缺点
+- 需要HTML/CSS知识
+- 需要知道如何通过浏览器来定位HTML中某个节点
+
+## 快速指南
+1. 确定你需要设置`FeedMe Mobilizer 选择器`的订阅源，它一般是没有提供全文输出并且`FeedMe Mobilizer`不能正确解析。
+2. 在桌面浏览器打开这个订阅源的任意一篇文章。
+3. 通过查看元素节点，找到包含正文的最小节点，找到可以用来定位的ID或者class
+4. 打开FeedMe，打开这个订阅源的订阅管理界面，`Mobilizer`选择`FeedMe`，这时就会显示`FeedMe Mobilizer Selector`部分
+5. 输入找到的用来定位的ID或者class，这里分2种情况：
+    - 找到的是ID，比如 `content_body`，输入 `#content_body`
+    - 找到的是class，比如 `content_body`，输入 `.content_body`
+6. 到此为止，设置已经完成。你可以再次打开web看解析是否正确。如果web已经打开过，需要通过文章界面的`Reload page`来重新加载并解析。

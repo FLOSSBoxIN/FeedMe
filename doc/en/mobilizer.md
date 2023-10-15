@@ -55,3 +55,26 @@ So which page will display by default? Feed or web page?
 - Show feed view if you enable `Download web page when reading` in `feed settings` and network is NOT available.
 
 When the article content uses for some cases, like `Share content` or play it, it is also following these rules. 
+
+# FeedMe Mobilizer Selector (supported since v4.1)
+`FeedMe Mobilizer` uses a simple algorithm to parse the body content of a URL address. Generally, more accurate analysis can be obtained when the text content is relatively large. However, due to the variety of web pages, always happens this simple algorithm parsing incorrectly.
+
+In CSS, selectors are used to select certain element(s) of HTML. Starting from v4.1, FeedMe will simply use some selectors to help `FeedMe Mobilizer` locate content parts more accurately. I call this new feature `FeedMe Mobilizer Selector`.
+
+## advantage
+- More accurate analysis of the text content of the article
+- Less parsing time
+
+## shortcoming
+- HTML/CSS knowledge required
+- Need to know how to locate a node in HTML through the browser
+
+## quick guide
+1. Choose one feed you need to set the `FeedMe Mobilizer selector`. It usually does not provide full text and `FeedMe Mobilizer` cannot parse it correctly.
+2. Open any article from this feed in a desktop browser.
+3. Find the smallest node containing the text by looking at the element node, and find the ID or class that can be used for positioning.
+4. Open FeedMe, open the subscription management screen of this feed, select `FeedMe` in `Mobilizer`, and the `FeedMe Mobilizer Selector` section will be displayed.
+5. Enter the ID or class found for positioning. There are two situations:
+    - What you found is ID, for example `content_body`, enter `#content_body`
+    - What you found is class, for example `content_body`, enter `.content_body`
+6. At this point, the settings have been completed. You can open the web again to see if the parsing is correct. If the web has been opened, it needs to be reloaded and parsed through the `Reload page` of the article interface.
