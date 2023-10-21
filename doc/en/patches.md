@@ -1,3 +1,11 @@
+# 4.1
+###### 2023-10-21
+- [new] FeedMe Mobilizer Selector. https://github.com/seazon/FeedMe/issues/622
+- [new] New widget: player widget.
+- [optimize] `Settings` - `Interface` - `Layout`, more options for layout.
+- [optimize] Update switch style.
+- [fix] Fix image parser issue for FeedMe Mobilizer. https://github.com/seazon/FeedMe/issues/364
+
 ### 4.0.4
 ###### 2023-10-8
 - [optimize] Include highlighter data in backup. https://github.com/seazon/FeedMe/issues/615

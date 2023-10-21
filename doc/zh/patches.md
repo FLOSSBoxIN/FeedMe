@@ -1,3 +1,11 @@
+# 4.1
+###### 2023-10-21
+- [新增] FeedMe Mobilizer 选择器。 https://github.com/seazon/FeedMe/issues/622
+- [新增] 新的小部件：播放器小部件。
+- [优化] `设置`-`界面`优化`紧凑布局`，支持更多布局选项。
+- [优化] 更新开关样式。
+- [修复] 修复 FeedMe Mobilizer 的图像解析错误问题。 https://github.com/seazon/FeedMe/issues/364
+
 ### 4.0.4
 ###### 2023-10-8
 - [优化] 在备份中包含荧光标签数据。 https://github.com/seazon/FeedMe/issues/615
