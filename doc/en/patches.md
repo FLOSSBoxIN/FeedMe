@@ -1,3 +1,7 @@
+### 4.1.1
+###### 2023-10-23
+- [fix] Upgrade lib version.
+
 # 4.1
 ###### 2023-10-21
 - [new] FeedMe Mobilizer Selector. https://github.com/seazon/FeedMe/issues/622

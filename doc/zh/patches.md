@@ -1,3 +1,7 @@
+### 4.1.1
+###### 2023-10-23
+- [修复] 更新库版本。
+
 # 4.1
 ###### 2023-10-21
 - [新增] FeedMe Mobilizer 选择器。 https://github.com/seazon/FeedMe/issues/622
