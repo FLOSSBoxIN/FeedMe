@@ -1,3 +1,9 @@
+### 4.1.2
+###### 2023-11-9
+- [optimize] Improve NAV side header layout.
+- [optimize] Improve alert popup.
+- [fix] Fix pre tag format issue. https://github.com/seazon/FeedMe/issues/652
+
 ### 4.1.1
 ###### 2023-10-23
 - [fix] Upgrade lib version.
