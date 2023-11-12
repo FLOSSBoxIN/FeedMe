@@ -1,3 +1,7 @@
+### 4.1.3
+###### 2023-11-12
+- [fix] Fix LED color config issue. https://github.com/seazon/FeedMe/issues/654
+
 ### 4.1.2
 ###### 2023-11-9
 - [optimize] Improve NAV side header layout.
