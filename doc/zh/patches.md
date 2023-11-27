@@ -1,6 +1,11 @@
+### 4.1.4
+###### 2023-11-27
+- [修复] 修复在 Android 14 上播放音频时崩溃的问题。
+- [修复] 修复`Split Action Bar`描述错误。 https://github.com/seazon/FeedMe/issues/660
+
 ### 4.1.3
 ###### 2023-11-12
-- [修复]修复LED颜色配置问题。https://github.com/seazon/FeedMe/issues/654
+- [修复] 修复LED颜色配置问题。https://github.com/seazon/FeedMe/issues/654
 
 ### 4.1.2
 ###### 2023-11-9

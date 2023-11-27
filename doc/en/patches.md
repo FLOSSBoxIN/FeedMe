@@ -1,3 +1,8 @@
+### 4.1.4
+###### 2023-11-27
+- [fix] Fix crash while play audio on Android 14.
+- [fix] Fix the `Split Action Bar` description error. https://github.com/seazon/FeedMe/issues/660
+
 ### 4.1.3
 ###### 2023-11-12
 - [fix] Fix LED color config issue. https://github.com/seazon/FeedMe/issues/654
