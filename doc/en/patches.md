@@ -1,3 +1,10 @@
+### 4.1.5
+###### 2023-12-07
+- [optimize] Improve style for HTML code tag.
+- [optimize] New option in `setting` - `control` to disable open image in article page.
+- [fix] Fix wrong parsing in code tag. https://github.com/seazon/FeedMe/issues/659
+- [fix] Fix some crash issues.
+
 ### 4.1.4
 ###### 2023-11-27
 - [fix] Fix crash while play audio on Android 14.
