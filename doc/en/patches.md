@@ -1,3 +1,7 @@
+### 4.1.6
+###### 2023-12-31
+- [fix] Fix the problem of exiting abnormally after video full screen. https://github.com/seazon/FeedMe/issues/665
+
 ### 4.1.5
 ###### 2023-12-07
 - [optimize] Improve style for HTML code tag.
