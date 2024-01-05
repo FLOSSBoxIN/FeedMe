@@ -1,3 +1,7 @@
+### 4.1.7
+###### 2024-1-5
+- [fix] Fix crash issue.
+
 ### 4.1.6
 ###### 2023-12-31
 - [fix] Fix the problem of exiting abnormally after video full screen. https://github.com/seazon/FeedMe/issues/665
