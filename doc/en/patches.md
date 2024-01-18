@@ -1,3 +1,7 @@
+### 4.1.8
+###### 2024-1-18
+- [fix] Fix scrolling freezes issue when navigating previous or next articles. https://github.com/seazon/FeedMe/issues/671
+
 ### 4.1.7
 ###### 2024-1-5
 - [fix] Fix crash issue.
