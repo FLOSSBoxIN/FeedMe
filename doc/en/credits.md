@@ -1,10 +1,12 @@
+## Translators (https://crowdin.com/project/feedme)
+
 ## Special Thanks
 - 诗剑
 - 行亘
 - 凌光伟
 - 淡空醉花
 
-## Translators (last updated: 28 Jun 2022)
+## Translators (https://oszvg1n.oneskyapp.com/admin/project/dashboard/project/32907)
 |Language   |Locale   |Translator|
 |---        |---      |---|
 |عربي      |ar         |faleh-a, osso333|

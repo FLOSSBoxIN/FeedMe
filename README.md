@@ -55,6 +55,6 @@ This is the documentation of FeedMe.
 ## <a href="https://github.com/seazon/FeedMe/blob/master/privacy_and_security.md">Privacy and Security</a>
 
 ## Translation
-FeedMe uses OneSky to manager translation, if you like FeedMe and want to localize it, please check https://github.com/seazon/FeedMe/issues/639.
+FeedMe manager translation at https://crowdin.com/project/feedme, if you like FeedMe and want to localize it, please join the project and leave a comment at https://github.com/seazon/FeedMe/issues/639.
 
 ## <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md">中文</a>
