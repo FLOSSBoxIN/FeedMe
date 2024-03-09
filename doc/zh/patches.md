@@ -1,7 +1,6 @@
 ### 4.2.1
 ###### 2024年3月9日
 - [新增] 添加新选项以禁用阅读后自动标记为已读。 https://github.com/seazon/FeedMe/issues/531
-- [优化] 更新意大利语。
 - [修复] 修复订阅问题。 https://github.com/seazon/FeedMe/issues/683
 - [修复] 修复订阅详细信息屏幕上的崩溃和性能问题。
 
