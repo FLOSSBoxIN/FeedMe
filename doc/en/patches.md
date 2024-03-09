@@ -1,3 +1,10 @@
+### 4.2.1
+###### 2024-3-9
+- [new] Add new option to disable auto marking as read. https://github.com/seazon/FeedMe/issues/531
+- [optimize] Update Italian.
+- [fix] Fix subscription issue. https://github.com/seazon/FeedMe/issues/683
+- [fix] Fix crash and performance issue on subscription detail screen.
+
 # 4.2.0
 ###### 2024-3-4
 - [new] Support local RSS.
