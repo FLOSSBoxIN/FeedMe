@@ -1,3 +1,10 @@
+### 4.2.2
+###### 2024年5月11日
+- [修复] 修复文章页面使用对讲工具时播放文章列表内容的问题。
+- [修复] 修复图像块不起作用的问题。 https://github.com/seazon/FeedMe/issues/701
+- [修复] 修复WebView在全屏模式下软键盘可见时不支持调整布局的问题。
+- [修复] 修复登录屏幕中的重复项目。 https://github.com/seazon/FeedMe/issues/688#issuecomment-2020040906
+
 ### 4.2.1
 ###### 2024年3月9日
 - [新增] 添加新选项以禁用阅读后自动标记为已读。 https://github.com/seazon/FeedMe/issues/531

@@ -1,3 +1,10 @@
+### 4.2.2
+###### 2024-5-11
+- [fix] Fix the issue of playing the article list content when using talkback tools on the article page.
+- [fix] Fix image block not work issue. https://github.com/seazon/FeedMe/issues/701
+- [fix] Fix WebView not support adjust layout in full screen mode when soft keyboard is visible .
+- [fix] fix duplicate items in login screen. https://github.com/seazon/FeedMe/issues/688#issuecomment-2020040906
+
 ### 4.2.1
 ###### 2024-3-9
 - [new] Add new option to disable auto marking as read. https://github.com/seazon/FeedMe/issues/531
