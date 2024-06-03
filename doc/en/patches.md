@@ -1,3 +1,13 @@
+### 4.2.3
+###### 2024-6-3
+- [optimize] Support search by author and text. https://github.com/seazon/FeedMe/issues/703
+- [optimize] Feed filter also works for article text. https://github.com/seazon/FeedMe/issues/672
+- [optimize] Upgrade German. @IngoBN
+- [fix] Fix incorrect expansion behavior when clicking on the NAV bar icon. https://github.com/seazon/FeedMe/issues/693
+- [fix] Fix auto mark read not work for button navigation.
+- [fix] Fix video can't play issue. https://github.com/seazon/FeedMe/issues/708
+- [fix] Fix crash issue.
+
 ### 4.2.2
 ###### 2024-5-11
 - [fix] Fix the issue of playing the article list content when using talkback tools on the article page.

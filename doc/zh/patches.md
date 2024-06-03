@@ -1,3 +1,12 @@
+### 4.2.3
+###### 2024年6月3日
+- [优化] 支持按作者和文本搜索。 https://github.com/seazon/FeedMe/issues/703
+- [优化] Feed 过滤器也适用于文章文本。 https://github.com/seazon/FeedMe/issues/672
+- [修复] 修复点击导航栏图标时不正确的展开行为。 https://github.com/seazon/FeedMe/issues/693
+- [修复] 修复自动标记已读不适用于按钮导航的问题。
+- [修复] 修复视频无法播放的问题。 https://github.com/seazon/FeedMe/issues/708
+- [修复] 修复崩溃问题。
+
 ### 4.2.2
 ###### 2024年5月11日
 - [修复] 修复文章页面使用对讲工具时播放文章列表内容的问题。
