@@ -1,5 +1,12 @@
+### 4.2.4
+###### 2024-6-22
+- [优化] Feed设置页面显示feed url。
+- [修复] 修复点击导航栏时崩溃的问题。
+- [修复] 修复导航栏图标不可点击的问题。 https://github.com/seazon/FeedMe/issues/693#issuecomment-2145085680
+- [其他] 升级第3方库。
+
 ### 4.2.3
-###### 2024年6月3日
+###### 2024-6-3
 - [优化] 支持按作者和文本搜索。 https://github.com/seazon/FeedMe/issues/703
 - [优化] Feed 过滤器也适用于文章文本。 https://github.com/seazon/FeedMe/issues/672
 - [修复] 修复点击导航栏图标时不正确的展开行为。 https://github.com/seazon/FeedMe/issues/693
@@ -8,20 +15,20 @@
 - [修复] 修复崩溃问题。
 
 ### 4.2.2
-###### 2024年5月11日
+###### 2024-5-11
 - [修复] 修复文章页面使用对讲工具时播放文章列表内容的问题。
 - [修复] 修复图像块不起作用的问题。 https://github.com/seazon/FeedMe/issues/701
 - [修复] 修复WebView在全屏模式下软键盘可见时不支持调整布局的问题。
 - [修复] 修复登录屏幕中的重复项目。 https://github.com/seazon/FeedMe/issues/688#issuecomment-2020040906
 
 ### 4.2.1
-###### 2024年3月9日
+###### 2024-3-9
 - [新增] 添加新选项以禁用阅读后自动标记为已读。 https://github.com/seazon/FeedMe/issues/531
 - [修复] 修复订阅问题。 https://github.com/seazon/FeedMe/issues/683
 - [修复] 修复订阅详细信息屏幕上的崩溃和性能问题。
 
 # 4.2.0
-###### 2024年3月4日
+###### 2024-3-4
 - [新增] 支持本地RSS。
 - [新增] 添加Miniflux服务。
 - [新增] 部分界面重新设计。

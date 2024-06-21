@@ -1,3 +1,10 @@
+### 4.2.4
+###### 2024-6-22
+- [optimize] Show feed url in feed setting page.
+- [fix] Fix crash while tap on NAV side.
+- [fix] Fix icon non-clickable issue. https://github.com/seazon/FeedMe/issues/693#issuecomment-2145085680
+- [others] Upgrade 3rd party libraries.
+
 ### 4.2.3
 ###### 2024-6-3
 - [optimize] Support search by author and text. https://github.com/seazon/FeedMe/issues/703
