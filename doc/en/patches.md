@@ -1,3 +1,8 @@
+### 4.2.5
+###### 2024-7-4
+- [fix] New option(Settings -> Lab -> disable Enable Browser JavaScript) to disable JavaScript to solve webview blank page issue temporary. https://github.com/seazon/FeedMe/issues/700
+- [fix] Fix crash issue.
+
 ### 4.2.4
 ###### 2024-6-22
 - [optimize] Show feed url in feed setting page.

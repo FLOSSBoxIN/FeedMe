@@ -1,3 +1,8 @@
+### 4.2.5
+###### 2024-7-4
+- [修复] 新选项（设置 -> 实验室 -> 禁用启用浏览器 JavaScript）禁用 JavaScript，暂时解决 webview 空白页问题。https://github.com/seazon/FeedMe/issues/700
+- [修复] 修复崩溃问题。
+
 ### 4.2.4
 ###### 2024-6-22
 - [优化] Feed设置页面显示feed url。
