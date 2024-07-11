@@ -1,3 +1,11 @@
+### 4.2.7
+###### 2024-7-11
+- [optimize] Add `Anti-Accidental Touch` option in `Lab`. https://github.com/seazon/FeedMe/issues/720
+- [fix] Fix not moves to the next feed/category while mark all read. https://github.com/seazon/FeedMe/issues/713
+- [fix] Fix favicons not display issue. https://github.com/seazon/FeedMe/issues/714
+- [fix] Remove Google Web Light mobilizer. https://github.com/seazon/FeedMe/issues/719
+- [fix] Fix some tiny issues.
+
 ### 4.2.6
 ###### 2024-7-7
 - [fix] Reduces the probability of crash. https://github.com/seazon/FeedMe/issues/718

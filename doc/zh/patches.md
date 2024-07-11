@@ -1,3 +1,11 @@
+### 4.2.7
+###### 2024-7-11
+- [优化] 在`实验室`中添加`防误触`选项。 https://github.com/seazon/FeedMe/issues/720
+- [修复] 修复标记全部已读时不会移动到下一个订阅源/类别的问题。 https://github.com/seazon/FeedMe/issues/713
+- [修复] 修复订阅源图标不显示的问题。 https://github.com/seazon/FeedMe/issues/714
+- [修复] 删除 Google Web Light mobilizer。 https://github.com/seazon/FeedMe/issues/719
+- [修复] 修复一些小问题。
+
 ### 4.2.6
 ###### 2024-7-7
 - [修复] 降低了崩溃概率。https://github.com/seazon/FeedMe/issues/718
