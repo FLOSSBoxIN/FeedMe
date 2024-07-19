@@ -6,6 +6,10 @@
   - Fix show first image when click any image issue. https://github.com/seazon/FeedMe/issues/379
 - [fix] Fix RSS URL parse issue.
 
+### 4.2.8
+###### 2024-7-12
+- [fix] Fixed selected category is expanded on Nav side.
+
 ### 4.2.7
 ###### 2024-7-11
 - [optimize] Add `Anti-Accidental Touch` option in `Lab`. https://github.com/seazon/FeedMe/issues/720
