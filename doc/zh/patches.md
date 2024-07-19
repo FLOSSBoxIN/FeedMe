@@ -1,6 +1,7 @@
 ### 4.2.9
 ###### 2024-7-19
 - [优化] 优化图片加载逻辑，解决部分问题：
+  - 注意：此版本会影响已下载图片的显示，请更新版本后清除缓存重新同步，以获得更好的体验。
   - 加快文章页面中图像的显示速度。 https://github.com/seazon/FeedMe/issues/721
   - 修复图像不显示问题。 https://github.com/seazon/FeedMe/issues/686
   - 修复点击任意图片时显示第一张图片的问题。 https://github.com/seazon/FeedMe/issues/379

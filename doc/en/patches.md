@@ -1,6 +1,7 @@
 ### 4.2.9
 ###### 2024-7-19
 - [optimize] Optimize image loading logic to solve some issues:
+  - Note: This version will affect the display of downloaded images. Please clear cache and resynchronize after updating the version for a better experience.
   - Speed up image show in article page. https://github.com/seazon/FeedMe/issues/721 
   - Fix image not show issue. https://github.com/seazon/FeedMe/issues/686 
   - Fix show first image when click any image issue. https://github.com/seazon/FeedMe/issues/379
