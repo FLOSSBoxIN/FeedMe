@@ -1,3 +1,11 @@
+### 4.2.9
+###### 2024-7-19
+- [优化] 优化图片加载逻辑，解决部分问题：
+  - 加快文章页面中图像的显示速度。 https://github.com/seazon/FeedMe/issues/721
+  - 修复图像不显示问题。 https://github.com/seazon/FeedMe/issues/686
+  - 修复点击任意图片时显示第一张图片的问题。 https://github.com/seazon/FeedMe/issues/379
+- [修复] 修复 RSS URL 解析问题。
+
 ### 4.2.8
 ###### 2024-7-12
 - [修复] 修复侧栏选中的类别被展开的问题。
