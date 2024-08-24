@@ -1,3 +1,11 @@
+### 4.2.10
+###### 2024-8-24
+- [优化] 文章详情页增加透明触摸区域可上下滚动，仅作用于电子墨水主题。 https://github.com/seazon/FeedMe/issues/642
+- [优化] 分享模板支持作者和日期。 https://github.com/seazon/FeedMe/issues/732
+- [修复] `Modern`视图中不应显示缩略图开关。 https://github.com/seazon/FeedMe/issues/728
+- [修复] 优化NAV侧栏切换片段时的延迟。
+- [修复] 修复崩溃问题。
+
 ### 4.2.9
 ###### 2024-7-19
 - [优化] 优化图片加载逻辑，解决部分问题：

@@ -1,3 +1,11 @@
+### 4.2.10
+###### 2024-8-24
+- [optimize] Add transparent touch area on article detail page to scroll up and down, only work for E-ink theme. https://github.com/seazon/FeedMe/issues/642
+- [optimize] Share Template support author and date. https://github.com/seazon/FeedMe/issues/732
+- [fix] Thumbnails switch should not display for `Modern` view. https://github.com/seazon/FeedMe/issues/728
+- [fix] Optimize the lag when switching fragment on NAV side bar.
+- [fix] Fix crash issues.
+
 ### 4.2.9
 ###### 2024-7-19
 - [optimize] Optimize image loading logic to solve some issues:
