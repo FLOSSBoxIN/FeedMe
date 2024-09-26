@@ -1,3 +1,12 @@
+# 4.3.0
+###### 2024-9-27
+- [new] New widget: Article list.
+- [optimize] Improve NAV panel on article detail page. https://github.com/seazon/FeedMe/issues/642
+- [fix] Fix images are downloaded on mobile data despite setting Wi-Fi only option. https://github.com/seazon/FeedMe/issues/740
+- [fix] Fix mark all read but still can see the items. https://github.com/seazon/FeedMe/issues/743
+- [fix] Fix some integration app always show in menu. https://github.com/seazon/FeedMe/issues/729
+- [fix] Fix E-Ink theme logic issue.
+
 ### 4.2.10
 ###### 2024-8-24
 - [optimize] Add transparent touch area on article detail page to scroll up and down, only work for E-ink theme. https://github.com/seazon/FeedMe/issues/642

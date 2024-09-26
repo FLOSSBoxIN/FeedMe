@@ -1,3 +1,12 @@
+# 4.3.0
+###### 2024-9-27
+- [新增] 新小部件：文章列表。
+- [优化] 改进文章页的NAV面板。 https://github.com/seazon/FeedMe/issues/642
+- [修复] 修复了尽管设置仅 Wi-Fi 选项，图像仍会通过移动数据下载的问题。 https://github.com/seazon/FeedMe/issues/740
+- [修复] 修复标记为全部已读但仍然可以已读文章的问题。 https://github.com/seazon/FeedMe/issues/743
+- [修复] 修复某些集成的应用菜单始终显示在菜单中的问题。 https://github.com/seazon/FeedMe/issues/729
+- [修复] 修复电子墨水主题逻辑问题。
+
 ### 4.2.10
 ###### 2024-8-24
 - [优化] 文章详情页增加透明触摸区域可上下滚动，仅作用于电子墨水主题。 https://github.com/seazon/FeedMe/issues/642
