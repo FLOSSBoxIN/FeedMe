@@ -1,3 +1,11 @@
+# 4.3.1
+###### 2024-10-20
+- [优化] 文章列表控件数量可配置。https://github.com/seazon/FeedMe/issues/600
+- [优化] 文章页面显示小图片占位符。https://github.com/seazon/FeedMe/issues/740
+- [修复] 修复文章deeplink问题。https://github.com/seazon/FeedMe/issues/755
+- [修复] 修复播放器节目 show note 时间解析错误。
+- [修复] 修复崩溃问题。
+
 # 4.3.0
 ###### 2024-9-27
 - [新增] 新小部件：文章列表。
