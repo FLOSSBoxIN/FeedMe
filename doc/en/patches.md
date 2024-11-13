@@ -1,10 +1,25 @@
-# 4.3.0
-###### 2024-9-27
+### 4.3.2
+###### 2024-11-13
+- [optimize] New option in feed settings to show/hide enclosure images of article. https://github.com/seazon/FeedMe/issues/170
+- [optimize] Support for HTTP basic authentication. https://github.com/seazon/FeedMe/issues/345
+- [fix] Fix crash issues.
+
+### 4.3.1
+###### 2024-10-20
 - [optimize] Article list widget count configurable. https://github.com/seazon/FeedMe/issues/600
 - [optimize] Display small image placeholder in article page. https://github.com/seazon/FeedMe/issues/740
 - [fix] Fix article deeplink issue. https://github.com/seazon/FeedMe/issues/755 
 - [fix] Fix podcast time parse error in player show note.
 - [fix] Fix crash issues.
+
+# 4.3.0
+###### 2024-9-27
+- [new] New widget: Article list.
+- [optimize] Improve NAV panel on article detail page. https://github.com/seazon/FeedMe/issues/642
+- [fix] Fix images are downloaded on mobile data despite setting Wi-Fi only option. https://github.com/seazon/FeedMe/issues/740
+- [fix] Fix mark all read but still can see the items. https://github.com/seazon/FeedMe/issues/743
+- [fix] Fix some integration app always show in menu. https://github.com/seazon/FeedMe/issues/729
+- [fix] Fix E-Ink theme logic issue.
 
 ### 4.2.10
 ###### 2024-8-24

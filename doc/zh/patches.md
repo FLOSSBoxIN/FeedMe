@@ -1,4 +1,10 @@
-# 4.3.1
+### 4.3.2
+###### 2024-11-13
+- [优化] 订阅源设置中的新选项可显示/隐藏文章的附件图像。 https://github.com/seazon/FeedMe/issues/170
+- [优化] 支持HTTP基本认证。 https://github.com/seazon/FeedMe/issues/345
+- [修复] 修复崩溃问题。
+
+### 4.3.1
 ###### 2024-10-20
 - [优化] 文章列表控件数量可配置。https://github.com/seazon/FeedMe/issues/600
 - [优化] 文章页面显示小图片占位符。https://github.com/seazon/FeedMe/issues/740
