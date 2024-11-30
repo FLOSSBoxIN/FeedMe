@@ -1,3 +1,11 @@
+### 4.3.3
+###### 2024-11-30
+- [优化] 支持 Http 代理。https://github.com/seazon/FeedMe/issues/749#issuecomment-2439908378
+- [优化] 改进深色主题中 feed 标题的颜色。https://github.com/seazon/FeedMe/issues/767
+- [优化] 支持在 `设置`->`服务` 中自定义 Listen Note API token（用于在探索页面中`搜索`播客）。
+- [修复] 修复阅读时间不正确的问题。https://github.com/seazon/FeedMe/issues/761 / https://github.com/seazon/FeedMe/issues/764
+- [修复] 修复导航栏计数不更新的问题。https://github.com/seazon/FeedMe/issues/768
+
 ### 4.3.2
 ###### 2024-11-13
 - [优化] 订阅源设置中的新选项可显示/隐藏文章的附件图像。 https://github.com/seazon/FeedMe/issues/170

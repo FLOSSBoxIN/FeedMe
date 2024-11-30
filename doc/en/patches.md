@@ -1,3 +1,11 @@
+### 4.3.3
+###### 2024-11-30
+- [optimize] Support Http proxy. https://github.com/seazon/FeedMe/issues/749#issuecomment-2439908378
+- [optimize] Improve feed title color in dark theme. https://github.com/seazon/FeedMe/issues/767
+- [optimize] Support customize Listen Note API token(for podcast search in `Explore` page) in `Settings` -> `Integrations`.
+- [fix] Fix incorrect reading time issue. https://github.com/seazon/FeedMe/issues/761 / https://github.com/seazon/FeedMe/issues/764
+- [fix] Fix Nav side count not update issue. https://github.com/seazon/FeedMe/issues/768
+
 ### 4.3.2
 ###### 2024-11-13
 - [optimize] New option in feed settings to show/hide enclosure images of article. https://github.com/seazon/FeedMe/issues/170
