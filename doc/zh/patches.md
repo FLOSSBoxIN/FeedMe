@@ -1,4 +1,8 @@
 ### 4.3.3
+###### 2024-12-1
+- [修复] 修复大屏设备上的崩溃问题。https://github.com/seazon/FeedMe/issues/772
+
+### 4.3.3
 ###### 2024-11-30
 - [优化] 支持 Http 代理。https://github.com/seazon/FeedMe/issues/749#issuecomment-2439908378
 - [优化] 改进深色主题中 feed 标题的颜色。https://github.com/seazon/FeedMe/issues/767

@@ -1,4 +1,8 @@
 ### 4.3.3
+###### 2024-12-1
+- [fix] Fix crash issue on large screen. https://github.com/seazon/FeedMe/issues/772
+
+### 4.3.3
 ###### 2024-11-30
 - [optimize] Support Http proxy. https://github.com/seazon/FeedMe/issues/749#issuecomment-2439908378
 - [optimize] Improve feed title color in dark theme. https://github.com/seazon/FeedMe/issues/767
