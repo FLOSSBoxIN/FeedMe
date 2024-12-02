@@ -1,4 +1,8 @@
-### 4.3.3
+### 4.3.5
+###### 2024-12-2
+- [fix] Fix `Settings`, `Explore` and `Subscriptions` isn't working on large screen. https://github.com/seazon/FeedMe/issues/772
+
+### 4.3.4
 ###### 2024-12-1
 - [fix] Fix crash issue on large screen. https://github.com/seazon/FeedMe/issues/772
 
