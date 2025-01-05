@@ -11,7 +11,7 @@ FeedMe是一个RSS阅读器，支持以下RSS服务：
 这是FeedMe的使用文档。
 
 ## 版本:
-- 正式: 4.3.2
+- 正式: 4.3.5
 - 测试: 4.3.5 (加入beta测试: https://play.google.com/apps/testing/com.seazon.feedme)
 
 ## 下载:
@@ -56,9 +56,13 @@ FeedMe是一个RSS阅读器，支持以下RSS服务：
 ## <a href="https://github.com/seazon/FeedMe/blob/master/privacy_and_security.md">隐私及安全说明</a>
 
 ## 更新:
-
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/patches.md">4.x</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/patches_3.x.md">3.x</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/patches_2.x.md">2.x</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/patches_1.x.md">1.x</a>
 - <a href="https://github.com/seazon/FeedMe/blob/master/doc/en/patches_0.x.md">0.x</a>
+
+## 打赏
+- 打赏作者不能获得什么，只是为了鼓励作者继续开发。
+- 如果有条件，推荐通过应用内`设置`-`关于`-`应用内支付`来支持作者，同时获得一些特色功能。
+<img src="https://github.com/seazon/FeedMe/blob/master/doc/zh/imgs/sponsor-wechat.jpg" width="25%" height="25%" />

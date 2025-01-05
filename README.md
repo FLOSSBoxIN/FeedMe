@@ -11,7 +11,7 @@ FeedMe is an reader client application for RSS service:
 This is the documentation of FeedMe.
 
 ## Version:
-- release: 4.3.2
+- release: 4.3.5
 - beta: 4.3.5 (join beta test: https://play.google.com/apps/testing/com.seazon.feedme)
 
 ## Download:
@@ -57,4 +57,10 @@ This is the documentation of FeedMe.
 ## Translation
 FeedMe manager translation at https://crowdin.com/project/feedme, if you like FeedMe and want to localize it, please join the project and leave a comment at https://github.com/seazon/FeedMe/issues/639.
 
+## Sponsor
+- Sponsor does not gain anything, it is just to encourage the author to continue development.
+- If possible, it is recommended to support the author through the in-app `Settings`-`About`-`In-app Billing` and obtain some special features.
+- https://paypal.me/dataegg
+
 ## <a href="https://github.com/seazon/FeedMe/blob/master/doc/zh/README.md">中文</a>
+
