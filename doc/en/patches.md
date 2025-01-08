@@ -1,3 +1,10 @@
+### 4.3.6
+###### 2025-1-8
+- [optimize] New font: Atkinson Hyperlegible. https://github.com/seazon/FeedMe/issues/779
+- [optimize] Play audio in FeedMe while tap audio icon in article page. https://github.com/seazon/FeedMe/issues/653
+- [fix] Fix JSON Parse Error when syncing with Commafeed/Fever API. https://github.com/seazon/FeedMe/issues/695
+- [fix] Fix crash issue.
+
 ### 4.3.5
 ###### 2024-12-2
 - [fix] Fix `Settings`, `Explore` and `Subscriptions` isn't working on large screen. https://github.com/seazon/FeedMe/issues/772

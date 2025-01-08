@@ -1,3 +1,10 @@
+### 4.3.6
+###### 2025-1-8
+- [优化] 新字体：Atkinson Hyperlegible。 https://github.com/seazon/FeedMe/issues/779
+- [优化] 点击文章页面音频图标时在FeedMe中播放音频。 https://github.com/seazon/FeedMe/issues/653
+- [修复] 修复与 Commafeed/Fever API 同步时的 JSON 解析错误。 https://github.com/seazon/FeedMe/issues/695
+- [修复] 修复崩溃问题。
+
 ### 4.3.5
 ###### 2024-12-2
 - [修复] 在大屏设备上点击`设置`、`探索`和`订阅`不能跳转的问题。https://github.com/seazon/FeedMe/issues/772
