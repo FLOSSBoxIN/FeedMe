@@ -1,3 +1,11 @@
+### 4.3.7
+###### 2025-2-4
+- [optimize] Image download and display logic update. https://github.com/seazon/FeedMe/issues/796
+- [optimize] Display favicon in article list. https://github.com/seazon/FeedMe/issues/444
+- [fix] Fix Thumbnails don't show in `Modern` and `Twitter` view. https://github.com/seazon/FeedMe/issues/795 https://github.com/seazon/FeedMe/issues/784
+- [fix] Open image when tapping on image with link. https://github.com/seazon/FeedMe/issues/782 
+- [fix] Fix missing widget rounded corners on some Android 15 devices.
+
 ### 4.3.6
 ###### 2025-1-8
 - [optimize] New font: Atkinson Hyperlegible. https://github.com/seazon/FeedMe/issues/779

@@ -1,3 +1,11 @@
+### 4.3.7
+###### 2025-2-4
+- [优化] 更新图片下载和显示逻辑。https://github.com/seazon/FeedMe/issues/796
+- [优化] 在文章列表中显示 favicon。https://github.com/seazon/FeedMe/issues/444
+- [修复] 修正缩略图在`Modern`和`微博`视图中不显示的问题。https://github.com/seazon/FeedMe/issues/795 https://github.com/seazon/FeedMe/issues/784
+- [修复] 点击带有链接的图片时打开图片。https://github.com/seazon/FeedMe/issues/782
+- [修复] 修复某些 Android 15 设备上缺失小部件圆角的问题。
+
 ### 4.3.6
 ###### 2025-1-8
 - [优化] 新字体：Atkinson Hyperlegible。 https://github.com/seazon/FeedMe/issues/779
