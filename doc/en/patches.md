@@ -1,3 +1,11 @@
+### 4.3.8
+###### 2025-2-22
+- [new] New menu `Play list (title only)` on article list page.
+- [optimize] New option to hide favicon. https://github.com/seazon/FeedMe/issues/444
+- [optimize] Update article list max lines to 3 for widget.
+- [fix] Fix widget image not display issue. https://github.com/seazon/FeedMe/issues/600
+- [fix] Fix crash issues.
+
 ### 4.3.7
 ###### 2025-2-4
 - [optimize] Image download and display logic update. https://github.com/seazon/FeedMe/issues/796

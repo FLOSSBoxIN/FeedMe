@@ -1,3 +1,11 @@
+### 4.3.8
+###### 2025-2-22
+-  [新] 文章列表页面新增菜单`Play list (title only)`。
+-  [优化] 新增隐藏Favicon的选项。https://github.com/seazon/feedme/issues/444
+-  [优化] 文章列表小部件的标题最大行数增加至3行。
+-  [修复] 修复小部件图像不显示问题。https://github.com/seazon/feedme/issues/600
+-  [修复] 修复崩溃问题。
+
 ### 4.3.7
 ###### 2025-2-4
 - [优化] 更新图片下载和显示逻辑。https://github.com/seazon/FeedMe/issues/796
