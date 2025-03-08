@@ -1,3 +1,9 @@
+### 4.3.9
+###### 2025-3-8
+- [optimize] Update Chinese and German. https://github.com/seazon/FeedMe/issues/639#issuecomment-2609741358
+- [fix] Fix sync never finishing issue. https://github.com/seazon/FeedMe/issues/778
+- [fix] Fix crash issue. https://github.com/seazon/FeedMe/issues/809
+
 ### 4.3.8
 ###### 2025-2-22
 - [new] New menu `Play list (title only)` on article list page.
